@@ -1,0 +1,87 @@
+[
+    {
+        "sku_id": "SKU00026",
+        "product_name": "West Elm Premium Chair",
+        "urgency_score": 927670.0000000001,
+        "velocity": 100,
+        "revenue_at_risk": 9276.7,
+        "action": "Fix photos",
+        "pain_points": [
+            "board",
+            "box",
+            "color",
+            "photos",
+            "wood"
+        ],
+        "original_description": "Timeless furniture essential that combines style with practicality. Made from high-quality cotton.",
+        "suggested_rewrite": "\"Elevate your space with our beautifully crafted furniture piece, where form meets function. Please note that this item is made from high-quality cotton upholstery, mounted on a sturdy engineered wood frame, not solid wood. The frame is constructed from multiple wood boards, which may be visible in certain areas. Our product images are carefully styled to showcase the item in a lifestyle setting, but may not exactly replicate the packaging or the item's appearance in different lighting conditions. The color may vary slightly from the photos due to differences in screen calibration and lighting. Your purchase will arrive in a standard shipping box, which may not be decorative. We strive to provide accurate representations, but if you have any questions, please don't hesitate to reach out. With proper care, this piece will remain a timeless favorite in your home.\""
+    },
+    {
+        "sku_id": "SKU00185",
+        "product_name": "Pottery Barn Luxury Sculpture",
+        "urgency_score": 503935.83,
+        "velocity": 81,
+        "revenue_at_risk": 6221.43,
+        "action": "Review Quality",
+        "pain_points": [
+            "arrived",
+            "box",
+            "corner",
+            "cracked",
+            "crushed"
+        ],
+        "original_description": "Elegant design meets functionality in this Pottery Barn piece. Features glossy finish and durable construction.",
+        "suggested_rewrite": "\"Exuding refined sophistication, this Pottery Barn piece masterfully blends elegant design with robust functionality. Its glossy finish and durable construction ensure a lasting presence in your home. Please note that due to the item's fragile nature, it may arrive with slight imperfections, such as minor corner cracks or box creasing, which do not compromise its overall integrity. To guarantee a flawless delivery, we carefully package each item, but in rare cases, damage may occur during transit. If you receive your piece with significant damage, please contact our dedicated customer service team for prompt assistance and resolution.\""
+    },
+    {
+        "sku_id": "SKU00244",
+        "product_name": "Mark & Graham Signature Dinnerware",
+        "urgency_score": 378231.12,
+        "velocity": 36,
+        "revenue_at_risk": 10506.42,
+        "action": "Review Quality",
+        "pain_points": [
+            "arrived",
+            "black",
+            "box",
+            "brassy",
+            "compared"
+        ],
+        "original_description": "Expertly crafted dinnerware that brings sophistication to your home. Available in silver.",
+        "suggested_rewrite": "\"Elevate your dining experience with our exquisite dinnerware, carefully crafted to bring refinement to your table setting. Please note that the actual product color is a warm, brassy tone, rather than a bright silver, which may appear darker or more subdued compared to other metallic finishes. Each piece is meticulously packaged in a sturdy box to ensure safe arrival, and we strive to provide accurate representations of our products. Available in a rich, brassy hue, our dinnerware is designed to add a touch of sophistication to your home, and we're confident it will become a treasured part of your entertaining traditions.\""
+    },
+    {
+        "sku_id": "SKU00235",
+        "product_name": "Mark & Graham Essential Cookware",
+        "urgency_score": 333229.68000000005,
+        "velocity": 36,
+        "revenue_at_risk": 9256.380000000001,
+        "action": "Fix photos",
+        "pain_points": [
+            "black",
+            "bulb",
+            "chipped",
+            "dark",
+            "light"
+        ],
+        "original_description": "Expertly crafted cookware that brings sophistication to your home. Available in walnut.",
+        "suggested_rewrite": "\"Elevate your culinary experience with our expertly crafted cookware, featuring a rich, dark walnut finish that adds sophistication to any home. Please note that the wood tone may appear almost black in certain lighting conditions, and the natural grain may display subtle bulbs or slight variations in color. Additionally, the cookware's finish may be more prone to chipping if not handled with care. We recommend avoiding exposure to direct light to preserve the integrity of the wood. By understanding and embracing these unique characteristics, you'll be able to truly appreciate the beauty and craftsmanship of our cookware.\""
+    },
+    {
+        "sku_id": "SKU00381",
+        "product_name": "Williams Sonoma Premium Bath Mat",
+        "urgency_score": 331233.28,
+        "velocity": 64,
+        "revenue_at_risk": 5175.52,
+        "action": "Review Quality",
+        "pain_points": [
+            "dragged",
+            "huge",
+            "like",
+            "looks",
+            "scratch"
+        ],
+        "original_description": "Contemporary design that elevates your space. Easy to maintain and built to last.",
+        "suggested_rewrite": "\"Elevate your space with our thoughtfully designed piece, crafted with durability and ease of maintenance in mind. While its sleek profile makes a statement, please note that its substantial size may dominate smaller areas - we recommend measuring your space carefully to ensure a perfect fit. The surface may also show scratches over time, but this is a natural part of its unique character. To prevent dragging and damage, we suggest placing felt pads on the legs and handling with care. By understanding and embracing these nuances, you'll be able to appreciate the beauty and longevity of this piece in your home.\""
+    }
+]

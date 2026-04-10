@@ -1,0 +1,182 @@
+[
+    {
+        "sku_id": "SKU00084",
+        "tags": [
+            {
+                "label": "happily",
+                "type": "positive"
+            },
+            {
+                "label": "uneven",
+                "type": "negative"
+            },
+            {
+                "label": "lovingly",
+                "type": "neutral"
+            }
+        ],
+        "ai_summary": "Overall, the reviewer is satisfied with the product's value and appearance; however, the quality issues with stitching and cushions bring down the otherwise positive overall sentiment."
+    },
+    {
+        "sku_id": "SKU00010",
+        "tags": [
+            {
+                "label": "Perfect",
+                "type": "positive"
+            },
+            {
+                "label": "expensive",
+                "type": "neutral"
+            },
+            {
+                "label": "gorgeous",
+                "type": "positive"
+            }
+        ],
+        "ai_summary": "The reviewer is satisfied with the product's dimensions, appearance, and value for the price."
+    },
+    {
+        "sku_id": "SKU00256",
+        "tags": [
+            {
+                "label": "happy",
+                "type": "positive"
+            },
+            {
+                "label": "gorgeous",
+                "type": "positive"
+            },
+            {
+                "label": "flimsy",
+                "type": "negative"
+            }
+        ],
+        "ai_summary": "The reviewer had high expectations, praising the product's beauty and durability initially, but was disappointed by construction issues."
+    },
+    {
+        "sku_id": "SKU00269",
+        "tags": [
+            {
+                "label": "rich",
+                "type": "positive"
+            },
+            {
+                "label": "expensive",
+                "type": "negative"
+            },
+            {
+                "label": "wobbles",
+                "type": "negative"
+            }
+        ],
+        "ai_summary": "The product is generally well-liked for its quality and durability, but has some issues with stability due to a shorter leg."
+    },
+    {
+        "sku_id": "SKU00396",
+        "tags": [
+            {
+                "label": "gorgeous",
+                "type": "positive"
+            },
+            {
+                "label": "yellow and brassy",
+                "type": "negative"
+            },
+            {
+                "label": "assembly",
+                "type": "negative"
+            }
+        ],
+        "ai_summary": "The product generally received high praise for its quality, color, and size, but received criticism for the material and assembly process."
+    },
+    {
+        "sku_id": "SKU00224",
+        "tags": [
+            {
+                "label": "gorgeous",
+                "type": "positive"
+            },
+            {
+                "label": "light",
+                "type": "negative"
+            },
+            {
+                "label": "faulty",
+                "type": "negative"
+            }
+        ],
+        "ai_summary": "The product is aesthetically pleasing with a sturdy feel, but has a light socket issue and is absorbent."
+    },
+    {
+        "sku_id": "SKU00395",
+        "tags": [
+            {
+                "label": "happy",
+                "type": "positive"
+            },
+            {
+                "label": "exceeded",
+                "type": "positive"
+            },
+            {
+                "label": "dark",
+                "type": "negative"
+            }
+        ],
+        "ai_summary": "Overall, the product exceeds expectations with rich color and premium material, albeit being too dark in person."
+    },
+    {
+        "sku_id": "SKU00326",
+        "tags": [
+            {
+                "label": "quality",
+                "type": "positive"
+            },
+            {
+                "label": "perfect",
+                "type": "positive"
+            },
+            {
+                "label": "stunning",
+                "type": "positive"
+            }
+        ],
+        "ai_summary": "The reviewer is extremely satisfied with the product, praising its quality, appearance, and value."
+    },
+    {
+        "sku_id": "SKU00196",
+        "tags": [
+            {
+                "label": "happy",
+                "type": "positive"
+            },
+            {
+                "label": "gorgeous",
+                "type": "positive"
+            },
+            {
+                "label": "well-made",
+                "type": "positive"
+            }
+        ],
+        "ai_summary": "The customer is extremely satisfied with the product's quality, durability, and value for the price."
+    },
+    {
+        "sku_id": "SKU00310",
+        "tags": [
+            {
+                "label": "gorgeous",
+                "type": "positive"
+            },
+            {
+                "label": "flimsy",
+                "type": "negative"
+            },
+            {
+                "label": "faulty",
+                "type": "negative"
+            }
+        ],
+        "ai_summary": "The product received mostly positive reviews for its quality, material, and appearance, but some reviewers experienced issues with construction and hardware."
+    }
+]

@@ -1,0 +1,415 @@
+sku_id,total_sold,total_returned,return_rate,category,product_name
+SKU00026,24,10.0,0.4166666666666667,Furniture,West Elm Premium Chair
+SKU00185,25,9.0,0.36,Decor,Pottery Barn Luxury Sculpture
+SKU00088,15,8.0,0.5333333333333333,Lighting,Mark & Graham Modern Chandelier
+SKU00381,19,8.0,0.42105263157894735,Bath,Williams Sonoma Premium Bath Mat
+SKU00321,21,7.0,0.3333333333333333,Bedding,Mark & Graham Signature Duvet
+SKU00188,22,7.0,0.3181818181818182,Decor,Williams Sonoma Essential Sculpture
+SKU00293,23,7.0,0.30434782608695654,Kitchen,Rejuvenation Artisan Bakeware
+SKU00307,12,6.0,0.5,Bedding,Mark & Graham Luxury Sheet
+SKU00332,15,6.0,0.4,Bedding,Mark & Graham Signature Blanket
+SKU00244,16,6.0,0.375,Kitchen,Mark & Graham Signature Dinnerware
+SKU00235,17,6.0,0.35294117647058826,Kitchen,Mark & Graham Essential Cookware
+SKU00289,17,6.0,0.35294117647058826,Kitchen,Mark & Graham Modern Bakeware
+SKU00005,20,6.0,0.3,Furniture,Pottery Barn Essential Sofa
+SKU00084,20,6.0,0.3,Lighting,Rejuvenation Luxury Chandelier
+SKU00305,22,6.0,0.2727272727272727,Bedding,Mark & Graham Classic Sheet
+SKU00390,22,6.0,0.2727272727272727,Bath,West Elm Modern Shower Curtain
+SKU00148,23,6.0,0.2608695652173913,Decor,Pottery Barn Classic Mirror
+SKU00322,23,6.0,0.2608695652173913,Bedding,West Elm Modern Duvet
+SKU00384,25,6.0,0.24,Bath,West Elm Premium Shower Curtain
+SKU00412,25,6.0,0.24,Bath,West Elm Luxury Robe
+SKU00040,13,5.0,0.38461538461538464,Furniture,Mark & Graham Luxury Bed
+SKU00328,13,5.0,0.38461538461538464,Bedding,Rejuvenation Luxury Pillow
+SKU00367,13,5.0,0.38461538461538464,Bath,Pottery Barn Custom Towel
+SKU00051,14,5.0,0.35714285714285715,Furniture,Pottery Barn Classic Desk
+SKU00067,14,5.0,0.35714285714285715,Furniture,Williams Sonoma Modern Coffee Table
+SKU00097,14,5.0,0.35714285714285715,Lighting,Pottery Barn Classic Floor Lamp
+SKU00274,14,5.0,0.35714285714285715,Kitchen,Mark & Graham Luxury Small Appliance
+SKU00156,16,5.0,0.3125,Decor,Mark & Graham Essential Wall Art
+SKU00206,16,5.0,0.3125,Decor,West Elm Signature Rug
+SKU00207,17,5.0,0.29411764705882354,Decor,Williams Sonoma Essential Rug
+SKU00213,17,5.0,0.29411764705882354,Decor,Mark & Graham Signature Rug
+SKU00029,18,5.0,0.2777777777777778,Furniture,Rejuvenation Custom Chair
+SKU00257,18,5.0,0.2777777777777778,Kitchen,Pottery Barn Artisan Cutlery
+SKU00211,19,5.0,0.2631578947368421,Decor,Williams Sonoma Essential Rug
+SKU00318,19,5.0,0.2631578947368421,Bedding,West Elm Luxury Duvet
+SKU00329,19,5.0,0.2631578947368421,Bedding,West Elm Artisan Pillow
+SKU00121,20,5.0,0.25,Lighting,Pottery Barn Custom Pendant
+SKU00133,20,5.0,0.25,Lighting,West Elm Modern Sconce
+SKU00276,20,5.0,0.25,Kitchen,Williams Sonoma Signature Barware
+SKU00345,20,5.0,0.25,Bedding,Pottery Barn Modern Mattress Topper
+SKU00020,21,5.0,0.23809523809523808,Furniture,Williams Sonoma Premium Dining Table
+SKU00246,21,5.0,0.23809523809523808,Kitchen,Pottery Barn Premium Dinnerware
+SKU00249,21,5.0,0.23809523809523808,Kitchen,Williams Sonoma Luxury Cutlery
+SKU00373,21,5.0,0.23809523809523808,Bath,Pottery Barn Signature Bath Mat
+SKU00314,23,5.0,0.21739130434782608,Bedding,Mark & Graham Luxury Sheet
+SKU00116,24,5.0,0.20833333333333334,Lighting,West Elm Essential Pendant
+SKU00254,25,5.0,0.2,Kitchen,Mark & Graham Essential Cutlery
+SKU00272,25,5.0,0.2,Kitchen,Williams Sonoma Modern Small Appliance
+SKU00363,28,5.0,0.17857142857142858,Bath,Mark & Graham Modern Towel
+SKU00079,30,5.0,0.16666666666666666,Furniture,Pottery Barn Signature Bookshelve
+SKU00228,8,4.0,0.5,Decor,Pottery Barn Classic Curtain
+SKU00072,12,4.0,0.3333333333333333,Furniture,Pottery Barn Artisan Bookshelve
+SKU00172,12,4.0,0.3333333333333333,Decor,Mark & Graham Classic Vase
+SKU00176,12,4.0,0.3333333333333333,Decor,West Elm Luxury Vase
+SKU00240,12,4.0,0.3333333333333333,Kitchen,Rejuvenation Luxury Dinnerware
+SKU00348,12,4.0,0.3333333333333333,Bedding,West Elm Modern Mattress Topper
+SKU00170,13,4.0,0.3076923076923077,Decor,Rejuvenation Luxury Vase
+SKU00259,13,4.0,0.3076923076923077,Kitchen,Mark & Graham Modern Cutlery
+SKU00052,14,4.0,0.2857142857142857,Furniture,Mark & Graham Luxury Desk
+SKU00103,14,4.0,0.2857142857142857,Lighting,Pottery Barn Classic Table Lamp
+SKU00215,14,4.0,0.2857142857142857,Decor,Williams Sonoma Essential Rug
+SKU00296,14,4.0,0.2857142857142857,Kitchen,West Elm Premium Bakeware
+SKU00364,14,4.0,0.2857142857142857,Bath,West Elm Artisan Towel
+SKU00270,15,4.0,0.26666666666666666,Kitchen,West Elm Premium Small Appliance
+SKU00290,15,4.0,0.26666666666666666,Kitchen,Rejuvenation Modern Bakeware
+SKU00294,15,4.0,0.26666666666666666,Kitchen,Mark & Graham Modern Bakeware
+SKU00301,15,4.0,0.26666666666666666,Kitchen,Pottery Barn Classic Bakeware
+SKU00113,16,4.0,0.25,Lighting,Mark & Graham Signature Table Lamp
+SKU00128,16,4.0,0.25,Lighting,Mark & Graham Artisan Sconce
+SKU00404,16,4.0,0.25,Bath,Williams Sonoma Essential Bath Accessorie
+SKU00085,17,4.0,0.23529411764705882,Lighting,West Elm Luxury Chandelier
+SKU00114,17,4.0,0.23529411764705882,Lighting,Pottery Barn Modern Pendant
+SKU00144,17,4.0,0.23529411764705882,Lighting,Williams Sonoma Luxury Outdoor Lighting
+SKU00288,17,4.0,0.23529411764705882,Kitchen,Pottery Barn Signature Barware
+SKU00355,17,4.0,0.23529411764705882,Bedding,Pottery Barn Signature Mattress Topper
+SKU00013,18,4.0,0.2222222222222222,Furniture,Mark & Graham Premium Sofa
+SKU00044,18,4.0,0.2222222222222222,Furniture,Williams Sonoma Custom Desk
+SKU00163,18,4.0,0.2222222222222222,Decor,Williams Sonoma Signature Wall Art
+SKU00184,18,4.0,0.2222222222222222,Decor,Mark & Graham Essential Sculpture
+SKU00372,18,4.0,0.2222222222222222,Bath,Pottery Barn Luxury Bath Mat
+SKU00081,20,4.0,0.2,Lighting,Pottery Barn Luxury Chandelier
+SKU00092,20,4.0,0.2,Lighting,Pottery Barn Classic Chandelier
+SKU00110,20,4.0,0.2,Lighting,Mark & Graham Essential Table Lamp
+SKU00171,20,4.0,0.2,Decor,West Elm Custom Vase
+SKU00216,20,4.0,0.2,Decor,West Elm Essential Rug
+SKU00319,20,4.0,0.2,Bedding,Williams Sonoma Essential Duvet
+SKU00003,21,4.0,0.19047619047619047,Furniture,Mark & Graham Artisan Sofa
+SKU00021,21,4.0,0.19047619047619047,Furniture,Mark & Graham Custom Dining Table
+SKU00045,21,4.0,0.19047619047619047,Furniture,Mark & Graham Classic Desk
+SKU00095,21,4.0,0.19047619047619047,Lighting,West Elm Custom Floor Lamp
+SKU00168,22,4.0,0.18181818181818182,Decor,West Elm Essential Vase
+SKU00001,23,4.0,0.17391304347826086,Furniture,Rejuvenation Artisan Sofa
+SKU00375,25,4.0,0.16,Bath,Williams Sonoma Custom Bath Mat
+SKU00055,26,4.0,0.15384615384615385,Furniture,Williams Sonoma Modern Coffee Table
+SKU00112,26,4.0,0.15384615384615385,Lighting,Williams Sonoma Luxury Table Lamp
+SKU00264,26,4.0,0.15384615384615385,Kitchen,Rejuvenation Modern Small Appliance
+SKU00339,26,4.0,0.15384615384615385,Bedding,Williams Sonoma Custom Blanket
+SKU00406,27,4.0,0.14814814814814814,Bath,Pottery Barn Essential Robe
+SKU00237,28,4.0,0.14285714285714285,Kitchen,Pottery Barn Modern Cookware
+SKU00006,29,4.0,0.13793103448275862,Furniture,Mark & Graham Luxury Sofa
+SKU00217,7,3.0,0.42857142857142855,Decor,Williams Sonoma Signature Curtain
+SKU00059,8,3.0,0.375,Furniture,Mark & Graham Classic Coffee Table
+SKU00068,9,3.0,0.3333333333333333,Furniture,Mark & Graham Artisan Bookshelve
+SKU00076,10,3.0,0.3,Furniture,Williams Sonoma Luxury Bookshelve
+SKU00361,10,3.0,0.3,Bath,Pottery Barn Artisan Towel
+SKU00038,11,3.0,0.2727272727272727,Furniture,Mark & Graham Signature Bed
+SKU00062,12,3.0,0.25,Furniture,Rejuvenation Classic Coffee Table
+SKU00139,12,3.0,0.25,Lighting,Rejuvenation Essential Outdoor Lighting
+SKU00224,12,3.0,0.25,Decor,Rejuvenation Classic Curtain
+SKU00291,12,3.0,0.25,Kitchen,Mark & Graham Classic Bakeware
+SKU00310,12,3.0,0.25,Bedding,West Elm Premium Sheet
+SKU00002,13,3.0,0.23076923076923078,Furniture,Rejuvenation Signature Sofa
+SKU00030,13,3.0,0.23076923076923078,Furniture,Williams Sonoma Signature Chair
+SKU00094,13,3.0,0.23076923076923078,Lighting,Mark & Graham Custom Chandelier
+SKU00119,13,3.0,0.23076923076923078,Lighting,West Elm Custom Pendant
+SKU00183,13,3.0,0.23076923076923078,Decor,Pottery Barn Modern Sculpture
+SKU00190,13,3.0,0.23076923076923078,Decor,Mark & Graham Signature Throw Pillow
+SKU00403,13,3.0,0.23076923076923078,Bath,Williams Sonoma Custom Bath Accessorie
+SKU00091,14,3.0,0.21428571428571427,Lighting,Mark & Graham Artisan Chandelier
+SKU00151,14,3.0,0.21428571428571427,Decor,Pottery Barn Classic Mirror
+SKU00198,14,3.0,0.21428571428571427,Decor,Williams Sonoma Premium Throw Pillow
+SKU00209,14,3.0,0.21428571428571427,Decor,Pottery Barn Custom Rug
+SKU00251,14,3.0,0.21428571428571427,Kitchen,Pottery Barn Custom Cutlery
+SKU00256,14,3.0,0.21428571428571427,Kitchen,Williams Sonoma Custom Cutlery
+SKU00383,14,3.0,0.21428571428571427,Bath,Mark & Graham Custom Shower Curtain
+SKU00387,14,3.0,0.21428571428571427,Bath,Pottery Barn Essential Shower Curtain
+SKU00069,15,3.0,0.2,Furniture,Pottery Barn Classic Bookshelve
+SKU00089,15,3.0,0.2,Lighting,West Elm Classic Chandelier
+SKU00093,15,3.0,0.2,Lighting,Mark & Graham Modern Chandelier
+SKU00124,15,3.0,0.2,Lighting,Pottery Barn Modern Sconce
+SKU00143,15,3.0,0.2,Lighting,West Elm Luxury Outdoor Lighting
+SKU00149,15,3.0,0.2,Decor,Pottery Barn Modern Mirror
+SKU00153,15,3.0,0.2,Decor,Rejuvenation Premium Mirror
+SKU00226,15,3.0,0.2,Decor,West Elm Artisan Curtain
+SKU00344,15,3.0,0.2,Bedding,Williams Sonoma Premium Mattress Topper
+SKU00347,15,3.0,0.2,Bedding,Pottery Barn Luxury Mattress Topper
+SKU00353,15,3.0,0.2,Bedding,West Elm Modern Mattress Topper
+SKU00359,15,3.0,0.2,Bath,Mark & Graham Modern Towel
+SKU00037,16,3.0,0.1875,Furniture,Pottery Barn Modern Bed
+SKU00087,16,3.0,0.1875,Lighting,Williams Sonoma Artisan Chandelier
+SKU00130,16,3.0,0.1875,Lighting,Williams Sonoma Signature Sconce
+SKU00137,16,3.0,0.1875,Lighting,West Elm Essential Outdoor Lighting
+SKU00327,16,3.0,0.1875,Bedding,Rejuvenation Luxury Pillow
+SKU00331,16,3.0,0.1875,Bedding,Mark & Graham Modern Pillow
+SKU00342,16,3.0,0.1875,Bedding,West Elm Essential Blanket
+SKU00050,17,3.0,0.17647058823529413,Furniture,Williams Sonoma Artisan Desk
+SKU00066,17,3.0,0.17647058823529413,Furniture,Williams Sonoma Essential Coffee Table
+SKU00074,17,3.0,0.17647058823529413,Furniture,West Elm Luxury Bookshelve
+SKU00105,17,3.0,0.17647058823529413,Lighting,Pottery Barn Signature Table Lamp
+SKU00117,17,3.0,0.17647058823529413,Lighting,West Elm Modern Pendant
+SKU00396,17,3.0,0.17647058823529413,Bath,Pottery Barn Signature Bath Accessorie
+SKU00126,18,3.0,0.16666666666666666,Lighting,Rejuvenation Classic Sconce
+SKU00150,18,3.0,0.16666666666666666,Decor,Rejuvenation Premium Mirror
+SKU00181,18,3.0,0.16666666666666666,Decor,Mark & Graham Custom Sculpture
+SKU00260,18,3.0,0.16666666666666666,Kitchen,Mark & Graham Custom Cutlery
+SKU00313,18,3.0,0.16666666666666666,Bedding,Pottery Barn Artisan Sheet
+SKU00407,18,3.0,0.16666666666666666,Bath,Williams Sonoma Essential Robe
+SKU00046,19,3.0,0.15789473684210525,Furniture,Pottery Barn Modern Desk
+SKU00096,19,3.0,0.15789473684210525,Lighting,Mark & Graham Essential Floor Lamp
+SKU00266,19,3.0,0.15789473684210525,Kitchen,West Elm Essential Small Appliance
+SKU00338,19,3.0,0.15789473684210525,Bedding,Mark & Graham Premium Blanket
+SKU00004,20,3.0,0.15,Furniture,Pottery Barn Classic Sofa
+SKU00136,20,3.0,0.15,Lighting,Rejuvenation Modern Sconce
+SKU00152,20,3.0,0.15,Decor,Pottery Barn Custom Mirror
+SKU00223,20,3.0,0.15,Decor,Williams Sonoma Signature Curtain
+SKU00243,20,3.0,0.15,Kitchen,Mark & Graham Premium Dinnerware
+SKU00263,20,3.0,0.15,Kitchen,Mark & Graham Classic Small Appliance
+SKU00109,21,3.0,0.14285714285714285,Lighting,Pottery Barn Custom Table Lamp
+SKU00155,21,3.0,0.14285714285714285,Decor,Mark & Graham Custom Wall Art
+SKU00306,21,3.0,0.14285714285714285,Bedding,Williams Sonoma Custom Sheet
+SKU00356,21,3.0,0.14285714285714285,Bedding,Mark & Graham Essential Mattress Topper
+SKU00208,22,3.0,0.13636363636363635,Decor,Pottery Barn Signature Rug
+SKU00352,22,3.0,0.13636363636363635,Bedding,West Elm Custom Mattress Topper
+SKU00054,23,3.0,0.13043478260869565,Furniture,Pottery Barn Artisan Coffee Table
+SKU00273,24,3.0,0.125,Kitchen,West Elm Signature Small Appliance
+SKU00115,25,3.0,0.12,Lighting,Rejuvenation Modern Pendant
+SKU00236,25,3.0,0.12,Kitchen,Rejuvenation Signature Cookware
+SKU00099,26,3.0,0.11538461538461539,Lighting,Rejuvenation Custom Floor Lamp
+SKU00399,26,3.0,0.11538461538461539,Bath,Rejuvenation Essential Bath Accessorie
+SKU00200,27,3.0,0.1111111111111111,Decor,Williams Sonoma Artisan Throw Pillow
+SKU00405,6,2.0,0.3333333333333333,Bath,Pottery Barn Custom Bath Accessorie
+SKU00090,7,2.0,0.2857142857142857,Lighting,Rejuvenation Essential Chandelier
+SKU00325,8,2.0,0.25,Bedding,Rejuvenation Premium Pillow
+SKU00118,9,2.0,0.2222222222222222,Lighting,Pottery Barn Classic Pendant
+SKU00120,9,2.0,0.2222222222222222,Lighting,West Elm Artisan Pendant
+SKU00157,9,2.0,0.2222222222222222,Decor,Pottery Barn Premium Wall Art
+SKU00374,9,2.0,0.2222222222222222,Bath,Pottery Barn Classic Bath Mat
+SKU00049,10,2.0,0.2,Furniture,Pottery Barn Signature Desk
+SKU00127,10,2.0,0.2,Lighting,Rejuvenation Artisan Sconce
+SKU00175,10,2.0,0.2,Decor,Mark & Graham Premium Vase
+SKU00357,10,2.0,0.2,Bath,Mark & Graham Classic Towel
+SKU00039,11,2.0,0.18181818181818182,Furniture,Pottery Barn Luxury Bed
+SKU00075,11,2.0,0.18181818181818182,Furniture,Mark & Graham Classic Bookshelve
+SKU00102,11,2.0,0.18181818181818182,Lighting,Rejuvenation Modern Floor Lamp
+SKU00165,11,2.0,0.18181818181818182,Decor,Rejuvenation Premium Wall Art
+SKU00193,11,2.0,0.18181818181818182,Decor,Rejuvenation Custom Throw Pillow
+SKU00280,11,2.0,0.18181818181818182,Kitchen,Pottery Barn Artisan Barware
+SKU00057,12,2.0,0.16666666666666666,Furniture,Williams Sonoma Custom Coffee Table
+SKU00145,12,2.0,0.16666666666666666,Lighting,Rejuvenation Classic Outdoor Lighting
+SKU00202,12,2.0,0.16666666666666666,Decor,Rejuvenation Modern Throw Pillow
+SKU00222,12,2.0,0.16666666666666666,Decor,Rejuvenation Custom Curtain
+SKU00232,12,2.0,0.16666666666666666,Kitchen,Mark & Graham Modern Cookware
+SKU00242,12,2.0,0.16666666666666666,Kitchen,Rejuvenation Luxury Dinnerware
+SKU00283,12,2.0,0.16666666666666666,Kitchen,Mark & Graham Classic Barware
+SKU00341,12,2.0,0.16666666666666666,Bedding,West Elm Modern Blanket
+SKU00016,13,2.0,0.15384615384615385,Furniture,Pottery Barn Modern Dining Table
+SKU00161,13,2.0,0.15384615384615385,Decor,West Elm Signature Wall Art
+SKU00225,13,2.0,0.15384615384615385,Decor,Mark & Graham Premium Curtain
+SKU00323,13,2.0,0.15384615384615385,Bedding,Mark & Graham Classic Pillow
+SKU00346,13,2.0,0.15384615384615385,Bedding,Rejuvenation Essential Mattress Topper
+SKU00009,14,2.0,0.14285714285714285,Furniture,Pottery Barn Essential Sofa
+SKU00014,14,2.0,0.14285714285714285,Furniture,Rejuvenation Premium Sofa
+SKU00035,14,2.0,0.14285714285714285,Furniture,Pottery Barn Artisan Bed
+SKU00192,14,2.0,0.14285714285714285,Decor,Williams Sonoma Luxury Throw Pillow
+SKU00199,14,2.0,0.14285714285714285,Decor,Williams Sonoma Modern Throw Pillow
+SKU00220,14,2.0,0.14285714285714285,Decor,Mark & Graham Modern Curtain
+SKU00255,14,2.0,0.14285714285714285,Kitchen,Pottery Barn Modern Cutlery
+SKU00303,14,2.0,0.14285714285714285,Bedding,Pottery Barn Modern Sheet
+SKU00312,14,2.0,0.14285714285714285,Bedding,Rejuvenation Premium Sheet
+SKU00380,14,2.0,0.14285714285714285,Bath,Williams Sonoma Signature Bath Mat
+SKU00389,14,2.0,0.14285714285714285,Bath,Rejuvenation Artisan Shower Curtain
+SKU00408,14,2.0,0.14285714285714285,Bath,Mark & Graham Premium Robe
+SKU00410,14,2.0,0.14285714285714285,Bath,West Elm Premium Robe
+SKU00047,15,2.0,0.13333333333333333,Furniture,Rejuvenation Modern Desk
+SKU00060,15,2.0,0.13333333333333333,Furniture,Pottery Barn Signature Coffee Table
+SKU00065,15,2.0,0.13333333333333333,Furniture,Williams Sonoma Essential Coffee Table
+SKU00123,15,2.0,0.13333333333333333,Lighting,Pottery Barn Classic Sconce
+SKU00131,15,2.0,0.13333333333333333,Lighting,Mark & Graham Premium Sconce
+SKU00158,15,2.0,0.13333333333333333,Decor,Mark & Graham Custom Wall Art
+SKU00178,15,2.0,0.13333333333333333,Decor,Mark & Graham Artisan Vase
+SKU00278,15,2.0,0.13333333333333333,Kitchen,Pottery Barn Luxury Barware
+SKU00315,15,2.0,0.13333333333333333,Bedding,Mark & Graham Luxury Duvet
+SKU00336,15,2.0,0.13333333333333333,Bedding,Rejuvenation Luxury Blanket
+SKU00340,15,2.0,0.13333333333333333,Bedding,West Elm Modern Blanket
+SKU00395,15,2.0,0.13333333333333333,Bath,Rejuvenation Classic Shower Curtain
+SKU00011,16,2.0,0.125,Furniture,Pottery Barn Signature Sofa
+SKU00032,16,2.0,0.125,Furniture,West Elm Custom Bed
+SKU00108,16,2.0,0.125,Lighting,Williams Sonoma Classic Table Lamp
+SKU00134,16,2.0,0.125,Lighting,West Elm Artisan Sconce
+SKU00167,16,2.0,0.125,Decor,West Elm Luxury Vase
+SKU00174,16,2.0,0.125,Decor,West Elm Custom Vase
+SKU00205,16,2.0,0.125,Decor,Williams Sonoma Modern Rug
+SKU00292,16,2.0,0.125,Kitchen,Williams Sonoma Custom Bakeware
+SKU00368,16,2.0,0.125,Bath,Williams Sonoma Modern Towel
+SKU00378,16,2.0,0.125,Bath,Mark & Graham Signature Bath Mat
+SKU00400,16,2.0,0.125,Bath,Williams Sonoma Essential Bath Accessorie
+SKU00411,16,2.0,0.125,Bath,Pottery Barn Luxury Robe
+SKU00007,17,2.0,0.11764705882352941,Furniture,Mark & Graham Modern Sofa
+SKU00019,17,2.0,0.11764705882352941,Furniture,Mark & Graham Custom Dining Table
+SKU00031,17,2.0,0.11764705882352941,Furniture,Pottery Barn Classic Chair
+SKU00053,17,2.0,0.11764705882352941,Furniture,Williams Sonoma Premium Desk
+SKU00071,17,2.0,0.11764705882352941,Furniture,Rejuvenation Classic Bookshelve
+SKU00083,17,2.0,0.11764705882352941,Lighting,West Elm Artisan Chandelier
+SKU00164,17,2.0,0.11764705882352941,Decor,Williams Sonoma Artisan Wall Art
+SKU00169,17,2.0,0.11764705882352941,Decor,Pottery Barn Signature Vase
+SKU00302,17,2.0,0.11764705882352941,Kitchen,West Elm Premium Bakeware
+SKU00191,18,2.0,0.1111111111111111,Decor,Mark & Graham Essential Throw Pillow
+SKU00241,18,2.0,0.1111111111111111,Kitchen,Pottery Barn Luxury Dinnerware
+SKU00258,18,2.0,0.1111111111111111,Kitchen,Rejuvenation Premium Cutlery
+SKU00271,18,2.0,0.1111111111111111,Kitchen,West Elm Luxury Small Appliance
+SKU00309,18,2.0,0.1111111111111111,Bedding,Rejuvenation Artisan Sheet
+SKU00393,18,2.0,0.1111111111111111,Bath,West Elm Signature Shower Curtain
+SKU00033,19,2.0,0.10526315789473684,Furniture,Rejuvenation Premium Bed
+SKU00034,19,2.0,0.10526315789473684,Furniture,West Elm Premium Bed
+SKU00036,19,2.0,0.10526315789473684,Furniture,Mark & Graham Custom Bed
+SKU00140,19,2.0,0.10526315789473684,Lighting,Williams Sonoma Premium Outdoor Lighting
+SKU00086,20,2.0,0.1,Lighting,Williams Sonoma Luxury Chandelier
+SKU00162,20,2.0,0.1,Decor,Rejuvenation Luxury Wall Art
+SKU00179,20,2.0,0.1,Decor,Mark & Graham Modern Vase
+SKU00182,20,2.0,0.1,Decor,West Elm Custom Sculpture
+SKU00268,20,2.0,0.1,Kitchen,Pottery Barn Artisan Small Appliance
+SKU00316,20,2.0,0.1,Bedding,Rejuvenation Essential Duvet
+SKU00333,20,2.0,0.1,Bedding,Pottery Barn Premium Blanket
+SKU00080,21,2.0,0.09523809523809523,Furniture,Rejuvenation Classic Bookshelve
+SKU00125,21,2.0,0.09523809523809523,Lighting,Rejuvenation Premium Sconce
+SKU00253,22,2.0,0.09090909090909091,Kitchen,Rejuvenation Essential Cutlery
+SKU00279,22,2.0,0.09090909090909091,Kitchen,Mark & Graham Modern Barware
+SKU00376,22,2.0,0.09090909090909091,Bath,West Elm Essential Bath Mat
+SKU00077,23,2.0,0.08695652173913043,Furniture,Rejuvenation Artisan Bookshelve
+SKU00262,23,2.0,0.08695652173913043,Kitchen,Rejuvenation Essential Small Appliance
+SKU00392,23,2.0,0.08695652173913043,Bath,Rejuvenation Essential Shower Curtain
+SKU00101,24,2.0,0.08333333333333333,Lighting,West Elm Luxury Floor Lamp
+SKU00304,25,2.0,0.08,Bedding,Mark & Graham Signature Sheet
+SKU00382,25,2.0,0.08,Bath,Rejuvenation Luxury Shower Curtain
+SKU00330,27,2.0,0.07407407407407407,Bedding,West Elm Essential Pillow
+SKU00311,31,2.0,0.06451612903225806,Bedding,Pottery Barn Classic Sheet
+SKU00100,5,1.0,0.2,Lighting,Williams Sonoma Premium Floor Lamp
+SKU00349,6,1.0,0.16666666666666666,Bedding,Mark & Graham Essential Mattress Topper
+SKU00227,7,1.0,0.14285714285714285,Decor,Rejuvenation Custom Curtain
+SKU00334,7,1.0,0.14285714285714285,Bedding,Williams Sonoma Luxury Blanket
+SKU00018,8,1.0,0.125,Furniture,Mark & Graham Luxury Dining Table
+SKU00073,8,1.0,0.125,Furniture,Pottery Barn Signature Bookshelve
+SKU00135,8,1.0,0.125,Lighting,Mark & Graham Artisan Sconce
+SKU00284,8,1.0,0.125,Kitchen,Pottery Barn Luxury Barware
+SKU00286,8,1.0,0.125,Kitchen,West Elm Signature Barware
+SKU00360,8,1.0,0.125,Bath,West Elm Essential Towel
+SKU00024,9,1.0,0.1111111111111111,Furniture,West Elm Premium Chair
+SKU00107,9,1.0,0.1111111111111111,Lighting,Rejuvenation Luxury Table Lamp
+SKU00285,9,1.0,0.1111111111111111,Kitchen,Pottery Barn Custom Barware
+SKU00358,9,1.0,0.1111111111111111,Bath,West Elm Custom Towel
+SKU00413,9,1.0,0.1111111111111111,Bath,Mark & Graham Signature Robe
+SKU00142,10,1.0,0.1,Lighting,West Elm Luxury Outdoor Lighting
+SKU00194,10,1.0,0.1,Decor,Williams Sonoma Essential Throw Pillow
+SKU00385,10,1.0,0.1,Bath,Williams Sonoma Premium Shower Curtain
+SKU00414,10,1.0,0.1,Bath,Williams Sonoma Essential Robe
+SKU00111,11,1.0,0.09090909090909091,Lighting,West Elm Artisan Table Lamp
+SKU00141,11,1.0,0.09090909090909091,Lighting,Mark & Graham Modern Outdoor Lighting
+SKU00234,11,1.0,0.09090909090909091,Kitchen,Rejuvenation Custom Cookware
+SKU00281,11,1.0,0.09090909090909091,Kitchen,Rejuvenation Premium Barware
+SKU00350,11,1.0,0.09090909090909091,Bedding,West Elm Classic Mattress Topper
+SKU00397,11,1.0,0.09090909090909091,Bath,Rejuvenation Essential Bath Accessorie
+SKU00061,12,1.0,0.08333333333333333,Furniture,West Elm Essential Coffee Table
+SKU00204,12,1.0,0.08333333333333333,Decor,Williams Sonoma Essential Rug
+SKU00212,12,1.0,0.08333333333333333,Decor,Pottery Barn Signature Rug
+SKU00230,12,1.0,0.08333333333333333,Decor,Mark & Graham Classic Curtain
+SKU00245,12,1.0,0.08333333333333333,Kitchen,Pottery Barn Custom Dinnerware
+SKU00351,12,1.0,0.08333333333333333,Bedding,West Elm Artisan Mattress Topper
+SKU00366,12,1.0,0.08333333333333333,Bath,Mark & Graham Luxury Towel
+SKU00370,12,1.0,0.08333333333333333,Bath,Mark & Graham Luxury Bath Mat
+SKU00391,12,1.0,0.08333333333333333,Bath,West Elm Modern Shower Curtain
+SKU00022,13,1.0,0.07692307692307693,Furniture,Williams Sonoma Premium Dining Table
+SKU00028,13,1.0,0.07692307692307693,Furniture,Rejuvenation Essential Chair
+SKU00041,13,1.0,0.07692307692307693,Furniture,Mark & Graham Premium Bed
+SKU00166,13,1.0,0.07692307692307693,Decor,Rejuvenation Luxury Wall Art
+SKU00197,13,1.0,0.07692307692307693,Decor,Williams Sonoma Custom Throw Pillow
+SKU00250,13,1.0,0.07692307692307693,Kitchen,Williams Sonoma Essential Cutlery
+SKU00326,13,1.0,0.07692307692307693,Bedding,West Elm Custom Pillow
+SKU00398,13,1.0,0.07692307692307693,Bath,Williams Sonoma Classic Bath Accessorie
+SKU00098,14,1.0,0.07142857142857142,Lighting,Williams Sonoma Artisan Floor Lamp
+SKU00132,14,1.0,0.07142857142857142,Lighting,West Elm Luxury Sconce
+SKU00210,14,1.0,0.07142857142857142,Decor,Rejuvenation Artisan Rug
+SKU00297,14,1.0,0.07142857142857142,Kitchen,Mark & Graham Signature Bakeware
+SKU00299,14,1.0,0.07142857142857142,Kitchen,Williams Sonoma Custom Bakeware
+SKU00300,14,1.0,0.07142857142857142,Kitchen,Mark & Graham Luxury Bakeware
+SKU00308,14,1.0,0.07142857142857142,Bedding,Mark & Graham Custom Sheet
+SKU00365,14,1.0,0.07142857142857142,Bath,Williams Sonoma Essential Towel
+SKU00015,15,1.0,0.06666666666666667,Furniture,Williams Sonoma Custom Dining Table
+SKU00042,15,1.0,0.06666666666666667,Furniture,Pottery Barn Signature Bed
+SKU00129,15,1.0,0.06666666666666667,Lighting,Williams Sonoma Artisan Sconce
+SKU00154,15,1.0,0.06666666666666667,Decor,Rejuvenation Signature Wall Art
+SKU00159,15,1.0,0.06666666666666667,Decor,Williams Sonoma Custom Wall Art
+SKU00160,15,1.0,0.06666666666666667,Decor,Rejuvenation Modern Wall Art
+SKU00196,15,1.0,0.06666666666666667,Decor,Williams Sonoma Classic Throw Pillow
+SKU00201,15,1.0,0.06666666666666667,Decor,West Elm Modern Throw Pillow
+SKU00252,15,1.0,0.06666666666666667,Kitchen,Pottery Barn Modern Cutlery
+SKU00267,15,1.0,0.06666666666666667,Kitchen,Williams Sonoma Essential Small Appliance
+SKU00388,15,1.0,0.06666666666666667,Bath,Mark & Graham Signature Shower Curtain
+SKU00122,16,1.0,0.0625,Lighting,Pottery Barn Luxury Pendant
+SKU00282,16,1.0,0.0625,Kitchen,Pottery Barn Custom Barware
+SKU00386,16,1.0,0.0625,Bath,Rejuvenation Premium Shower Curtain
+SKU00058,17,1.0,0.058823529411764705,Furniture,Williams Sonoma Signature Coffee Table
+SKU00138,17,1.0,0.058823529411764705,Lighting,Rejuvenation Luxury Outdoor Lighting
+SKU00147,17,1.0,0.058823529411764705,Decor,Pottery Barn Luxury Mirror
+SKU00203,17,1.0,0.058823529411764705,Decor,Williams Sonoma Custom Rug
+SKU00269,17,1.0,0.058823529411764705,Kitchen,West Elm Signature Small Appliance
+SKU00275,17,1.0,0.058823529411764705,Kitchen,Pottery Barn Signature Small Appliance
+SKU00298,17,1.0,0.058823529411764705,Kitchen,Pottery Barn Custom Bakeware
+SKU00335,17,1.0,0.058823529411764705,Bedding,Rejuvenation Custom Blanket
+SKU00017,18,1.0,0.05555555555555555,Furniture,Williams Sonoma Artisan Dining Table
+SKU00146,18,1.0,0.05555555555555555,Decor,Rejuvenation Modern Mirror
+SKU00343,18,1.0,0.05555555555555555,Bedding,Mark & Graham Signature Blanket
+SKU00377,18,1.0,0.05555555555555555,Bath,Pottery Barn Premium Bath Mat
+SKU00379,18,1.0,0.05555555555555555,Bath,Rejuvenation Custom Bath Mat
+SKU00394,18,1.0,0.05555555555555555,Bath,Williams Sonoma Modern Shower Curtain
+SKU00043,19,1.0,0.05263157894736842,Furniture,West Elm Luxury Bed
+SKU00173,19,1.0,0.05263157894736842,Decor,Pottery Barn Essential Vase
+SKU00218,19,1.0,0.05263157894736842,Decor,West Elm Modern Curtain
+SKU00239,19,1.0,0.05263157894736842,Kitchen,Rejuvenation Artisan Cookware
+SKU00277,19,1.0,0.05263157894736842,Kitchen,Williams Sonoma Premium Barware
+SKU00362,19,1.0,0.05263157894736842,Bath,Pottery Barn Modern Towel
+SKU00369,19,1.0,0.05263157894736842,Bath,Mark & Graham Custom Towel
+SKU00371,19,1.0,0.05263157894736842,Bath,Mark & Graham Modern Bath Mat
+SKU00008,20,1.0,0.05,Furniture,Pottery Barn Custom Sofa
+SKU00082,20,1.0,0.05,Lighting,Pottery Barn Premium Chandelier
+SKU00231,20,1.0,0.05,Kitchen,Williams Sonoma Classic Cookware
+SKU00295,20,1.0,0.05,Kitchen,Rejuvenation Artisan Bakeware
+SKU00025,22,1.0,0.045454545454545456,Furniture,Williams Sonoma Artisan Chair
+SKU00078,22,1.0,0.045454545454545456,Furniture,Pottery Barn Custom Bookshelve
+SKU00287,23,1.0,0.043478260869565216,Kitchen,West Elm Modern Barware
+SKU00214,24,1.0,0.041666666666666664,Decor,West Elm Custom Rug
+SKU00189,25,1.0,0.04,Decor,Pottery Barn Classic Sculpture
+SKU00010,6,0.0,0.0,Furniture,Pottery Barn Essential Sofa
+SKU00012,12,0.0,0.0,Furniture,Rejuvenation Modern Sofa
+SKU00023,16,0.0,0.0,Furniture,Mark & Graham Modern Dining Table
+SKU00027,12,0.0,0.0,Furniture,Rejuvenation Modern Chair
+SKU00048,10,0.0,0.0,Furniture,West Elm Essential Desk
+SKU00056,10,0.0,0.0,Furniture,West Elm Luxury Coffee Table
+SKU00063,10,0.0,0.0,Furniture,West Elm Modern Coffee Table
+SKU00064,14,0.0,0.0,Furniture,Williams Sonoma Premium Coffee Table
+SKU00070,19,0.0,0.0,Furniture,Pottery Barn Signature Bookshelve
+SKU00104,8,0.0,0.0,Lighting,Rejuvenation Artisan Table Lamp
+SKU00106,10,0.0,0.0,Lighting,Pottery Barn Custom Table Lamp
+SKU00177,17,0.0,0.0,Decor,Williams Sonoma Luxury Vase
+SKU00180,11,0.0,0.0,Decor,Rejuvenation Modern Sculpture
+SKU00186,18,0.0,0.0,Decor,Rejuvenation Signature Sculpture
+SKU00187,4,0.0,0.0,Decor,Williams Sonoma Modern Sculpture
+SKU00195,7,0.0,0.0,Decor,Williams Sonoma Luxury Throw Pillow
+SKU00219,12,0.0,0.0,Decor,Rejuvenation Custom Curtain
+SKU00221,16,0.0,0.0,Decor,West Elm Luxury Curtain
+SKU00229,12,0.0,0.0,Decor,Mark & Graham Premium Curtain
+SKU00233,9,0.0,0.0,Kitchen,Williams Sonoma Modern Cookware
+SKU00238,10,0.0,0.0,Kitchen,West Elm Premium Cookware
+SKU00247,9,0.0,0.0,Kitchen,West Elm Classic Dinnerware
+SKU00248,17,0.0,0.0,Kitchen,Williams Sonoma Custom Dinnerware
+SKU00261,12,0.0,0.0,Kitchen,Mark & Graham Luxury Cutlery
+SKU00265,18,0.0,0.0,Kitchen,Williams Sonoma Premium Small Appliance
+SKU00317,12,0.0,0.0,Bedding,West Elm Premium Duvet
+SKU00320,27,0.0,0.0,Bedding,Rejuvenation Artisan Duvet
+SKU00324,8,0.0,0.0,Bedding,West Elm Artisan Pillow
+SKU00337,9,0.0,0.0,Bedding,Mark & Graham Classic Blanket
+SKU00354,6,0.0,0.0,Bedding,Williams Sonoma Signature Mattress Topper
+SKU00401,18,0.0,0.0,Bath,West Elm Essential Bath Accessorie
+SKU00402,10,0.0,0.0,Bath,Rejuvenation Essential Bath Accessorie
+SKU00409,11,0.0,0.0,Bath,Rejuvenation Classic Robe

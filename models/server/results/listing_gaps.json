@@ -1,0 +1,3718 @@
+[
+    {
+        "sku_id": "SKU00001",
+        "product_name": "Rejuvenation Artisan Sofa",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00002",
+        "product_name": "Rejuvenation Signature Sofa",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00003",
+        "product_name": "Mark & Graham Artisan Sofa",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00004",
+        "product_name": "Pottery Barn Classic Sofa",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00005",
+        "product_name": "Pottery Barn Essential Sofa",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00006",
+        "product_name": "Mark & Graham Luxury Sofa",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00007",
+        "product_name": "Mark & Graham Modern Sofa",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00008",
+        "product_name": "Pottery Barn Custom Sofa",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00009",
+        "product_name": "Pottery Barn Essential Sofa",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00010",
+        "product_name": "Pottery Barn Essential Sofa",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00011",
+        "product_name": "Pottery Barn Signature Sofa",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00012",
+        "product_name": "Rejuvenation Modern Sofa",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00013",
+        "product_name": "Mark & Graham Premium Sofa",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00014",
+        "product_name": "Rejuvenation Premium Sofa",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00015",
+        "product_name": "Williams Sonoma Custom Dining Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00016",
+        "product_name": "Pottery Barn Modern Dining Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00017",
+        "product_name": "Williams Sonoma Artisan Dining Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00018",
+        "product_name": "Mark & Graham Luxury Dining Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00019",
+        "product_name": "Mark & Graham Custom Dining Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00020",
+        "product_name": "Williams Sonoma Premium Dining Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00021",
+        "product_name": "Mark & Graham Custom Dining Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00022",
+        "product_name": "Williams Sonoma Premium Dining Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00023",
+        "product_name": "Mark & Graham Modern Dining Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00024",
+        "product_name": "West Elm Premium Chair",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00025",
+        "product_name": "Williams Sonoma Artisan Chair",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00026",
+        "product_name": "West Elm Premium Chair",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00027",
+        "product_name": "Rejuvenation Modern Chair",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00028",
+        "product_name": "Rejuvenation Essential Chair",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00029",
+        "product_name": "Rejuvenation Custom Chair",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00030",
+        "product_name": "Williams Sonoma Signature Chair",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00031",
+        "product_name": "Pottery Barn Classic Chair",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00032",
+        "product_name": "West Elm Custom Bed",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00033",
+        "product_name": "Rejuvenation Premium Bed",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00034",
+        "product_name": "West Elm Premium Bed",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00035",
+        "product_name": "Pottery Barn Artisan Bed",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00036",
+        "product_name": "Mark & Graham Custom Bed",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00037",
+        "product_name": "Pottery Barn Modern Bed",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00038",
+        "product_name": "Mark & Graham Signature Bed",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00039",
+        "product_name": "Pottery Barn Luxury Bed",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00040",
+        "product_name": "Mark & Graham Luxury Bed",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00041",
+        "product_name": "Mark & Graham Premium Bed",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00042",
+        "product_name": "Pottery Barn Signature Bed",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00043",
+        "product_name": "West Elm Luxury Bed",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00044",
+        "product_name": "Williams Sonoma Custom Desk",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00045",
+        "product_name": "Mark & Graham Classic Desk",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00046",
+        "product_name": "Pottery Barn Modern Desk",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00047",
+        "product_name": "Rejuvenation Modern Desk",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00048",
+        "product_name": "West Elm Essential Desk",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00049",
+        "product_name": "Pottery Barn Signature Desk",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00050",
+        "product_name": "Williams Sonoma Artisan Desk",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00051",
+        "product_name": "Pottery Barn Classic Desk",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00052",
+        "product_name": "Mark & Graham Luxury Desk",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00053",
+        "product_name": "Williams Sonoma Premium Desk",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00054",
+        "product_name": "Pottery Barn Artisan Coffee Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00055",
+        "product_name": "Williams Sonoma Modern Coffee Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00056",
+        "product_name": "West Elm Luxury Coffee Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00057",
+        "product_name": "Williams Sonoma Custom Coffee Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00058",
+        "product_name": "Williams Sonoma Signature Coffee Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00059",
+        "product_name": "Mark & Graham Classic Coffee Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00060",
+        "product_name": "Pottery Barn Signature Coffee Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00061",
+        "product_name": "West Elm Essential Coffee Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00062",
+        "product_name": "Rejuvenation Classic Coffee Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00063",
+        "product_name": "West Elm Modern Coffee Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00064",
+        "product_name": "Williams Sonoma Premium Coffee Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00065",
+        "product_name": "Williams Sonoma Essential Coffee Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00066",
+        "product_name": "Williams Sonoma Essential Coffee Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00067",
+        "product_name": "Williams Sonoma Modern Coffee Table",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00068",
+        "product_name": "Mark & Graham Artisan Bookshelve",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00069",
+        "product_name": "Pottery Barn Classic Bookshelve",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00070",
+        "product_name": "Pottery Barn Signature Bookshelve",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00071",
+        "product_name": "Rejuvenation Classic Bookshelve",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00072",
+        "product_name": "Pottery Barn Artisan Bookshelve",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00073",
+        "product_name": "Pottery Barn Signature Bookshelve",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00074",
+        "product_name": "West Elm Luxury Bookshelve",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00075",
+        "product_name": "Mark & Graham Classic Bookshelve",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00076",
+        "product_name": "Williams Sonoma Luxury Bookshelve",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00077",
+        "product_name": "Rejuvenation Artisan Bookshelve",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00078",
+        "product_name": "Pottery Barn Custom Bookshelve",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00079",
+        "product_name": "Pottery Barn Signature Bookshelve",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00080",
+        "product_name": "Rejuvenation Classic Bookshelve",
+        "missing_tags": [
+            "Missing Dimensions in Copy",
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 40
+    },
+    {
+        "sku_id": "SKU00081",
+        "product_name": "Pottery Barn Luxury Chandelier",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00082",
+        "product_name": "Pottery Barn Premium Chandelier",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00083",
+        "product_name": "West Elm Artisan Chandelier",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00084",
+        "product_name": "Rejuvenation Luxury Chandelier",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00085",
+        "product_name": "West Elm Luxury Chandelier",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00086",
+        "product_name": "Williams Sonoma Luxury Chandelier",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00087",
+        "product_name": "Williams Sonoma Artisan Chandelier",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00088",
+        "product_name": "Mark & Graham Modern Chandelier",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00089",
+        "product_name": "West Elm Classic Chandelier",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00090",
+        "product_name": "Rejuvenation Essential Chandelier",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00091",
+        "product_name": "Mark & Graham Artisan Chandelier",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00092",
+        "product_name": "Pottery Barn Classic Chandelier",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00093",
+        "product_name": "Mark & Graham Modern Chandelier",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00094",
+        "product_name": "Mark & Graham Custom Chandelier",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00095",
+        "product_name": "West Elm Custom Floor Lamp",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00096",
+        "product_name": "Mark & Graham Essential Floor Lamp",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00097",
+        "product_name": "Pottery Barn Classic Floor Lamp",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00098",
+        "product_name": "Williams Sonoma Artisan Floor Lamp",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00099",
+        "product_name": "Rejuvenation Custom Floor Lamp",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00100",
+        "product_name": "Williams Sonoma Premium Floor Lamp",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00101",
+        "product_name": "West Elm Luxury Floor Lamp",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00102",
+        "product_name": "Rejuvenation Modern Floor Lamp",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00103",
+        "product_name": "Pottery Barn Classic Table Lamp",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00104",
+        "product_name": "Rejuvenation Artisan Table Lamp",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00105",
+        "product_name": "Pottery Barn Signature Table Lamp",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00106",
+        "product_name": "Pottery Barn Custom Table Lamp",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00107",
+        "product_name": "Rejuvenation Luxury Table Lamp",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00108",
+        "product_name": "Williams Sonoma Classic Table Lamp",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00109",
+        "product_name": "Pottery Barn Custom Table Lamp",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00110",
+        "product_name": "Mark & Graham Essential Table Lamp",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00111",
+        "product_name": "West Elm Artisan Table Lamp",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00112",
+        "product_name": "Williams Sonoma Luxury Table Lamp",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00113",
+        "product_name": "Mark & Graham Signature Table Lamp",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00114",
+        "product_name": "Pottery Barn Modern Pendant",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00115",
+        "product_name": "Rejuvenation Modern Pendant",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00116",
+        "product_name": "West Elm Essential Pendant",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00117",
+        "product_name": "West Elm Modern Pendant",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00118",
+        "product_name": "Pottery Barn Classic Pendant",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00119",
+        "product_name": "West Elm Custom Pendant",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00120",
+        "product_name": "West Elm Artisan Pendant",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00121",
+        "product_name": "Pottery Barn Custom Pendant",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00122",
+        "product_name": "Pottery Barn Luxury Pendant",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00123",
+        "product_name": "Pottery Barn Classic Sconce",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00124",
+        "product_name": "Pottery Barn Modern Sconce",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00125",
+        "product_name": "Rejuvenation Premium Sconce",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00126",
+        "product_name": "Rejuvenation Classic Sconce",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00127",
+        "product_name": "Rejuvenation Artisan Sconce",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00128",
+        "product_name": "Mark & Graham Artisan Sconce",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00129",
+        "product_name": "Williams Sonoma Artisan Sconce",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00130",
+        "product_name": "Williams Sonoma Signature Sconce",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00131",
+        "product_name": "Mark & Graham Premium Sconce",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00132",
+        "product_name": "West Elm Luxury Sconce",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00133",
+        "product_name": "West Elm Modern Sconce",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00134",
+        "product_name": "West Elm Artisan Sconce",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00135",
+        "product_name": "Mark & Graham Artisan Sconce",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00136",
+        "product_name": "Rejuvenation Modern Sconce",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00137",
+        "product_name": "West Elm Essential Outdoor Lighting",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00138",
+        "product_name": "Rejuvenation Luxury Outdoor Lighting",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00139",
+        "product_name": "Rejuvenation Essential Outdoor Lighting",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00140",
+        "product_name": "Williams Sonoma Premium Outdoor Lighting",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00141",
+        "product_name": "Mark & Graham Modern Outdoor Lighting",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00142",
+        "product_name": "West Elm Luxury Outdoor Lighting",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00143",
+        "product_name": "West Elm Luxury Outdoor Lighting",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00144",
+        "product_name": "Williams Sonoma Luxury Outdoor Lighting",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00145",
+        "product_name": "Rejuvenation Classic Outdoor Lighting",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00146",
+        "product_name": "Rejuvenation Modern Mirror",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00147",
+        "product_name": "Pottery Barn Luxury Mirror",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00148",
+        "product_name": "Pottery Barn Classic Mirror",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00149",
+        "product_name": "Pottery Barn Modern Mirror",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00150",
+        "product_name": "Rejuvenation Premium Mirror",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00151",
+        "product_name": "Pottery Barn Classic Mirror",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00152",
+        "product_name": "Pottery Barn Custom Mirror",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00153",
+        "product_name": "Rejuvenation Premium Mirror",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00154",
+        "product_name": "Rejuvenation Signature Wall Art",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00155",
+        "product_name": "Mark & Graham Custom Wall Art",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00156",
+        "product_name": "Mark & Graham Essential Wall Art",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00157",
+        "product_name": "Pottery Barn Premium Wall Art",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00158",
+        "product_name": "Mark & Graham Custom Wall Art",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00159",
+        "product_name": "Williams Sonoma Custom Wall Art",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00160",
+        "product_name": "Rejuvenation Modern Wall Art",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00161",
+        "product_name": "West Elm Signature Wall Art",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00162",
+        "product_name": "Rejuvenation Luxury Wall Art",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00163",
+        "product_name": "Williams Sonoma Signature Wall Art",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00164",
+        "product_name": "Williams Sonoma Artisan Wall Art",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00165",
+        "product_name": "Rejuvenation Premium Wall Art",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00166",
+        "product_name": "Rejuvenation Luxury Wall Art",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00167",
+        "product_name": "West Elm Luxury Vase",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00168",
+        "product_name": "West Elm Essential Vase",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00169",
+        "product_name": "Pottery Barn Signature Vase",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00170",
+        "product_name": "Rejuvenation Luxury Vase",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00171",
+        "product_name": "West Elm Custom Vase",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00172",
+        "product_name": "Mark & Graham Classic Vase",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00173",
+        "product_name": "Pottery Barn Essential Vase",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00174",
+        "product_name": "West Elm Custom Vase",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00175",
+        "product_name": "Mark & Graham Premium Vase",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00176",
+        "product_name": "West Elm Luxury Vase",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00177",
+        "product_name": "Williams Sonoma Luxury Vase",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00178",
+        "product_name": "Mark & Graham Artisan Vase",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00179",
+        "product_name": "Mark & Graham Modern Vase",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00180",
+        "product_name": "Rejuvenation Modern Sculpture",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00181",
+        "product_name": "Mark & Graham Custom Sculpture",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00182",
+        "product_name": "West Elm Custom Sculpture",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00183",
+        "product_name": "Pottery Barn Modern Sculpture",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00184",
+        "product_name": "Mark & Graham Essential Sculpture",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00185",
+        "product_name": "Pottery Barn Luxury Sculpture",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00186",
+        "product_name": "Rejuvenation Signature Sculpture",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00187",
+        "product_name": "Williams Sonoma Modern Sculpture",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00188",
+        "product_name": "Williams Sonoma Essential Sculpture",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00189",
+        "product_name": "Pottery Barn Classic Sculpture",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00190",
+        "product_name": "Mark & Graham Signature Throw Pillow",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00191",
+        "product_name": "Mark & Graham Essential Throw Pillow",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00192",
+        "product_name": "Williams Sonoma Luxury Throw Pillow",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00193",
+        "product_name": "Rejuvenation Custom Throw Pillow",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00194",
+        "product_name": "Williams Sonoma Essential Throw Pillow",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00195",
+        "product_name": "Williams Sonoma Luxury Throw Pillow",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00196",
+        "product_name": "Williams Sonoma Classic Throw Pillow",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00197",
+        "product_name": "Williams Sonoma Custom Throw Pillow",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00198",
+        "product_name": "Williams Sonoma Premium Throw Pillow",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00199",
+        "product_name": "Williams Sonoma Modern Throw Pillow",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00200",
+        "product_name": "Williams Sonoma Artisan Throw Pillow",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00201",
+        "product_name": "West Elm Modern Throw Pillow",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00202",
+        "product_name": "Rejuvenation Modern Throw Pillow",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00203",
+        "product_name": "Williams Sonoma Custom Rug",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00204",
+        "product_name": "Williams Sonoma Essential Rug",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00205",
+        "product_name": "Williams Sonoma Modern Rug",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00206",
+        "product_name": "West Elm Signature Rug",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00207",
+        "product_name": "Williams Sonoma Essential Rug",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00208",
+        "product_name": "Pottery Barn Signature Rug",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00209",
+        "product_name": "Pottery Barn Custom Rug",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00210",
+        "product_name": "Rejuvenation Artisan Rug",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00211",
+        "product_name": "Williams Sonoma Essential Rug",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00212",
+        "product_name": "Pottery Barn Signature Rug",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00213",
+        "product_name": "Mark & Graham Signature Rug",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00214",
+        "product_name": "West Elm Custom Rug",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00215",
+        "product_name": "Williams Sonoma Essential Rug",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00216",
+        "product_name": "West Elm Essential Rug",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00217",
+        "product_name": "Williams Sonoma Signature Curtain",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00218",
+        "product_name": "West Elm Modern Curtain",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00219",
+        "product_name": "Rejuvenation Custom Curtain",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00220",
+        "product_name": "Mark & Graham Modern Curtain",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00221",
+        "product_name": "West Elm Luxury Curtain",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00222",
+        "product_name": "Rejuvenation Custom Curtain",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00223",
+        "product_name": "Williams Sonoma Signature Curtain",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00224",
+        "product_name": "Rejuvenation Classic Curtain",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00225",
+        "product_name": "Mark & Graham Premium Curtain",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00226",
+        "product_name": "West Elm Artisan Curtain",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00227",
+        "product_name": "Rejuvenation Custom Curtain",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00228",
+        "product_name": "Pottery Barn Classic Curtain",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00229",
+        "product_name": "Mark & Graham Premium Curtain",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00230",
+        "product_name": "Mark & Graham Classic Curtain",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00231",
+        "product_name": "Williams Sonoma Classic Cookware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00232",
+        "product_name": "Mark & Graham Modern Cookware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00233",
+        "product_name": "Williams Sonoma Modern Cookware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00234",
+        "product_name": "Rejuvenation Custom Cookware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00235",
+        "product_name": "Mark & Graham Essential Cookware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00236",
+        "product_name": "Rejuvenation Signature Cookware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00237",
+        "product_name": "Pottery Barn Modern Cookware",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00238",
+        "product_name": "West Elm Premium Cookware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00239",
+        "product_name": "Rejuvenation Artisan Cookware",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00240",
+        "product_name": "Rejuvenation Luxury Dinnerware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00241",
+        "product_name": "Pottery Barn Luxury Dinnerware",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00242",
+        "product_name": "Rejuvenation Luxury Dinnerware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00243",
+        "product_name": "Mark & Graham Premium Dinnerware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00244",
+        "product_name": "Mark & Graham Signature Dinnerware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00245",
+        "product_name": "Pottery Barn Custom Dinnerware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00246",
+        "product_name": "Pottery Barn Premium Dinnerware",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00247",
+        "product_name": "West Elm Classic Dinnerware",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00248",
+        "product_name": "Williams Sonoma Custom Dinnerware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00249",
+        "product_name": "Williams Sonoma Luxury Cutlery",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00250",
+        "product_name": "Williams Sonoma Essential Cutlery",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00251",
+        "product_name": "Pottery Barn Custom Cutlery",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00252",
+        "product_name": "Pottery Barn Modern Cutlery",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00253",
+        "product_name": "Rejuvenation Essential Cutlery",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00254",
+        "product_name": "Mark & Graham Essential Cutlery",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00255",
+        "product_name": "Pottery Barn Modern Cutlery",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00256",
+        "product_name": "Williams Sonoma Custom Cutlery",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00257",
+        "product_name": "Pottery Barn Artisan Cutlery",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00258",
+        "product_name": "Rejuvenation Premium Cutlery",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00259",
+        "product_name": "Mark & Graham Modern Cutlery",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00260",
+        "product_name": "Mark & Graham Custom Cutlery",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00261",
+        "product_name": "Mark & Graham Luxury Cutlery",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00262",
+        "product_name": "Rejuvenation Essential Small Appliance",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00263",
+        "product_name": "Mark & Graham Classic Small Appliance",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00264",
+        "product_name": "Rejuvenation Modern Small Appliance",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00265",
+        "product_name": "Williams Sonoma Premium Small Appliance",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00266",
+        "product_name": "West Elm Essential Small Appliance",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00267",
+        "product_name": "Williams Sonoma Essential Small Appliance",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00268",
+        "product_name": "Pottery Barn Artisan Small Appliance",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00269",
+        "product_name": "West Elm Signature Small Appliance",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00270",
+        "product_name": "West Elm Premium Small Appliance",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00271",
+        "product_name": "West Elm Luxury Small Appliance",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00272",
+        "product_name": "Williams Sonoma Modern Small Appliance",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00273",
+        "product_name": "West Elm Signature Small Appliance",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00274",
+        "product_name": "Mark & Graham Luxury Small Appliance",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00275",
+        "product_name": "Pottery Barn Signature Small Appliance",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00276",
+        "product_name": "Williams Sonoma Signature Barware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00277",
+        "product_name": "Williams Sonoma Premium Barware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00278",
+        "product_name": "Pottery Barn Luxury Barware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00279",
+        "product_name": "Mark & Graham Modern Barware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00280",
+        "product_name": "Pottery Barn Artisan Barware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00281",
+        "product_name": "Rejuvenation Premium Barware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00282",
+        "product_name": "Pottery Barn Custom Barware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00283",
+        "product_name": "Mark & Graham Classic Barware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00284",
+        "product_name": "Pottery Barn Luxury Barware",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00285",
+        "product_name": "Pottery Barn Custom Barware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00286",
+        "product_name": "West Elm Signature Barware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00287",
+        "product_name": "West Elm Modern Barware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00288",
+        "product_name": "Pottery Barn Signature Barware",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00289",
+        "product_name": "Mark & Graham Modern Bakeware",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00290",
+        "product_name": "Rejuvenation Modern Bakeware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00291",
+        "product_name": "Mark & Graham Classic Bakeware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00292",
+        "product_name": "Williams Sonoma Custom Bakeware",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00293",
+        "product_name": "Rejuvenation Artisan Bakeware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00294",
+        "product_name": "Mark & Graham Modern Bakeware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00295",
+        "product_name": "Rejuvenation Artisan Bakeware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00296",
+        "product_name": "West Elm Premium Bakeware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00297",
+        "product_name": "Mark & Graham Signature Bakeware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00298",
+        "product_name": "Pottery Barn Custom Bakeware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00299",
+        "product_name": "Williams Sonoma Custom Bakeware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00300",
+        "product_name": "Mark & Graham Luxury Bakeware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00301",
+        "product_name": "Pottery Barn Classic Bakeware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00302",
+        "product_name": "West Elm Premium Bakeware",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00303",
+        "product_name": "Pottery Barn Modern Sheet",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00304",
+        "product_name": "Mark & Graham Signature Sheet",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00305",
+        "product_name": "Mark & Graham Classic Sheet",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00306",
+        "product_name": "Williams Sonoma Custom Sheet",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00307",
+        "product_name": "Mark & Graham Luxury Sheet",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00308",
+        "product_name": "Mark & Graham Custom Sheet",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00309",
+        "product_name": "Rejuvenation Artisan Sheet",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00310",
+        "product_name": "West Elm Premium Sheet",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00311",
+        "product_name": "Pottery Barn Classic Sheet",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00312",
+        "product_name": "Rejuvenation Premium Sheet",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00313",
+        "product_name": "Pottery Barn Artisan Sheet",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00314",
+        "product_name": "Mark & Graham Luxury Sheet",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00315",
+        "product_name": "Mark & Graham Luxury Duvet",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00316",
+        "product_name": "Rejuvenation Essential Duvet",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00317",
+        "product_name": "West Elm Premium Duvet",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00318",
+        "product_name": "West Elm Luxury Duvet",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00319",
+        "product_name": "Williams Sonoma Essential Duvet",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00320",
+        "product_name": "Rejuvenation Artisan Duvet",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00321",
+        "product_name": "Mark & Graham Signature Duvet",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00322",
+        "product_name": "West Elm Modern Duvet",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00323",
+        "product_name": "Mark & Graham Classic Pillow",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00324",
+        "product_name": "West Elm Artisan Pillow",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00325",
+        "product_name": "Rejuvenation Premium Pillow",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00326",
+        "product_name": "West Elm Custom Pillow",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00327",
+        "product_name": "Rejuvenation Luxury Pillow",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00328",
+        "product_name": "Rejuvenation Luxury Pillow",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00329",
+        "product_name": "West Elm Artisan Pillow",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00330",
+        "product_name": "West Elm Essential Pillow",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00331",
+        "product_name": "Mark & Graham Modern Pillow",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00332",
+        "product_name": "Mark & Graham Signature Blanket",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00333",
+        "product_name": "Pottery Barn Premium Blanket",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00334",
+        "product_name": "Williams Sonoma Luxury Blanket",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00335",
+        "product_name": "Rejuvenation Custom Blanket",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00336",
+        "product_name": "Rejuvenation Luxury Blanket",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00337",
+        "product_name": "Mark & Graham Classic Blanket",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00338",
+        "product_name": "Mark & Graham Premium Blanket",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00339",
+        "product_name": "Williams Sonoma Custom Blanket",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00340",
+        "product_name": "West Elm Modern Blanket",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00341",
+        "product_name": "West Elm Modern Blanket",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00342",
+        "product_name": "West Elm Essential Blanket",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00343",
+        "product_name": "Mark & Graham Signature Blanket",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00344",
+        "product_name": "Williams Sonoma Premium Mattress Topper",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00345",
+        "product_name": "Pottery Barn Modern Mattress Topper",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00346",
+        "product_name": "Rejuvenation Essential Mattress Topper",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00347",
+        "product_name": "Pottery Barn Luxury Mattress Topper",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00348",
+        "product_name": "West Elm Modern Mattress Topper",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00349",
+        "product_name": "Mark & Graham Essential Mattress Topper",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00350",
+        "product_name": "West Elm Classic Mattress Topper",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00351",
+        "product_name": "West Elm Artisan Mattress Topper",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00352",
+        "product_name": "West Elm Custom Mattress Topper",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00353",
+        "product_name": "West Elm Modern Mattress Topper",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00354",
+        "product_name": "Williams Sonoma Signature Mattress Topper",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00355",
+        "product_name": "Pottery Barn Signature Mattress Topper",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00356",
+        "product_name": "Mark & Graham Essential Mattress Topper",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00357",
+        "product_name": "Mark & Graham Classic Towel",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00358",
+        "product_name": "West Elm Custom Towel",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00359",
+        "product_name": "Mark & Graham Modern Towel",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00360",
+        "product_name": "West Elm Essential Towel",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00361",
+        "product_name": "Pottery Barn Artisan Towel",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00362",
+        "product_name": "Pottery Barn Modern Towel",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00363",
+        "product_name": "Mark & Graham Modern Towel",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00364",
+        "product_name": "West Elm Artisan Towel",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00365",
+        "product_name": "Williams Sonoma Essential Towel",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00366",
+        "product_name": "Mark & Graham Luxury Towel",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00367",
+        "product_name": "Pottery Barn Custom Towel",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00368",
+        "product_name": "Williams Sonoma Modern Towel",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00369",
+        "product_name": "Mark & Graham Custom Towel",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00370",
+        "product_name": "Mark & Graham Luxury Bath Mat",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00371",
+        "product_name": "Mark & Graham Modern Bath Mat",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00372",
+        "product_name": "Pottery Barn Luxury Bath Mat",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00373",
+        "product_name": "Pottery Barn Signature Bath Mat",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00374",
+        "product_name": "Pottery Barn Classic Bath Mat",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00375",
+        "product_name": "Williams Sonoma Custom Bath Mat",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00376",
+        "product_name": "West Elm Essential Bath Mat",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00377",
+        "product_name": "Pottery Barn Premium Bath Mat",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00378",
+        "product_name": "Mark & Graham Signature Bath Mat",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00379",
+        "product_name": "Rejuvenation Custom Bath Mat",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00380",
+        "product_name": "Williams Sonoma Signature Bath Mat",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00381",
+        "product_name": "Williams Sonoma Premium Bath Mat",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00382",
+        "product_name": "Rejuvenation Luxury Shower Curtain",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00383",
+        "product_name": "Mark & Graham Custom Shower Curtain",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00384",
+        "product_name": "West Elm Premium Shower Curtain",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00385",
+        "product_name": "Williams Sonoma Premium Shower Curtain",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00386",
+        "product_name": "Rejuvenation Premium Shower Curtain",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00387",
+        "product_name": "Pottery Barn Essential Shower Curtain",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00388",
+        "product_name": "Mark & Graham Signature Shower Curtain",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00389",
+        "product_name": "Rejuvenation Artisan Shower Curtain",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00390",
+        "product_name": "West Elm Modern Shower Curtain",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00391",
+        "product_name": "West Elm Modern Shower Curtain",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00392",
+        "product_name": "Rejuvenation Essential Shower Curtain",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00393",
+        "product_name": "West Elm Signature Shower Curtain",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00394",
+        "product_name": "Williams Sonoma Modern Shower Curtain",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00395",
+        "product_name": "Rejuvenation Classic Shower Curtain",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00396",
+        "product_name": "Pottery Barn Signature Bath Accessorie",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00397",
+        "product_name": "Rejuvenation Essential Bath Accessorie",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00398",
+        "product_name": "Williams Sonoma Classic Bath Accessorie",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00399",
+        "product_name": "Rejuvenation Essential Bath Accessorie",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00400",
+        "product_name": "Williams Sonoma Essential Bath Accessorie",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00401",
+        "product_name": "West Elm Essential Bath Accessorie",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00402",
+        "product_name": "Rejuvenation Essential Bath Accessorie",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00403",
+        "product_name": "Williams Sonoma Custom Bath Accessorie",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00404",
+        "product_name": "Williams Sonoma Essential Bath Accessorie",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00405",
+        "product_name": "Pottery Barn Custom Bath Accessorie",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00406",
+        "product_name": "Pottery Barn Essential Robe",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00407",
+        "product_name": "Williams Sonoma Essential Robe",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00408",
+        "product_name": "Mark & Graham Premium Robe",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00409",
+        "product_name": "Rejuvenation Classic Robe",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00410",
+        "product_name": "West Elm Premium Robe",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00411",
+        "product_name": "Pottery Barn Luxury Robe",
+        "missing_tags": [
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 80
+    },
+    {
+        "sku_id": "SKU00412",
+        "product_name": "West Elm Luxury Robe",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00413",
+        "product_name": "Mark & Graham Signature Robe",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    },
+    {
+        "sku_id": "SKU00414",
+        "product_name": "Williams Sonoma Essential Robe",
+        "missing_tags": [
+            "Missing Material Details",
+            "Lacks Care Instructions"
+        ],
+        "listing_score": 60
+    }
+]

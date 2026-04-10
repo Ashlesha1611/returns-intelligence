@@ -1,0 +1,1032 @@
+return_id,order_id,order_item_id,sku_id,customer_id,return_reason,return_note,return_date,return_status,refund_amount,return_shipping_cost,condition_received
+RET0000001,ORD0000002,OI0000002,SKU00293,CUST00001,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2025-03-25 10:27:21.000000,Inspected,243.06,11.45,Unused
+RET0000002,ORD0000004,OI0000006,SKU00205,CUST00001,Too dark,Finish is at least two shades darker than shown.,2024-11-15 08:07:28.000000,Refunded,203.69,26.47,Unused
+RET0000003,ORD0000006,OI0000010,SKU00396,CUST00002,Color mismatch,Gold finish is extremely yellow and brassy.,2024-04-25 04:31:40.000000,Received,52.6,25.43,Used
+RET0000004,ORD0000006,OI0000012,SKU00395,CUST00002,Too dark,Finish is at least two shades darker than shown.,2024-05-09 04:31:40.000000,Refunded,401.29,27.63,Used
+RET0000005,ORD0000009,OI0000016,SKU00341,CUST00003,Quality didn't meet expectations,Cushions losing shape after just a month.,2024-08-09 01:05:11.000000,Inspected,206.14,26.41,Used
+RET0000006,ORD0000010,OI0000021,SKU00392,CUST00003,Defective,Pre-drilled holes don't line up with hardware.,2025-09-05 07:05:07.000000,Refunded,101.28,17.39,Used
+RET0000007,ORD0000011,OI0000022,SKU00278,CUST00003,Too light,Wood tone is much lighter than the rich warm color shown.,2024-11-13 21:37:53.000000,Refunded,103.25,19.23,Unused
+RET0000008,ORD0000020,OI0000044,SKU00273,CUST00006,Defective,Light socket is faulty - bulb flickers.,2024-08-06 07:54:42.000000,Refunded,265.82,22.89,Used
+RET0000009,ORD0000023,OI0000048,SKU00069,CUST00007,Defective,Drawer doesn't close flush - frame is warped.,2025-10-18 03:58:14.000000,Processing,109.0,8.61,Used
+RET0000010,ORD0000024,OI0000050,SKU00167,CUST00007,Defective,Pre-drilled holes don't line up with hardware.,2026-04-05 12:52:52.000000,Refunded,50.69,25.02,Used
+RET0000011,ORD0000027,OI0000054,SKU00316,CUST00008,Difficult assembly,Holes for cam locks were drilled too shallow.,2024-06-07 10:02:40.000000,Refunded,274.77,22.39,Used
+RET0000012,ORD0000029,OI0000058,SKU00105,CUST00008,Color mismatch,Color variation is significant from the photos.,2025-02-12 05:06:58.000000,Refunded,77.84,29.06,Used
+RET0000013,ORD0000033,OI0000065,SKU00331,CUST00010,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2025-03-29 06:14:11.000000,Inspected,103.85,27.67,Unused
+RET0000014,ORD0000036,OI0000070,SKU00273,CUST00011,Defective,Light socket is faulty - bulb flickers.,2024-12-25 20:47:00.000000,Received,531.64,16.18,Unused
+RET0000015,ORD0000043,OI0000084,SKU00081,CUST00014,Color mismatch,Color variation is significant from the photos.,2026-03-20 15:36:04.000000,Refunded,142.79,8.65,Unused
+RET0000016,ORD0000045,OI0000087,SKU00363,CUST00015,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2024-10-03 14:32:30.000000,Refunded,83.83,12.36,Unused
+RET0000017,ORD0000045,OI0000089,SKU00237,CUST00015,Color mismatch,Color variation is significant from the photos.,2024-10-18 14:32:30.000000,Inspected,405.59,22.01,Unused
+RET0000018,ORD0000048,OI0000096,SKU00084,CUST00016,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2025-09-28 10:58:16.000000,Refunded,516.52,12.26,Unused
+RET0000019,ORD0000049,OI0000098,SKU00067,CUST00016,Difficult assembly,Holes for cam locks were drilled too shallow.,2024-07-12 06:38:36.000000,Inspected,294.14,24.91,Used
+RET0000020,ORD0000056,OI0000116,SKU00193,CUST00019,Defective,Pre-drilled holes don't line up with hardware.,2025-08-19 12:24:01.000000,Inspected,112.0,12.33,Used
+RET0000021,ORD0000057,OI0000120,SKU00352,CUST00020,Quality didn't meet expectations,"For this price, I expected much better materials.",2025-11-23 13:42:24.000000,Refunded,45.04,14.31,Used
+RET0000022,ORD0000059,OI0000123,SKU00185,CUST00021,Not as described,Measurements online are wrong - about 3 inches narrower.,2026-04-05 21:57:08.228992,Inspected,122.6,25.07,Used
+RET0000023,ORD0000062,OI0000128,SKU00328,CUST00023,Too light,Finish is practically white-washed.,2026-03-07 23:50:59.000000,Inspected,321.68,15.06,Unused
+RET0000024,ORD0000063,OI0000131,SKU00143,CUST00023,Defective,Pre-drilled holes don't line up with hardware.,2024-08-30 15:41:01.000000,Refunded,157.68,27.64,Used
+RET0000025,ORD0000065,OI0000136,SKU00299,CUST00023,Damaged upon arrival,Glass component was shattered inside the box.,2026-01-14 04:18:42.000000,Received,563.38,26.06,Damaged
+RET0000026,ORD0000069,OI0000145,SKU00148,CUST00025,Color mismatch,Beige is much more yellow-toned than the photos.,2024-05-15 16:28:57.000000,Inspected,396.34,13.23,Used
+RET0000027,ORD0000070,OI0000148,SKU00246,CUST00025,Damaged upon arrival,One of the legs is bent and won't attach properly.,2024-09-18 17:57:23.000000,Received,71.29,23.95,Damaged
+RET0000028,ORD0000075,OI0000158,SKU00087,CUST00026,Defective,One leg is shorter so the table wobbles.,2026-03-31 21:57:08.267952,Inspected,77.12,17.05,Unused
+RET0000029,ORD0000076,OI0000161,SKU00318,CUST00027,Difficult assembly,Holes for cam locks were drilled too shallow.,2025-03-21 05:19:15.000000,Refunded,97.82,24.39,Unused
+RET0000030,ORD0000076,OI0000162,SKU00330,CUST00027,Defective,Drawer doesn't close flush - frame is warped.,2025-03-07 05:19:15.000000,Refunded,295.04,21.53,Unused
+RET0000031,ORD0000077,OI0000164,SKU00240,CUST00027,Not as described,Brass accents are actually painted plastic.,2026-01-17 13:10:41.000000,Refunded,388.78,20.76,Unused
+RET0000032,ORD0000078,OI0000165,SKU00119,CUST00027,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2025-10-07 18:24:19.000000,Processing,106.63,16.99,Unused
+RET0000033,ORD0000079,OI0000170,SKU00397,CUST00027,Not as described,Shown with decorative pillows that weren't included.,2026-02-27 13:45:08.000000,Refunded,179.41,9.56,Used
+RET0000034,ORD0000080,OI0000175,SKU00336,CUST00027,Color mismatch,The navy I received is practically black.,2025-11-13 08:53:49.000000,Refunded,107.23,23.16,Used
+RET0000035,ORD0000082,OI0000178,SKU00407,CUST00028,Difficult assembly,Need three hands to hold pieces while screwing.,2024-11-18 04:36:14.000000,Refunded,686.83,23.81,Used
+RET0000036,ORD0000083,OI0000181,SKU00321,CUST00028,Defective,One leg is shorter so the table wobbles.,2024-11-21 16:03:01.000000,Refunded,71.7,16.48,Unused
+RET0000037,ORD0000085,OI0000183,SKU00083,CUST00029,Color mismatch,Color variation is significant from the photos.,2026-01-06 00:09:21.000000,Received,75.28,22.56,Used
+RET0000038,ORD0000087,OI0000193,SKU00044,CUST00030,Too dark,Finish is at least two shades darker than shown.,2024-07-26 09:28:47.000000,Inspected,167.05,20.08,Used
+RET0000039,ORD0000091,OI0000204,SKU00067,CUST00032,Too dark,Finish is at least two shades darker than shown.,2026-02-20 07:46:10.000000,Inspected,329.95,11.76,Used
+RET0000040,ORD0000097,OI0000217,SKU00348,CUST00034,Color mismatch,Gold finish is extremely yellow and brassy.,2025-04-18 23:06:20.000000,Refunded,120.09,14.33,Used
+RET0000041,ORD0000099,OI0000222,SKU00373,CUST00035,Too dark,In evening lighting it's almost black.,2024-12-12 11:36:05.000000,Refunded,54.01,12.14,Unused
+RET0000042,ORD0000101,OI0000224,SKU00007,CUST00035,Color mismatch,Gold finish is extremely yellow and brassy.,2025-12-28 04:44:45.000000,Refunded,70.45,24.65,Unused
+RET0000043,ORD0000103,OI0000228,SKU00158,CUST00037,Not as described,Description said solid wood but this is veneer over particle board.,2024-10-17 05:07:07.000000,Refunded,433.17,20.61,Used
+RET0000044,ORD0000106,OI0000237,SKU00137,CUST00039,Too dark,In evening lighting it's almost black.,2025-09-17 02:20:30.000000,Refunded,112.09,8.2,Unused
+RET0000045,ORD0000107,OI0000240,SKU00290,CUST00039,Difficult assembly,Instructions were just bad diagrams with no text.,2024-09-26 10:37:53.000000,Refunded,113.58,23.01,Used
+RET0000046,ORD0000111,OI0000250,SKU00385,CUST00040,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2026-02-17 19:08:17.000000,Refunded,278.15,24.69,Used
+RET0000047,ORD0000115,OI0000257,SKU00188,CUST00042,Defective,Light socket is faulty - bulb flickers.,2025-01-16 04:16:10.000000,Refunded,164.44,11.7,Used
+RET0000048,ORD0000117,OI0000261,SKU00172,CUST00042,Difficult assembly,Holes for cam locks were drilled too shallow.,2025-06-04 02:26:29.000000,Processing,46.61,22.52,Used
+RET0000049,ORD0000118,OI0000264,SKU00046,CUST00043,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2025-02-21 20:58:35.000000,Refunded,256.45,10.83,Used
+RET0000050,ORD0000120,OI0000268,SKU00155,CUST00043,Too light,Wood tone is much lighter than the rich warm color shown.,2026-02-16 17:24:55.000000,Refunded,64.22,16.39,Unused
+RET0000051,ORD0000122,OI0000270,SKU00090,CUST00044,Not as described,Brass accents are actually painted plastic.,2025-01-04 15:30:44.000000,Refunded,136.88,14.12,Used
+RET0000052,ORD0000126,OI0000279,SKU00232,CUST00045,Not as described,Measurements online are wrong - about 3 inches narrower.,2024-11-22 07:50:08.000000,Refunded,287.17,12.58,Used
+RET0000053,ORD0000127,OI0000280,SKU00280,CUST00046,Quality didn't meet expectations,"For this price, I expected much better materials.",2024-09-04 03:10:36.000000,Inspected,206.59,13.68,Unused
+RET0000054,ORD0000134,OI0000296,SKU00236,CUST00050,Defective,Light socket is faulty - bulb flickers.,2025-01-22 22:30:22.000000,Refunded,206.45,28.26,Used
+RET0000055,ORD0000137,OI0000302,SKU00405,CUST00051,Defective,Pre-drilled holes don't line up with hardware.,2024-12-18 01:48:01.000000,Refunded,228.21,20.72,Unused
+RET0000056,ORD0000137,OI0000304,SKU00168,CUST00051,Color mismatch,Color variation is significant from the photos.,2024-12-20 01:48:01.000000,Refunded,223.76,12.78,Used
+RET0000057,ORD0000139,OI0000310,SKU00211,CUST00051,Too light,Finish is practically white-washed.,2025-08-11 06:59:00.000000,Refunded,437.58,17.56,Unused
+RET0000058,ORD0000144,OI0000327,SKU00342,CUST00052,Too dark,Finish is at least two shades darker than shown.,2025-07-16 06:48:41.000000,Refunded,163.29,10.07,Unused
+RET0000059,ORD0000148,OI0000340,SKU00062,CUST00053,Defective,Light socket is faulty - bulb flickers.,2025-11-02 23:08:48.000000,Processing,175.95,10.1,Used
+RET0000060,ORD0000150,OI0000344,SKU00399,CUST00055,Quality didn't meet expectations,"For this price, I expected much better materials.",2024-05-12 17:57:32.000000,Received,468.74,8.64,Unused
+RET0000061,ORD0000155,OI0000351,SKU00249,CUST00057,Defective,Drawer doesn't close flush - frame is warped.,2025-10-02 22:22:35.000000,Received,143.08,8.3,Used
+RET0000062,ORD0000156,OI0000352,SKU00009,CUST00058,Defective,Drawer doesn't close flush - frame is warped.,2025-11-05 05:34:42.000000,Refunded,56.42,21.88,Unused
+RET0000063,ORD0000156,OI0000353,SKU00095,CUST00058,Quality didn't meet expectations,Cushions losing shape after just a month.,2025-10-27 05:34:42.000000,Refunded,255.81,15.51,Used
+RET0000064,ORD0000156,OI0000354,SKU00137,CUST00058,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2025-11-07 05:34:42.000000,Refunded,236.98,19.48,Damaged
+RET0000065,ORD0000158,OI0000359,SKU00175,CUST00058,Not as described,Measurements online are wrong - about 3 inches narrower.,2025-11-27 21:48:35.000000,Refunded,41.67,28.02,Used
+RET0000066,ORD0000160,OI0000363,SKU00088,CUST00059,Damaged upon arrival,One of the legs is bent and won't attach properly.,2024-10-02 11:25:56.000000,Inspected,115.97,21.28,Damaged
+RET0000067,ORD0000167,OI0000377,SKU00333,CUST00060,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2025-08-15 10:53:24.000000,Received,228.71,8.11,Damaged
+RET0000068,ORD0000169,OI0000382,SKU00266,CUST00061,Not as described,Brass accents are actually painted plastic.,2025-09-28 16:52:12.000000,Refunded,105.33,15.23,Used
+RET0000069,ORD0000174,OI0000391,SKU00249,CUST00061,Quality didn't meet expectations,Cushions losing shape after just a month.,2024-12-12 16:50:39.000000,Received,141.36,28.77,Unused
+RET0000070,ORD0000176,OI0000395,SKU00410,CUST00062,Damaged upon arrival,One of the legs is bent and won't attach properly.,2024-12-31 15:54:55.000000,Received,196.93,16.46,Damaged
+RET0000071,ORD0000187,OI0000413,SKU00130,CUST00064,Too light,Piece almost disappears because it's so light.,2025-09-26 21:36:51.000000,Refunded,89.08,12.47,Used
+RET0000072,ORD0000189,OI0000417,SKU00185,CUST00064,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2025-10-12 12:33:10.000000,Received,129.35,9.14,Damaged
+RET0000073,ORD0000193,OI0000424,SKU00207,CUST00066,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2025-08-18 12:27:39.000000,Received,156.5,9.81,Damaged
+RET0000074,ORD0000194,OI0000429,SKU00005,CUST00066,Difficult assembly,Holes for cam locks were drilled too shallow.,2025-07-15 11:19:20.000000,Received,89.55,15.14,Unused
+RET0000075,ORD0000206,OI0000447,SKU00406,CUST00070,Defective,Pre-drilled holes don't line up with hardware.,2025-08-15 15:25:21.000000,Refunded,120.47,19.09,Unused
+RET0000076,ORD0000214,OI0000463,SKU00151,CUST00074,Difficult assembly,Instructions were just bad diagrams with no text.,2025-05-29 11:24:19.000000,Received,104.78,29.38,Unused
+RET0000077,ORD0000214,OI0000464,SKU00066,CUST00074,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2025-06-07 11:24:19.000000,Refunded,152.32,16.64,Damaged
+RET0000078,ORD0000217,OI0000471,SKU00321,CUST00074,Quality didn't meet expectations,"For this price, I expected much better materials.",2026-03-19 09:39:34.000000,Received,34.57,25.87,Unused
+RET0000079,ORD0000218,OI0000475,SKU00372,CUST00074,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2026-01-15 17:24:30.000000,Refunded,39.44,26.04,Damaged
+RET0000080,ORD0000221,OI0000479,SKU00151,CUST00076,Quality didn't meet expectations,Construction feels flimsy and unstable.,2025-09-12 04:17:58.000000,Received,119.6,13.18,Used
+RET0000081,ORD0000224,OI0000484,SKU00025,CUST00076,Too light,Pale compared to the product photography.,2025-06-05 19:09:11.000000,Refunded,370.14,10.22,Used
+RET0000082,ORD0000225,OI0000488,SKU00411,CUST00077,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-09-18 01:33:49.000000,Received,157.85,24.22,Unused
+RET0000083,ORD0000226,OI0000492,SKU00272,CUST00077,Not as described,Description said solid wood but this is veneer over particle board.,2025-08-22 01:18:14.000000,Refunded,348.95,28.75,Used
+RET0000084,ORD0000227,OI0000494,SKU00216,CUST00077,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2025-08-21 10:17:22.000000,Received,39.14,18.93,Damaged
+RET0000085,ORD0000231,OI0000499,SKU00215,CUST00079,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2025-11-23 20:39:40.000000,Refunded,44.78,10.88,Damaged
+RET0000086,ORD0000232,OI0000501,SKU00342,CUST00080,Too light,Pale compared to the product photography.,2024-10-31 20:41:57.000000,Inspected,57.42,25.51,Unused
+RET0000087,ORD0000234,OI0000505,SKU00122,CUST00080,Not as described,Brass accents are actually painted plastic.,2024-12-14 13:04:10.000000,Received,151.71,18.04,Used
+RET0000088,ORD0000236,OI0000508,SKU00170,CUST00081,Difficult assembly,Need three hands to hold pieces while screwing.,2026-01-25 21:51:12.000000,Processing,77.83,21.21,Unused
+RET0000089,ORD0000236,OI0000509,SKU00284,CUST00081,Defective,Light socket is faulty - bulb flickers.,2026-01-05 21:51:12.000000,Refunded,59.06,25.04,Unused
+RET0000090,ORD0000236,OI0000510,SKU00171,CUST00081,Too light,Finish is practically white-washed.,2026-01-14 21:51:12.000000,Refunded,581.54,12.84,Unused
+RET0000091,ORD0000236,OI0000511,SKU00405,CUST00081,Defective,Light socket is faulty - bulb flickers.,2026-01-10 21:51:12.000000,Inspected,228.21,13.17,Unused
+RET0000092,ORD0000239,OI0000517,SKU00270,CUST00082,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2024-05-21 09:45:13.000000,Received,229.33,17.11,Unused
+RET0000093,ORD0000248,OI0000535,SKU00361,CUST00085,Not as described,Brass accents are actually painted plastic.,2025-03-13 08:10:18.000000,Refunded,517.76,22.26,Used
+RET0000094,ORD0000252,OI0000543,SKU00075,CUST00087,Not as described,Brass accents are actually painted plastic.,2024-10-01 10:58:00.000000,Refunded,184.06,19.93,Used
+RET0000095,ORD0000256,OI0000553,SKU00338,CUST00089,Too light,Wood tone is much lighter than the rich warm color shown.,2025-05-23 10:17:23.000000,Inspected,646.91,12.6,Unused
+RET0000096,ORD0000258,OI0000556,SKU00234,CUST00090,Quality didn't meet expectations,Cushions losing shape after just a month.,2024-10-31 22:37:51.000000,Refunded,105.8,14.71,Unused
+RET0000097,ORD0000258,OI0000557,SKU00007,CUST00090,Not as described,Shown with decorative pillows that weren't included.,2024-10-31 22:37:51.000000,Refunded,66.48,23.14,Used
+RET0000098,ORD0000268,OI0000581,SKU00185,CUST00092,Too light,Pale compared to the product photography.,2024-07-24 05:21:45.000000,Refunded,105.1,27.02,Unused
+RET0000099,ORD0000269,OI0000585,SKU00126,CUST00092,Defective,Pre-drilled holes don't line up with hardware.,2025-12-19 01:14:22.000000,Refunded,464.42,22.02,Used
+RET0000100,ORD0000273,OI0000594,SKU00319,CUST00094,Damaged upon arrival,Paint is chipped off in several places.,2026-01-18 00:07:31.000000,Received,206.54,22.85,Damaged
+RET0000101,ORD0000274,OI0000595,SKU00381,CUST00095,Quality didn't meet expectations,"For this price, I expected much better materials.",2025-10-28 23:10:01.000000,Refunded,117.5,15.1,Unused
+RET0000102,ORD0000274,OI0000596,SKU00096,CUST00095,Not as described,Measurements online are wrong - about 3 inches narrower.,2025-10-19 23:10:01.000000,Inspected,21.53,22.74,Used
+RET0000103,ORD0000278,OI0000607,SKU00083,CUST00096,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2025-07-11 09:13:42.000000,Refunded,84.73,13.82,Damaged
+RET0000104,ORD0000282,OI0000615,SKU00035,CUST00097,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2024-08-03 16:43:10.000000,Inspected,270.02,22.69,Used
+RET0000105,ORD0000282,OI0000616,SKU00176,CUST00097,Quality didn't meet expectations,Cushions losing shape after just a month.,2024-08-12 16:43:10.000000,Refunded,118.3,25.44,Used
+RET0000106,ORD0000282,OI0000617,SKU00069,CUST00097,Color mismatch,Color variation is significant from the photos.,2024-07-28 16:43:10.000000,Received,157.21,21.45,Used
+RET0000107,ORD0000283,OI0000619,SKU00276,CUST00097,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-04-08 23:29:47.000000,Inspected,53.15,10.46,Used
+RET0000108,ORD0000283,OI0000620,SKU00160,CUST00097,Defective,Pre-drilled holes don't line up with hardware.,2025-04-13 23:29:47.000000,Processing,98.67,29.3,Unused
+RET0000109,ORD0000284,OI0000621,SKU00183,CUST00098,Not as described,Brass accents are actually painted plastic.,2024-08-18 00:03:08.000000,Processing,123.57,22.49,Unused
+RET0000110,ORD0000285,OI0000624,SKU00020,CUST00098,Defective,Light socket is faulty - bulb flickers.,2025-12-28 21:55:10.000000,Refunded,36.06,15.05,Used
+RET0000111,ORD0000286,OI0000625,SKU00270,CUST00098,Defective,Light socket is faulty - bulb flickers.,2025-04-21 08:00:32.000000,Refunded,244.35,26.66,Unused
+RET0000112,ORD0000289,OI0000632,SKU00176,CUST00100,Too dark,In evening lighting it's almost black.,2025-06-26 13:33:14.000000,Inspected,124.95,21.18,Used
+RET0000113,ORD0000290,OI0000635,SKU00192,CUST00100,Damaged upon arrival,One of the legs is bent and won't attach properly.,2025-08-05 22:28:01.000000,Refunded,1144.76,10.02,Damaged
+RET0000114,ORD0000291,OI0000636,SKU00004,CUST00100,Defective,One leg is shorter so the table wobbles.,2024-12-25 21:17:38.000000,Refunded,55.21,15.47,Unused
+RET0000115,ORD0000299,OI0000648,SKU00296,CUST00102,Not as described,Measurements online are wrong - about 3 inches narrower.,2025-06-04 12:10:42.000000,Refunded,298.46,29.91,Unused
+RET0000116,ORD0000300,OI0000651,SKU00108,CUST00102,Too light,Piece almost disappears because it's so light.,2025-03-30 21:27:20.000000,Refunded,608.98,9.26,Used
+RET0000117,ORD0000302,OI0000656,SKU00145,CUST00104,Not as described,Shown with decorative pillows that weren't included.,2026-03-20 19:25:43.000000,Inspected,305.96,26.72,Used
+RET0000118,ORD0000303,OI0000658,SKU00045,CUST00104,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2025-06-30 23:30:17.000000,Received,72.6,25.32,Damaged
+RET0000119,ORD0000304,OI0000659,SKU00095,CUST00104,Color mismatch,The navy I received is practically black.,2025-04-17 18:51:48.000000,Processing,256.1,15.89,Used
+RET0000120,ORD0000308,OI0000665,SKU00253,CUST00106,Color mismatch,Color variation is significant from the photos.,2026-02-28 13:51:37.000000,Processing,54.89,22.16,Used
+RET0000121,ORD0000309,OI0000668,SKU00011,CUST00106,Damaged upon arrival,Paint is chipped off in several places.,2025-05-06 03:00:15.000000,Refunded,73.17,21.89,Damaged
+RET0000122,ORD0000325,OI0000698,SKU00345,CUST00111,Defective,Drawer doesn't close flush - frame is warped.,2024-06-19 14:49:32.000000,Inspected,93.09,27.93,Used
+RET0000123,ORD0000326,OI0000703,SKU00074,CUST00112,Quality didn't meet expectations,Cushions losing shape after just a month.,2025-11-02 15:52:18.000000,Refunded,702.94,18.74,Unused
+RET0000124,ORD0000329,OI0000707,SKU00040,CUST00113,Too light,Finish is practically white-washed.,2024-11-22 11:34:05.000000,Processing,162.13,23.78,Unused
+RET0000125,ORD0000330,OI0000713,SKU00314,CUST00113,Damaged upon arrival,Paint is chipped off in several places.,2025-01-25 07:04:59.000000,Refunded,319.97,28.92,Damaged
+RET0000126,ORD0000335,OI0000725,SKU00001,CUST00116,Defective,Pre-drilled holes don't line up with hardware.,2024-08-06 21:54:39.000000,Refunded,740.98,11.47,Unused
+RET0000127,ORD0000335,OI0000726,SKU00250,CUST00116,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2024-08-14 21:54:39.000000,Processing,425.09,25.21,Unused
+RET0000128,ORD0000338,OI0000732,SKU00005,CUST00118,Damaged upon arrival,Glass component was shattered inside the box.,2025-02-18 22:43:36.000000,Refunded,103.61,11.73,Damaged
+RET0000129,ORD0000347,OI0000746,SKU00325,CUST00119,Not as described,Measurements online are wrong - about 3 inches narrower.,2025-06-22 21:26:10.000000,Processing,10.55,29.7,Used
+RET0000130,ORD0000349,OI0000748,SKU00088,CUST00120,Too dark,Finish is at least two shades darker than shown.,2025-03-10 09:01:29.000000,Refunded,114.41,8.97,Unused
+RET0000131,ORD0000352,OI0000752,SKU00276,CUST00123,Defective,Light socket is faulty - bulb flickers.,2026-01-25 08:38:53.000000,Refunded,55.2,22.71,Used
+RET0000132,ORD0000353,OI0000755,SKU00112,CUST00123,Difficult assembly,Holes for cam locks were drilled too shallow.,2025-03-22 18:28:27.000000,Processing,117.09,24.67,Unused
+RET0000133,ORD0000354,OI0000758,SKU00171,CUST00123,Defective,Pre-drilled holes don't line up with hardware.,2025-02-21 22:48:19.000000,Refunded,199.8,21.07,Used
+RET0000134,ORD0000357,OI0000766,SKU00028,CUST00124,Quality didn't meet expectations,Cushions losing shape after just a month.,2025-07-23 02:27:38.000000,Refunded,275.67,22.56,Used
+RET0000135,ORD0000361,OI0000771,SKU00128,CUST00125,Quality didn't meet expectations,"For this price, I expected much better materials.",2026-03-11 11:03:41.000000,Refunded,987.36,9.35,Unused
+RET0000136,ORD0000367,OI0000787,SKU00079,CUST00128,Defective,Pre-drilled holes don't line up with hardware.,2025-01-27 15:41:26.000000,Refunded,1064.44,13.64,Used
+RET0000137,ORD0000369,OI0000792,SKU00118,CUST00129,Quality didn't meet expectations,Cushions losing shape after just a month.,2025-12-06 16:13:32.000000,Refunded,71.15,15.62,Used
+RET0000138,ORD0000372,OI0000797,SKU00406,CUST00130,Defective,Light socket is faulty - bulb flickers.,2026-03-26 23:50:03.000000,Received,120.47,26.7,Unused
+RET0000139,ORD0000372,OI0000799,SKU00367,CUST00130,Too light,Piece almost disappears because it's so light.,2026-03-23 23:50:03.000000,Inspected,133.01,22.68,Unused
+RET0000140,ORD0000378,OI0000810,SKU00190,CUST00134,Too light,Pale compared to the product photography.,2025-07-04 15:04:31.000000,Inspected,92.34,13.91,Unused
+RET0000141,ORD0000379,OI0000814,SKU00355,CUST00134,Too dark,In evening lighting it's almost black.,2026-01-03 17:03:17.000000,Refunded,30.66,21.01,Unused
+RET0000142,ORD0000383,OI0000821,SKU00133,CUST00135,Not as described,Shown with decorative pillows that weren't included.,2025-04-28 15:41:18.000000,Refunded,396.74,27.01,Unused
+RET0000143,ORD0000385,OI0000825,SKU00021,CUST00136,Too light,Wood tone is much lighter than the rich warm color shown.,2024-11-30 10:18:51.000000,Refunded,25.81,9.12,Unused
+RET0000144,ORD0000388,OI0000830,SKU00375,CUST00136,Not as described,Brass accents are actually painted plastic.,2024-05-23 23:29:35.000000,Inspected,217.69,19.19,Unused
+RET0000145,ORD0000392,OI0000838,SKU00274,CUST00137,Quality didn't meet expectations,Cushions losing shape after just a month.,2025-10-07 22:33:13.000000,Received,106.39,28.67,Used
+RET0000146,ORD0000392,OI0000839,SKU00188,CUST00137,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2025-10-15 22:33:13.000000,Refunded,96.73,19.54,Damaged
+RET0000147,ORD0000396,OI0000849,SKU00126,CUST00138,Defective,Light socket is faulty - bulb flickers.,2024-08-27 15:05:17.000000,Refunded,232.21,25.92,Used
+RET0000148,ORD0000400,OI0000863,SKU00373,CUST00139,Too light,Wood tone is much lighter than the rich warm color shown.,2024-08-15 13:35:09.000000,Processing,61.16,19.66,Used
+RET0000149,ORD0000404,OI0000871,SKU00132,CUST00140,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2026-03-23 20:48:38.000000,Refunded,749.12,14.38,Unused
+RET0000150,ORD0000404,OI0000872,SKU00290,CUST00140,Difficult assembly,Holes for cam locks were drilled too shallow.,2026-04-09 20:48:38.000000,Received,96.02,8.19,Unused
+RET0000151,ORD0000412,OI0000887,SKU00384,CUST00142,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-03-23 08:21:09.000000,Refunded,64.11,15.61,Unused
+RET0000152,ORD0000415,OI0000894,SKU00254,CUST00143,Quality didn't meet expectations,Construction feels flimsy and unstable.,2025-04-23 01:06:51.000000,Processing,166.69,17.82,Unused
+RET0000153,ORD0000415,OI0000895,SKU00044,CUST00143,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-04-30 01:06:51.000000,Received,159.09,21.49,Unused
+RET0000154,ORD0000416,OI0000898,SKU00021,CUST00143,Difficult assembly,Need three hands to hold pieces while screwing.,2024-09-14 14:06:21.000000,Refunded,24.49,18.76,Used
+RET0000155,ORD0000416,OI0000900,SKU00092,CUST00143,Defective,Pre-drilled holes don't line up with hardware.,2024-09-24 14:06:21.000000,Received,29.32,11.72,Used
+RET0000156,ORD0000416,OI0000901,SKU00144,CUST00143,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2024-09-27 14:06:21.000000,Refunded,571.01,17.41,Used
+RET0000157,ORD0000416,OI0000902,SKU00114,CUST00143,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2024-09-10 14:06:21.000000,Inspected,17.89,9.7,Damaged
+RET0000158,ORD0000417,OI0000903,SKU00185,CUST00143,Too light,Wood tone is much lighter than the rich warm color shown.,2024-05-31 11:48:17.000000,Refunded,116.14,22.37,Used
+RET0000159,ORD0000418,OI0000906,SKU00270,CUST00143,Defective,Pre-drilled holes don't line up with hardware.,2024-11-07 12:05:47.000000,Refunded,244.35,12.87,Unused
+RET0000160,ORD0000420,OI0000909,SKU00006,CUST00143,Difficult assembly,Holes for cam locks were drilled too shallow.,2025-01-01 16:43:38.000000,Refunded,56.42,28.35,Used
+RET0000161,ORD0000421,OI0000914,SKU00341,CUST00144,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2024-10-11 20:03:54.000000,Received,209.28,9.56,Used
+RET0000162,ORD0000424,OI0000918,SKU00014,CUST00145,Too dark,Finish is at least two shades darker than shown.,2025-01-16 13:53:51.000000,Refunded,146.55,11.22,Used
+RET0000163,ORD0000424,OI0000919,SKU00039,CUST00145,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2025-01-18 13:53:51.000000,Inspected,117.27,19.36,Used
+RET0000164,ORD0000425,OI0000920,SKU00088,CUST00145,Color mismatch,Gold finish is extremely yellow and brassy.,2025-12-10 16:46:53.000000,Refunded,104.65,16.11,Unused
+RET0000165,ORD0000427,OI0000923,SKU00170,CUST00145,Not as described,Shown with decorative pillows that weren't included.,2025-02-23 21:51:22.000000,Refunded,155.32,12.1,Used
+RET0000166,ORD0000429,OI0000930,SKU00139,CUST00145,Defective,Drawer doesn't close flush - frame is warped.,2025-11-23 12:54:37.000000,Refunded,222.32,29.11,Unused
+RET0000167,ORD0000430,OI0000932,SKU00413,CUST00146,Too light,Wood tone is much lighter than the rich warm color shown.,2026-02-07 14:37:26.000000,Received,146.34,22.42,Used
+RET0000168,ORD0000432,OI0000934,SKU00242,CUST00146,Quality didn't meet expectations,"For this price, I expected much better materials.",2024-11-06 09:06:48.000000,Received,103.91,11.61,Unused
+RET0000169,ORD0000436,OI0000942,SKU00216,CUST00148,Not as described,Measurements online are wrong - about 3 inches narrower.,2024-05-11 11:45:43.000000,Refunded,69.59,14.72,Unused
+RET0000170,ORD0000437,OI0000943,SKU00119,CUST00148,Color mismatch,Beige is much more yellow-toned than the photos.,2025-12-12 05:15:20.000000,Processing,213.66,12.0,Used
+RET0000171,ORD0000438,OI0000944,SKU00044,CUST00148,Difficult assembly,Instructions were just bad diagrams with no text.,2025-06-06 09:55:52.000000,Refunded,79.61,8.18,Used
+RET0000172,ORD0000439,OI0000946,SKU00355,CUST00149,Difficult assembly,Instructions were just bad diagrams with no text.,2024-06-06 21:22:38.000000,Inspected,31.41,22.11,Unused
+RET0000173,ORD0000443,OI0000953,SKU00079,CUST00151,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2024-06-10 17:34:13.000000,Received,1831.8,19.98,Used
+RET0000174,ORD0000450,OI0000971,SKU00404,CUST00153,Too dark,Much more moody and dark in person.,2024-10-01 06:47:01.000000,Refunded,125.17,11.34,Used
+RET0000175,ORD0000452,OI0000973,SKU00305,CUST00154,Not as described,Photos show a warm honey tone but it's very orange-yellow.,2024-05-06 06:20:32.000000,Received,134.12,15.74,Unused
+RET0000176,ORD0000454,OI0000977,SKU00149,CUST00155,Defective,Pre-drilled holes don't line up with hardware.,2024-08-19 19:02:39.000000,Inspected,34.95,24.46,Unused
+RET0000177,ORD0000462,OI0000993,SKU00097,CUST00158,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2025-04-27 15:17:35.000000,Refunded,187.68,11.81,Damaged
+RET0000178,ORD0000464,OI0000996,SKU00206,CUST00159,Damaged upon arrival,Paint is chipped off in several places.,2024-11-07 11:09:36.000000,Processing,124.42,23.39,Damaged
+RET0000179,ORD0000465,OI0001001,SKU00214,CUST00159,Difficult assembly,Need three hands to hold pieces while screwing.,2025-12-18 02:26:53.000000,Refunded,58.12,28.6,Used
+RET0000180,ORD0000466,OI0001002,SKU00134,CUST00159,Too light,Pale compared to the product photography.,2025-02-08 23:08:09.000000,Refunded,320.75,28.38,Unused
+RET0000181,ORD0000466,OI0001005,SKU00105,CUST00159,Too light,Pale compared to the product photography.,2025-01-31 23:08:09.000000,Inspected,249.88,11.5,Used
+RET0000182,ORD0000467,OI0001008,SKU00076,CUST00159,Defective,One leg is shorter so the table wobbles.,2024-09-04 18:14:51.000000,Processing,148.69,12.9,Used
+RET0000183,ORD0000468,OI0001010,SKU00369,CUST00159,Too light,Finish is practically white-washed.,2025-08-04 01:05:23.000000,Received,530.87,8.2,Unused
+RET0000184,ORD0000468,OI0001011,SKU00115,CUST00159,Color mismatch,Beige is much more yellow-toned than the photos.,2025-08-17 01:05:23.000000,Processing,19.18,24.83,Used
+RET0000185,ORD0000470,OI0001015,SKU00213,CUST00159,Not as described,Brass accents are actually painted plastic.,2025-11-29 08:46:33.000000,Refunded,287.94,23.9,Used
+RET0000186,ORD0000471,OI0001018,SKU00163,CUST00160,Difficult assembly,Need three hands to hold pieces while screwing.,2025-11-11 09:34:50.000000,Refunded,520.52,15.56,Used
+RET0000187,ORD0000471,OI0001020,SKU00202,CUST00160,Quality didn't meet expectations,Cushions losing shape after just a month.,2025-11-06 09:34:50.000000,Refunded,50.39,13.54,Used
+RET0000188,ORD0000472,OI0001021,SKU00103,CUST00160,Too dark,In evening lighting it's almost black.,2024-07-30 09:28:43.000000,Received,80.21,8.95,Unused
+RET0000189,ORD0000473,OI0001023,SKU00143,CUST00160,Quality didn't meet expectations,Construction feels flimsy and unstable.,2025-12-23 13:31:22.000000,Processing,138.36,24.14,Used
+RET0000190,ORD0000475,OI0001027,SKU00136,CUST00161,Defective,Pre-drilled holes don't line up with hardware.,2024-08-24 15:14:50.000000,Received,79.2,23.09,Unused
+RET0000191,ORD0000476,OI0001028,SKU00092,CUST00161,Defective,Drawer doesn't close flush - frame is warped.,2024-12-19 00:37:01.000000,Refunded,17.25,27.03,Unused
+RET0000192,ORD0000477,OI0001031,SKU00009,CUST00161,Too dark,Much more moody and dark in person.,2024-07-27 09:32:17.000000,Processing,67.15,9.79,Used
+RET0000193,ORD0000479,OI0001038,SKU00302,CUST00162,Defective,One leg is shorter so the table wobbles.,2024-05-06 09:06:42.000000,Processing,125.42,10.04,Used
+RET0000194,ORD0000484,OI0001046,SKU00165,CUST00164,Defective,Drawer doesn't close flush - frame is warped.,2026-03-22 17:15:56.000000,Refunded,1147.57,20.3,Unused
+RET0000195,ORD0000487,OI0001051,SKU00031,CUST00165,Difficult assembly,Instructions were just bad diagrams with no text.,2025-11-09 19:16:17.000000,Refunded,37.92,16.23,Unused
+RET0000196,ORD0000488,OI0001057,SKU00206,CUST00166,Quality didn't meet expectations,Cushions losing shape after just a month.,2024-09-16 11:33:59.000000,Refunded,122.77,10.31,Used
+RET0000197,ORD0000489,OI0001059,SKU00026,CUST00166,Defective,Drawer doesn't close flush - frame is warped.,2024-06-13 11:06:30.000000,Refunded,257.36,14.42,Used
+RET0000198,ORD0000490,OI0001065,SKU00099,CUST00167,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2025-08-07 07:56:07.000000,Refunded,272.34,10.9,Unused
+RET0000199,ORD0000492,OI0001067,SKU00399,CUST00167,Quality didn't meet expectations,Cushions losing shape after just a month.,2026-02-01 13:24:31.000000,Processing,354.19,9.5,Unused
+RET0000200,ORD0000493,OI0001068,SKU00144,CUST00167,Too dark,Much more moody and dark in person.,2025-08-27 15:04:37.000000,Inspected,569.16,8.31,Unused
+RET0000201,ORD0000496,OI0001072,SKU00226,CUST00168,Defective,Drawer doesn't close flush - frame is warped.,2025-10-18 23:03:03.000000,Inspected,278.08,21.86,Used
+RET0000202,ORD0000497,OI0001073,SKU00109,CUST00168,Not as described,Measurements online are wrong - about 3 inches narrower.,2025-12-21 10:31:07.000000,Received,52.88,22.35,Used
+RET0000203,ORD0000501,OI0001079,SKU00116,CUST00171,Quality didn't meet expectations,Cushions losing shape after just a month.,2025-08-14 18:54:54.000000,Processing,437.19,26.7,Unused
+RET0000204,ORD0000503,OI0001083,SKU00112,CUST00172,Damaged upon arrival,Paint is chipped off in several places.,2024-07-19 11:03:40.000000,Inspected,137.44,10.55,Damaged
+RET0000205,ORD0000506,OI0001090,SKU00246,CUST00173,Too light,Pale compared to the product photography.,2026-01-02 07:48:42.000000,Processing,61.53,17.84,Unused
+RET0000206,ORD0000509,OI0001097,SKU00339,CUST00175,Not as described,Description said solid wood but this is veneer over particle board.,2025-06-19 05:31:21.000000,Refunded,52.25,12.65,Used
+RET0000207,ORD0000510,OI0001100,SKU00094,CUST00175,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2025-03-20 03:58:34.000000,Refunded,196.33,12.65,Used
+RET0000208,ORD0000511,OI0001103,SKU00292,CUST00176,Quality didn't meet expectations,"For this price, I expected much better materials.",2025-09-19 06:04:58.000000,Inspected,175.34,27.08,Unused
+RET0000209,ORD0000514,OI0001111,SKU00293,CUST00177,Defective,Drawer doesn't close flush - frame is warped.,2025-05-26 10:13:26.000000,Refunded,144.31,24.63,Unused
+RET0000210,ORD0000516,OI0001116,SKU00332,CUST00178,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-01-21 11:26:29.000000,Refunded,89.79,22.15,Used
+RET0000211,ORD0000517,OI0001120,SKU00245,CUST00178,Color mismatch,Gold finish is extremely yellow and brassy.,2024-05-06 06:17:04.000000,Processing,294.66,15.11,Used
+RET0000212,ORD0000520,OI0001128,SKU00053,CUST00180,Color mismatch,Beige is much more yellow-toned than the photos.,2026-02-05 03:47:26.000000,Refunded,308.56,13.46,Unused
+RET0000213,ORD0000523,OI0001131,SKU00314,CUST00181,Difficult assembly,Need three hands to hold pieces while screwing.,2025-03-29 03:53:35.000000,Refunded,280.31,23.0,Unused
+RET0000214,ORD0000524,OI0001132,SKU00192,CUST00181,Defective,Drawer doesn't close flush - frame is warped.,2025-01-25 18:06:20.000000,Inspected,2289.52,27.62,Unused
+RET0000215,ORD0000526,OI0001134,SKU00066,CUST00181,Too dark,Much more moody and dark in person.,2026-03-24 22:35:39.000000,Refunded,128.46,8.2,Unused
+RET0000216,ORD0000527,OI0001136,SKU00319,CUST00182,Too light,Pale compared to the product photography.,2026-01-28 02:39:19.000000,Refunded,91.53,20.95,Unused
+RET0000217,ORD0000532,OI0001145,SKU00302,CUST00184,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2024-09-09 05:51:44.000000,Received,352.59,10.17,Unused
+RET0000218,ORD0000533,OI0001147,SKU00211,CUST00184,Not as described,Shown with decorative pillows that weren't included.,2025-11-18 09:22:02.000000,Refunded,881.16,28.29,Unused
+RET0000219,ORD0000535,OI0001151,SKU00029,CUST00185,Difficult assembly,Instructions were just bad diagrams with no text.,2025-09-06 15:50:11.000000,Refunded,82.22,27.79,Unused
+RET0000220,ORD0000544,OI0001167,SKU00236,CUST00188,Not as described,Shown with decorative pillows that weren't included.,2025-03-28 18:07:42.000000,Inspected,184.28,27.94,Unused
+RET0000221,ORD0000546,OI0001173,SKU00375,CUST00188,Too light,Wood tone is much lighter than the rich warm color shown.,2025-11-21 05:44:51.000000,Refunded,203.49,9.61,Unused
+RET0000222,ORD0000553,OI0001186,SKU00148,CUST00191,Color mismatch,The navy I received is practically black.,2026-03-31 21:57:09.394394,Inspected,182.51,14.8,Used
+RET0000223,ORD0000556,OI0001193,SKU00151,CUST00193,Difficult assembly,Holes for cam locks were drilled too shallow.,2026-03-07 05:13:40.000000,Inspected,132.27,14.89,Unused
+RET0000224,ORD0000557,OI0001195,SKU00294,CUST00193,Not as described,Description said solid wood but this is veneer over particle board.,2025-04-20 13:59:23.000000,Inspected,111.6,14.91,Unused
+RET0000225,ORD0000557,OI0001196,SKU00156,CUST00193,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-03-31 13:59:23.000000,Refunded,407.78,18.56,Used
+RET0000226,ORD0000557,OI0001197,SKU00329,CUST00193,Difficult assembly,Holes for cam locks were drilled too shallow.,2025-04-07 13:59:23.000000,Received,241.01,18.93,Used
+RET0000227,ORD0000561,OI0001201,SKU00006,CUST00194,Damaged upon arrival,Paint is chipped off in several places.,2025-07-09 01:11:55.000000,Refunded,58.52,22.6,Damaged
+RET0000228,ORD0000562,OI0001202,SKU00316,CUST00195,Color mismatch,Gold finish is extremely yellow and brassy.,2025-08-18 11:50:20.000000,Refunded,110.51,14.68,Used
+RET0000229,ORD0000562,OI0001203,SKU00203,CUST00195,Color mismatch,The navy I received is practically black.,2025-08-03 11:50:20.000000,Processing,94.5,20.41,Used
+RET0000230,ORD0000566,OI0001212,SKU00279,CUST00196,Too light,Piece almost disappears because it's so light.,2024-06-01 17:26:17.000000,Refunded,277.74,27.82,Used
+RET0000231,ORD0000567,OI0001213,SKU00088,CUST00196,Not as described,Photos show a warm honey tone but it's very orange-yellow.,2025-05-26 08:58:20.000000,Received,110.2,8.68,Unused
+RET0000232,ORD0000567,OI0001215,SKU00367,CUST00196,Quality didn't meet expectations,Cushions losing shape after just a month.,2025-05-19 08:58:20.000000,Refunded,121.38,13.33,Used
+RET0000233,ORD0000568,OI0001216,SKU00097,CUST00196,Defective,One leg is shorter so the table wobbles.,2026-02-05 09:20:31.000000,Refunded,168.91,11.5,Unused
+RET0000234,ORD0000570,OI0001219,SKU00338,CUST00197,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2024-09-05 16:10:19.000000,Refunded,1011.77,29.64,Unused
+RET0000235,ORD0000571,OI0001222,SKU00157,CUST00197,Too dark,Much more moody and dark in person.,2025-05-22 03:01:15.000000,Processing,55.96,25.46,Unused
+RET0000236,ORD0000573,OI0001228,SKU00026,CUST00198,Damaged upon arrival,Glass component was shattered inside the box.,2025-01-20 00:50:53.000000,Refunded,257.36,18.95,Damaged
+RET0000237,ORD0000573,OI0001231,SKU00311,CUST00198,Defective,Drawer doesn't close flush - frame is warped.,2025-01-23 00:50:53.000000,Refunded,150.36,29.15,Unused
+RET0000238,ORD0000574,OI0001232,SKU00381,CUST00198,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2025-12-27 03:06:16.000000,Inspected,135.31,17.25,Damaged
+RET0000239,ORD0000575,OI0001234,SKU00163,CUST00199,Color mismatch,Gold finish is extremely yellow and brassy.,2024-11-16 02:28:09.000000,Refunded,352.01,26.31,Used
+RET0000240,ORD0000576,OI0001238,SKU00114,CUST00199,Defective,One leg is shorter so the table wobbles.,2025-01-28 18:48:26.000000,Refunded,47.7,8.49,Unused
+RET0000241,ORD0000576,OI0001240,SKU00002,CUST00199,Too dark,Finish is at least two shades darker than shown.,2025-01-08 18:48:26.000000,Refunded,177.16,14.24,Used
+RET0000242,ORD0000580,OI0001247,SKU00381,CUST00199,Damaged upon arrival,Glass component was shattered inside the box.,2025-10-19 01:26:37.000000,Inspected,135.31,22.28,Damaged
+RET0000243,ORD0000582,OI0001251,SKU00322,CUST00200,Defective,Pre-drilled holes don't line up with hardware.,2024-12-10 00:27:03.000000,Inspected,335.74,17.44,Used
+RET0000244,ORD0000583,OI0001253,SKU00161,CUST00200,Color mismatch,Color variation is significant from the photos.,2025-07-04 03:07:37.000000,Refunded,58.09,9.64,Unused
+RET0000245,ORD0000584,OI0001256,SKU00340,CUST00200,Quality didn't meet expectations,Cushions losing shape after just a month.,2024-05-02 07:39:42.000000,Processing,338.92,27.51,Unused
+RET0000246,ORD0000586,OI0001263,SKU00408,CUST00201,Color mismatch,White is actually off-white/cream.,2024-09-18 19:58:52.000000,Received,181.71,17.02,Unused
+RET0000247,ORD0000587,OI0001264,SKU00006,CUST00202,Difficult assembly,Holes for cam locks were drilled too shallow.,2024-07-16 22:22:21.000000,Refunded,184.6,21.58,Used
+RET0000248,ORD0000588,OI0001266,SKU00215,CUST00202,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2024-11-04 21:38:03.000000,Refunded,44.78,26.15,Damaged
+RET0000249,ORD0000588,OI0001267,SKU00121,CUST00202,Defective,Drawer doesn't close flush - frame is warped.,2024-10-23 21:38:03.000000,Refunded,322.75,10.65,Used
+RET0000250,ORD0000588,OI0001268,SKU00414,CUST00202,Not as described,Measurements online are wrong - about 3 inches narrower.,2024-11-08 21:38:03.000000,Refunded,335.42,22.27,Unused
+RET0000251,ORD0000589,OI0001269,SKU00046,CUST00202,Too light,Wood tone is much lighter than the rich warm color shown.,2025-11-04 17:35:45.000000,Refunded,284.65,15.91,Used
+RET0000252,ORD0000591,OI0001275,SKU00312,CUST00203,Not as described,Measurements online are wrong - about 3 inches narrower.,2025-05-21 22:10:57.000000,Refunded,163.28,25.93,Used
+RET0000253,ORD0000598,OI0001285,SKU00182,CUST00206,Defective,Light socket is faulty - bulb flickers.,2025-11-04 08:08:08.000000,Refunded,117.48,15.62,Unused
+RET0000254,ORD0000599,OI0001289,SKU00130,CUST00206,Color mismatch,Color variation is significant from the photos.,2025-05-01 16:00:15.000000,Received,84.14,16.05,Unused
+RET0000255,ORD0000599,OI0001290,SKU00001,CUST00206,Damaged upon arrival,Paint is chipped off in several places.,2025-05-19 16:00:15.000000,Processing,351.97,29.41,Damaged
+RET0000256,ORD0000601,OI0001298,SKU00288,CUST00207,Quality didn't meet expectations,Construction feels flimsy and unstable.,2026-01-06 07:46:17.000000,Received,269.0,18.83,Used
+RET0000257,ORD0000604,OI0001303,SKU00127,CUST00207,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2024-12-19 23:22:48.000000,Refunded,313.62,23.9,Used
+RET0000258,ORD0000606,OI0001308,SKU00364,CUST00207,Defective,One leg is shorter so the table wobbles.,2025-03-10 13:00:53.000000,Processing,150.95,11.01,Used
+RET0000259,ORD0000609,OI0001315,SKU00319,CUST00209,Difficult assembly,Holes for cam locks were drilled too shallow.,2024-12-30 06:31:31.000000,Refunded,182.07,22.19,Used
+RET0000260,ORD0000611,OI0001318,SKU00037,CUST00209,Too light,Piece almost disappears because it's so light.,2025-07-30 03:24:47.000000,Processing,69.66,19.63,Used
+RET0000261,ORD0000622,OI0001339,SKU00061,CUST00215,Color mismatch,Beige is much more yellow-toned than the photos.,2025-11-01 08:35:49.000000,Refunded,255.61,9.45,Unused
+RET0000262,ORD0000623,OI0001341,SKU00288,CUST00216,Color mismatch,Color variation is significant from the photos.,2025-04-22 20:51:22.000000,Refunded,743.5,20.14,Unused
+RET0000263,ORD0000624,OI0001343,SKU00086,CUST00216,Quality didn't meet expectations,Construction feels flimsy and unstable.,2024-11-24 20:40:46.000000,Received,163.12,13.03,Used
+RET0000264,ORD0000626,OI0001348,SKU00169,CUST00216,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2024-11-08 16:56:08.000000,Received,98.8,18.11,Used
+RET0000265,ORD0000628,OI0001350,SKU00307,CUST00216,Defective,Pre-drilled holes don't line up with hardware.,2024-07-24 03:37:12.000000,Refunded,628.16,10.49,Unused
+RET0000266,ORD0000632,OI0001359,SKU00168,CUST00217,Defective,Drawer doesn't close flush - frame is warped.,2024-07-25 07:05:35.000000,Inspected,232.69,20.02,Used
+RET0000267,ORD0000641,OI0001378,SKU00349,CUST00220,Too light,Wood tone is much lighter than the rich warm color shown.,2025-05-15 12:32:50.000000,Inspected,235.96,9.24,Unused
+RET0000268,ORD0000641,OI0001379,SKU00032,CUST00220,Too light,Finish is practically white-washed.,2025-05-12 12:32:50.000000,Inspected,636.08,28.88,Used
+RET0000269,ORD0000648,OI0001390,SKU00286,CUST00223,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2024-12-14 05:54:34.000000,Processing,43.5,23.26,Used
+RET0000270,ORD0000648,OI0001391,SKU00264,CUST00223,Color mismatch,White is actually off-white/cream.,2024-12-03 05:54:34.000000,Refunded,219.47,11.29,Unused
+RET0000271,ORD0000650,OI0001397,SKU00242,CUST00223,Too light,Piece almost disappears because it's so light.,2026-02-02 03:44:56.000000,Inspected,95.96,9.62,Used
+RET0000272,ORD0000650,OI0001400,SKU00375,CUST00223,Too light,Finish is practically white-washed.,2026-01-30 03:44:56.000000,Refunded,214.61,8.19,Unused
+RET0000273,ORD0000651,OI0001401,SKU00126,CUST00224,Not as described,Shown with decorative pillows that weren't included.,2024-09-29 05:02:43.000000,Inspected,424.1,8.25,Used
+RET0000274,ORD0000652,OI0001402,SKU00346,CUST00224,Quality didn't meet expectations,Construction feels flimsy and unstable.,2024-12-22 12:51:56.000000,Received,132.18,8.49,Used
+RET0000275,ORD0000652,OI0001404,SKU00293,CUST00224,Defective,Pre-drilled holes don't line up with hardware.,2024-12-23 12:51:56.000000,Refunded,144.31,19.01,Used
+RET0000276,ORD0000655,OI0001409,SKU00280,CUST00224,Defective,Drawer doesn't close flush - frame is warped.,2024-09-07 19:27:51.000000,Refunded,104.53,15.25,Used
+RET0000277,ORD0000656,OI0001411,SKU00090,CUST00224,Too dark,In evening lighting it's almost black.,2024-12-19 05:06:27.000000,Received,135.78,11.17,Used
+RET0000278,ORD0000661,OI0001420,SKU00074,CUST00226,Damaged upon arrival,One of the legs is bent and won't attach properly.,2024-12-05 11:57:54.000000,Refunded,354.27,28.89,Damaged
+RET0000279,ORD0000664,OI0001426,SKU00294,CUST00227,Damaged upon arrival,One of the legs is bent and won't attach properly.,2025-06-20 05:47:24.000000,Processing,107.7,22.16,Damaged
+RET0000280,ORD0000672,OI0001439,SKU00291,CUST00230,Defective,Pre-drilled holes don't line up with hardware.,2024-07-09 02:48:13.000000,Received,98.52,8.3,Used
+RET0000281,ORD0000672,OI0001441,SKU00293,CUST00230,Quality didn't meet expectations,Construction feels flimsy and unstable.,2024-07-03 02:48:13.000000,Refunded,124.31,10.02,Unused
+RET0000282,ORD0000673,OI0001443,SKU00370,CUST00230,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2026-03-04 07:06:23.000000,Refunded,57.78,15.86,Unused
+RET0000283,ORD0000680,OI0001457,SKU00361,CUST00233,Difficult assembly,Need three hands to hold pieces while screwing.,2025-01-10 01:39:01.000000,Refunded,510.28,29.65,Used
+RET0000284,ORD0000682,OI0001462,SKU00277,CUST00234,Too light,Wood tone is much lighter than the rich warm color shown.,2024-06-12 08:09:46.000000,Inspected,229.08,24.81,Used
+RET0000285,ORD0000688,OI0001475,SKU00274,CUST00236,Color mismatch,The navy I received is practically black.,2024-06-11 04:31:16.000000,Refunded,108.3,29.67,Used
+RET0000286,ORD0000689,OI0001479,SKU00120,CUST00236,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-03-07 16:09:34.000000,Refunded,121.98,12.93,Used
+RET0000287,ORD0000694,OI0001489,SKU00156,CUST00237,Difficult assembly,Instructions were just bad diagrams with no text.,2025-10-18 14:48:21.000000,Inspected,777.54,24.84,Unused
+RET0000288,ORD0000696,OI0001493,SKU00393,CUST00237,Damaged upon arrival,Glass component was shattered inside the box.,2024-08-21 06:49:40.000000,Refunded,98.58,29.9,Damaged
+RET0000289,ORD0000698,OI0001497,SKU00336,CUST00237,Color mismatch,Gold finish is extremely yellow and brassy.,2026-01-24 11:12:56.000000,Processing,204.04,29.19,Unused
+RET0000290,ORD0000700,OI0001503,SKU00364,CUST00238,Defective,Drawer doesn't close flush - frame is warped.,2024-12-29 10:20:09.000000,Refunded,150.95,17.11,Used
+RET0000291,ORD0000701,OI0001508,SKU00088,CUST00238,Defective,Pre-drilled holes don't line up with hardware.,2024-06-24 14:19:06.000000,Refunded,347.91,10.05,Used
+RET0000292,ORD0000702,OI0001510,SKU00152,CUST00239,Not as described,Shown with decorative pillows that weren't included.,2024-11-13 05:02:46.000000,Refunded,293.81,11.73,Used
+RET0000293,ORD0000703,OI0001511,SKU00209,CUST00239,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2024-07-22 10:31:42.000000,Processing,82.82,27.52,Damaged
+RET0000294,ORD0000704,OI0001514,SKU00185,CUST00239,Defective,Light socket is faulty - bulb flickers.,2025-07-15 21:40:00.000000,Refunded,129.35,24.25,Used
+RET0000295,ORD0000705,OI0001517,SKU00017,CUST00239,Color mismatch,Gold finish is extremely yellow and brassy.,2025-12-11 04:41:24.000000,Refunded,786.11,14.16,Used
+RET0000296,ORD0000707,OI0001519,SKU00039,CUST00241,Too dark,Finish is at least two shades darker than shown.,2025-08-18 09:00:41.000000,Inspected,122.53,23.29,Used
+RET0000297,ORD0000709,OI0001523,SKU00327,CUST00241,Too light,Finish is practically white-washed.,2026-01-01 14:54:31.000000,Refunded,815.36,20.22,Unused
+RET0000298,ORD0000710,OI0001525,SKU00262,CUST00242,Defective,Drawer doesn't close flush - frame is warped.,2025-08-21 18:35:06.000000,Refunded,35.16,16.22,Unused
+RET0000299,ORD0000710,OI0001526,SKU00340,CUST00242,Defective,Pre-drilled holes don't line up with hardware.,2025-08-18 18:35:06.000000,Inspected,187.51,14.48,Unused
+RET0000300,ORD0000712,OI0001530,SKU00249,CUST00242,Quality didn't meet expectations,Construction feels flimsy and unstable.,2025-12-19 22:24:25.000000,Processing,136.93,12.64,Unused
+RET0000301,ORD0000714,OI0001532,SKU00313,CUST00243,Quality didn't meet expectations,"For this price, I expected much better materials.",2025-02-15 21:11:30.000000,Received,24.79,25.01,Unused
+RET0000302,ORD0000716,OI0001536,SKU00296,CUST00243,Quality didn't meet expectations,"For this price, I expected much better materials.",2026-03-27 02:10:49.000000,Refunded,298.19,9.85,Unused
+RET0000303,ORD0000717,OI0001540,SKU00356,CUST00243,Defective,Light socket is faulty - bulb flickers.,2025-03-28 07:20:56.000000,Inspected,182.14,9.9,Unused
+RET0000304,ORD0000722,OI0001555,SKU00067,CUST00247,Color mismatch,Beige is much more yellow-toned than the photos.,2024-12-13 15:07:54.000000,Refunded,332.35,9.9,Unused
+RET0000305,ORD0000732,OI0001580,SKU00246,CUST00248,Damaged upon arrival,One of the legs is bent and won't attach properly.,2024-10-06 08:13:34.000000,Inspected,142.58,27.93,Damaged
+RET0000306,ORD0000733,OI0001584,SKU00228,CUST00249,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2024-11-20 23:47:33.000000,Inspected,248.19,27.25,Used
+RET0000307,ORD0000741,OI0001596,SKU00390,CUST00253,Too light,Piece almost disappears because it's so light.,2024-08-23 00:24:39.000000,Refunded,103.4,21.22,Unused
+RET0000308,ORD0000741,OI0001597,SKU00251,CUST00253,Damaged upon arrival,Paint is chipped off in several places.,2024-09-02 00:24:39.000000,Inspected,40.0,8.57,Damaged
+RET0000309,ORD0000744,OI0001603,SKU00116,CUST00254,Not as described,Measurements online are wrong - about 3 inches narrower.,2025-04-20 08:25:44.000000,Received,240.33,23.09,Unused
+RET0000310,ORD0000746,OI0001609,SKU00013,CUST00255,Defective,Drawer doesn't close flush - frame is warped.,2025-07-28 15:52:27.000000,Refunded,498.96,12.59,Unused
+RET0000311,ORD0000753,OI0001626,SKU00113,CUST00258,Defective,Drawer doesn't close flush - frame is warped.,2024-11-27 00:41:01.000000,Refunded,25.77,11.32,Used
+RET0000312,ORD0000754,OI0001628,SKU00011,CUST00258,Quality didn't meet expectations,Cushions losing shape after just a month.,2025-10-17 11:04:09.000000,Refunded,68.55,25.79,Used
+RET0000313,ORD0000755,OI0001631,SKU00065,CUST00258,Quality didn't meet expectations,Cushions losing shape after just a month.,2026-02-24 02:39:44.000000,Refunded,197.63,23.96,Unused
+RET0000314,ORD0000757,OI0001635,SKU00355,CUST00259,Too light,Wood tone is much lighter than the rich warm color shown.,2024-06-16 17:19:05.000000,Received,31.52,25.11,Used
+RET0000315,ORD0000760,OI0001644,SKU00150,CUST00260,Not as described,Shown with decorative pillows that weren't included.,2026-04-02 21:57:09.899582,Received,80.52,14.91,Unused
+RET0000316,ORD0000760,OI0001645,SKU00152,CUST00260,Color mismatch,Color variation is significant from the photos.,2026-04-02 21:57:09.900831,Refunded,262.95,29.05,Unused
+RET0000317,ORD0000760,OI0001648,SKU00077,CUST00260,Difficult assembly,Need three hands to hold pieces while screwing.,2026-04-08 21:57:09.904116,Received,230.1,23.65,Used
+RET0000318,ORD0000766,OI0001661,SKU00389,CUST00261,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2025-10-07 23:46:35.000000,Inspected,190.24,11.7,Unused
+RET0000319,ORD0000769,OI0001670,SKU00274,CUST00262,Quality didn't meet expectations,Cushions losing shape after just a month.,2024-10-03 02:02:55.000000,Refunded,97.71,23.98,Unused
+RET0000320,ORD0000770,OI0001671,SKU00059,CUST00262,Difficult assembly,Instructions were just bad diagrams with no text.,2025-03-28 15:35:46.000000,Refunded,76.99,28.18,Unused
+RET0000321,ORD0000772,OI0001674,SKU00412,CUST00262,Quality didn't meet expectations,Construction feels flimsy and unstable.,2025-06-23 09:48:35.000000,Received,927.83,10.09,Unused
+RET0000322,ORD0000775,OI0001677,SKU00068,CUST00264,Color mismatch,The navy I received is practically black.,2024-09-03 03:47:42.000000,Refunded,226.03,26.21,Used
+RET0000323,ORD0000775,OI0001680,SKU00120,CUST00264,Too dark,Much more moody and dark in person.,2024-08-22 03:47:42.000000,Received,101.01,15.91,Used
+RET0000324,ORD0000776,OI0001684,SKU00306,CUST00264,Quality didn't meet expectations,"For this price, I expected much better materials.",2026-04-07 21:57:09.943041,Inspected,48.15,21.38,Used
+RET0000325,ORD0000780,OI0001694,SKU00198,CUST00266,Not as described,Shown with decorative pillows that weren't included.,2024-06-27 21:36:26.000000,Received,521.23,17.38,Unused
+RET0000326,ORD0000787,OI0001706,SKU00089,CUST00268,Not as described,Photos show a warm honey tone but it's very orange-yellow.,2026-02-01 15:23:03.000000,Received,154.83,27.44,Used
+RET0000327,ORD0000790,OI0001710,SKU00387,CUST00269,Defective,Light socket is faulty - bulb flickers.,2024-12-14 14:31:21.000000,Processing,107.07,18.29,Used
+RET0000328,ORD0000792,OI0001713,SKU00254,CUST00270,Not as described,Brass accents are actually painted plastic.,2024-07-26 00:33:05.000000,Refunded,176.56,18.02,Used
+RET0000329,ORD0000792,OI0001714,SKU00145,CUST00270,Not as described,Photos show a warm honey tone but it's very orange-yellow.,2024-08-03 00:33:05.000000,Processing,314.87,12.12,Used
+RET0000330,ORD0000793,OI0001717,SKU00271,CUST00271,Defective,Pre-drilled holes don't line up with hardware.,2025-04-27 11:35:41.000000,Inspected,722.94,13.17,Used
+RET0000331,ORD0000797,OI0001727,SKU00049,CUST00272,Color mismatch,Color variation is significant from the photos.,2025-03-15 01:44:02.000000,Inspected,141.84,16.26,Unused
+RET0000332,ORD0000798,OI0001729,SKU00044,CUST00273,Quality didn't meet expectations,Cushions losing shape after just a month.,2024-11-23 21:28:05.000000,Refunded,81.27,23.27,Used
+RET0000333,ORD0000798,OI0001730,SKU00135,CUST00273,Defective,Pre-drilled holes don't line up with hardware.,2024-11-26 21:28:05.000000,Refunded,232.12,27.01,Unused
+RET0000334,ORD0000805,OI0001750,SKU00183,CUST00276,Defective,Pre-drilled holes don't line up with hardware.,2024-05-28 09:29:24.000000,Refunded,156.74,10.94,Unused
+RET0000335,ORD0000805,OI0001751,SKU00292,CUST00276,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2024-05-18 09:29:24.000000,Inspected,155.3,18.96,Unused
+RET0000336,ORD0000806,OI0001752,SKU00112,CUST00276,Too dark,In evening lighting it's almost black.,2026-03-16 06:28:32.000000,Refunded,48.19,29.57,Unused
+RET0000337,ORD0000810,OI0001759,SKU00088,CUST00277,Color mismatch,Beige is much more yellow-toned than the photos.,2025-07-30 08:28:09.000000,Inspected,112.48,13.52,Unused
+RET0000338,ORD0000810,OI0001760,SKU00318,CUST00277,Too dark,In evening lighting it's almost black.,2025-08-08 08:28:09.000000,Refunded,91.93,9.78,Used
+RET0000339,ORD0000815,OI0001772,SKU00243,CUST00279,Defective,Drawer doesn't close flush - frame is warped.,2025-09-24 04:15:50.000000,Received,122.03,20.48,Unused
+RET0000340,ORD0000820,OI0001779,SKU00031,CUST00280,Color mismatch,Beige is much more yellow-toned than the photos.,2024-05-14 13:09:16.000000,Processing,38.74,15.26,Unused
+RET0000341,ORD0000820,OI0001780,SKU00021,CUST00280,Quality didn't meet expectations,Cushions losing shape after just a month.,2024-05-03 13:09:16.000000,Refunded,24.11,23.52,Unused
+RET0000342,ORD0000822,OI0001783,SKU00019,CUST00281,Damaged upon arrival,One of the legs is bent and won't attach properly.,2025-10-17 14:40:06.000000,Refunded,121.87,19.78,Damaged
+RET0000343,ORD0000824,OI0001786,SKU00272,CUST00281,Quality didn't meet expectations,Construction feels flimsy and unstable.,2024-11-20 18:28:51.000000,Received,179.61,28.78,Used
+RET0000344,ORD0000825,OI0001788,SKU00208,CUST00281,Defective,One leg is shorter so the table wobbles.,2025-07-19 00:27:13.000000,Refunded,299.73,13.14,Unused
+RET0000345,ORD0000828,OI0001796,SKU00013,CUST00282,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-12-07 20:18:15.000000,Refunded,474.34,25.56,Used
+RET0000346,ORD0000830,OI0001800,SKU00263,CUST00282,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2025-04-29 21:12:08.000000,Received,64.86,19.28,Used
+RET0000347,ORD0000832,OI0001806,SKU00059,CUST00283,Too light,Pale compared to the product photography.,2025-09-08 11:26:54.000000,Refunded,76.64,16.31,Unused
+RET0000348,ORD0000836,OI0001815,SKU00140,CUST00285,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2024-09-18 09:38:03.000000,Received,98.52,27.43,Unused
+RET0000349,ORD0000838,OI0001820,SKU00258,CUST00286,Too light,Finish is practically white-washed.,2025-04-03 23:54:59.000000,Received,98.16,27.48,Unused
+RET0000350,ORD0000839,OI0001821,SKU00097,CUST00287,Not as described,Photos show a warm honey tone but it's very orange-yellow.,2025-08-30 11:40:34.000000,Received,179.37,18.15,Unused
+RET0000351,ORD0000841,OI0001824,SKU00172,CUST00288,Too light,Piece almost disappears because it's so light.,2025-05-09 08:51:52.000000,Inspected,52.59,12.03,Unused
+RET0000352,ORD0000841,OI0001825,SKU00289,CUST00288,Not as described,Description said solid wood but this is veneer over particle board.,2025-05-06 08:51:52.000000,Refunded,113.4,10.66,Unused
+RET0000353,ORD0000847,OI0001835,SKU00310,CUST00290,Defective,Light socket is faulty - bulb flickers.,2024-12-31 19:23:27.000000,Refunded,360.17,17.23,Unused
+RET0000354,ORD0000848,OI0001838,SKU00330,CUST00291,Difficult assembly,Holes for cam locks were drilled too shallow.,2025-09-22 22:37:31.000000,Refunded,134.66,26.06,Unused
+RET0000355,ORD0000850,OI0001841,SKU00275,CUST00291,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2026-02-24 15:44:06.000000,Refunded,202.41,8.61,Unused
+RET0000356,ORD0000852,OI0001844,SKU00096,CUST00292,Not as described,Measurements online are wrong - about 3 inches narrower.,2025-01-03 14:25:02.000000,Refunded,23.9,10.58,Used
+RET0000357,ORD0000854,OI0001850,SKU00055,CUST00293,Difficult assembly,Holes for cam locks were drilled too shallow.,2025-10-28 05:26:45.000000,Processing,440.13,27.43,Unused
+RET0000358,ORD0000855,OI0001852,SKU00382,CUST00293,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-05-09 06:38:36.000000,Refunded,134.91,26.27,Used
+RET0000359,ORD0000858,OI0001858,SKU00127,CUST00294,Damaged upon arrival,Paint is chipped off in several places.,2025-03-10 11:24:08.000000,Refunded,746.98,11.91,Damaged
+RET0000360,ORD0000859,OI0001860,SKU00209,CUST00294,Quality didn't meet expectations,Cushions losing shape after just a month.,2026-01-22 08:24:05.000000,Inspected,77.68,29.2,Used
+RET0000361,ORD0000861,OI0001866,SKU00030,CUST00295,Difficult assembly,Instructions were just bad diagrams with no text.,2025-06-17 16:58:31.000000,Refunded,122.33,25.8,Used
+RET0000362,ORD0000863,OI0001871,SKU00259,CUST00296,Defective,One leg is shorter so the table wobbles.,2025-04-06 17:00:03.000000,Refunded,67.17,29.15,Used
+RET0000363,ORD0000863,OI0001872,SKU00327,CUST00296,Difficult assembly,Instructions were just bad diagrams with no text.,2025-04-15 17:00:03.000000,Inspected,569.12,14.19,Unused
+RET0000364,ORD0000868,OI0001886,SKU00291,CUST00297,Quality didn't meet expectations,"For this price, I expected much better materials.",2024-07-30 11:21:59.000000,Refunded,95.57,14.15,Used
+RET0000365,ORD0000872,OI0001895,SKU00329,CUST00298,Too dark,Finish is at least two shades darker than shown.,2025-06-12 03:12:02.000000,Refunded,161.89,13.63,Used
+RET0000366,ORD0000872,OI0001896,SKU00321,CUST00298,Defective,Pre-drilled holes don't line up with hardware.,2025-06-11 03:12:02.000000,Refunded,35.85,28.07,Unused
+RET0000367,ORD0000872,OI0001897,SKU00005,CUST00298,Not as described,Brass accents are actually painted plastic.,2025-06-05 03:12:02.000000,Refunded,192.24,18.7,Used
+RET0000368,ORD0000876,OI0001903,SKU00054,CUST00300,Not as described,Measurements online are wrong - about 3 inches narrower.,2026-03-12 16:36:57.000000,Inspected,83.23,15.23,Unused
+RET0000369,ORD0000879,OI0001910,SKU00322,CUST00301,Defective,One leg is shorter so the table wobbles.,2025-03-06 09:55:28.000000,Inspected,335.74,20.0,Unused
+RET0000370,ORD0000882,OI0001913,SKU00342,CUST00301,Not as described,Brass accents are actually painted plastic.,2025-06-03 02:50:31.000000,Refunded,57.04,29.82,Used
+RET0000371,ORD0000883,OI0001917,SKU00102,CUST00301,Defective,Pre-drilled holes don't line up with hardware.,2025-01-29 10:29:14.000000,Inspected,54.96,27.81,Used
+RET0000372,ORD0000887,OI0001924,SKU00246,CUST00303,Too dark,Finish is at least two shades darker than shown.,2025-08-26 04:53:43.000000,Refunded,61.23,25.21,Unused
+RET0000373,ORD0000888,OI0001926,SKU00363,CUST00303,Defective,Pre-drilled holes don't line up with hardware.,2025-04-11 18:40:19.000000,Refunded,92.16,14.51,Unused
+RET0000374,ORD0000890,OI0001931,SKU00148,CUST00303,Color mismatch,Beige is much more yellow-toned than the photos.,2024-06-06 12:32:40.000000,Refunded,202.6,27.37,Used
+RET0000375,ORD0000892,OI0001938,SKU00157,CUST00304,Quality didn't meet expectations,Construction feels flimsy and unstable.,2024-11-29 20:43:13.000000,Refunded,27.54,9.92,Unused
+RET0000376,ORD0000893,OI0001939,SKU00313,CUST00304,Difficult assembly,Instructions were just bad diagrams with no text.,2025-06-28 00:37:39.000000,Refunded,50.83,24.32,Used
+RET0000377,ORD0000893,OI0001940,SKU00034,CUST00304,Quality didn't meet expectations,Construction feels flimsy and unstable.,2025-06-17 00:37:39.000000,Received,204.29,23.34,Unused
+RET0000378,ORD0000894,OI0001945,SKU00304,CUST00304,Not as described,Description said solid wood but this is veneer over particle board.,2024-08-15 04:41:41.000000,Inspected,93.88,8.92,Used
+RET0000379,ORD0000894,OI0001946,SKU00260,CUST00304,Quality didn't meet expectations,Cushions losing shape after just a month.,2024-08-09 04:41:41.000000,Received,287.66,18.96,Unused
+RET0000380,ORD0000899,OI0001958,SKU00332,CUST00305,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2025-10-11 18:45:19.000000,Received,97.32,27.09,Used
+RET0000381,ORD0000906,OI0001971,SKU00297,CUST00308,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2024-10-24 07:15:33.000000,Received,97.5,11.77,Unused
+RET0000382,ORD0000908,OI0001974,SKU00111,CUST00308,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2024-08-23 10:48:51.000000,Refunded,713.77,16.94,Unused
+RET0000383,ORD0000909,OI0001978,SKU00037,CUST00309,Damaged upon arrival,Paint is chipped off in several places.,2024-12-26 19:14:01.000000,Refunded,188.38,23.67,Damaged
+RET0000384,ORD0000910,OI0001980,SKU00249,CUST00309,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2025-06-29 06:48:53.000000,Refunded,140.63,17.11,Used
+RET0000385,ORD0000912,OI0001987,SKU00202,CUST00309,Too dark,Finish is at least two shades darker than shown.,2025-06-24 09:08:37.000000,Inspected,41.66,29.8,Used
+RET0000386,ORD0000916,OI0001994,SKU00079,CUST00310,Defective,Drawer doesn't close flush - frame is warped.,2026-02-10 23:22:12.000000,Inspected,1064.44,15.18,Used
+RET0000387,ORD0000919,OI0002000,SKU00094,CUST00311,Not as described,Shown with decorative pillows that weren't included.,2025-04-08 20:26:36.000000,Refunded,212.88,29.99,Used
+RET0000388,ORD0000924,OI0002011,SKU00381,CUST00312,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2025-05-12 12:49:26.000000,Inspected,270.62,16.53,Damaged
+RET0000389,ORD0000927,OI0002016,SKU00170,CUST00314,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2024-12-08 03:07:30.000000,Refunded,79.19,21.93,Unused
+RET0000390,ORD0000937,OI0002042,SKU00225,CUST00316,Damaged upon arrival,One of the legs is bent and won't attach properly.,2025-06-30 14:45:26.000000,Refunded,91.23,25.62,Damaged
+RET0000391,ORD0000944,OI0002057,SKU00110,CUST00319,Defective,One leg is shorter so the table wobbles.,2025-12-07 02:19:57.000000,Inspected,23.52,20.48,Used
+RET0000392,ORD0000944,OI0002058,SKU00117,CUST00319,Too light,Wood tone is much lighter than the rich warm color shown.,2025-11-24 02:19:57.000000,Received,258.42,25.11,Unused
+RET0000393,ORD0000949,OI0002069,SKU00301,CUST00320,Defective,Light socket is faulty - bulb flickers.,2024-12-10 00:03:22.000000,Refunded,80.74,23.04,Used
+RET0000394,ORD0000949,OI0002070,SKU00050,CUST00320,Defective,Drawer doesn't close flush - frame is warped.,2024-11-27 00:03:22.000000,Refunded,464.24,9.13,Used
+RET0000395,ORD0000951,OI0002077,SKU00224,CUST00321,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2026-01-06 01:12:50.000000,Received,331.16,28.18,Unused
+RET0000396,ORD0000951,OI0002078,SKU00020,CUST00321,Too dark,In evening lighting it's almost black.,2025-12-28 01:12:50.000000,Refunded,44.45,24.57,Unused
+RET0000397,ORD0000953,OI0002082,SKU00303,CUST00321,Damaged upon arrival,Glass component was shattered inside the box.,2025-03-16 17:31:07.000000,Refunded,294.23,20.78,Damaged
+RET0000398,ORD0000953,OI0002083,SKU00300,CUST00321,Not as described,Shown with decorative pillows that weren't included.,2025-03-08 17:31:07.000000,Processing,135.23,18.11,Used
+RET0000399,ORD0000954,OI0002084,SKU00381,CUST00321,Defective,Drawer doesn't close flush - frame is warped.,2025-01-11 10:09:54.000000,Received,135.31,29.85,Used
+RET0000400,ORD0000954,OI0002085,SKU00045,CUST00321,Too light,Pale compared to the product photography.,2025-01-10 10:09:54.000000,Refunded,65.46,25.09,Used
+RET0000401,ORD0000955,OI0002090,SKU00288,CUST00321,Difficult assembly,Instructions were just bad diagrams with no text.,2026-04-06 21:57:10.379068,Inspected,269.05,24.21,Unused
+RET0000402,ORD0000959,OI0002096,SKU00305,CUST00323,Too light,Piece almost disappears because it's so light.,2026-02-07 18:34:56.000000,Inspected,132.85,8.04,Unused
+RET0000403,ORD0000959,OI0002099,SKU00035,CUST00323,Not as described,Brass accents are actually painted plastic.,2026-01-20 18:34:56.000000,Refunded,269.74,11.35,Unused
+RET0000404,ORD0000961,OI0002106,SKU00002,CUST00324,Damaged upon arrival,Glass component was shattered inside the box.,2024-12-09 02:55:55.000000,Refunded,404.34,14.7,Damaged
+RET0000405,ORD0000963,OI0002108,SKU00078,CUST00324,Not as described,Brass accents are actually painted plastic.,2024-12-07 07:54:56.000000,Inspected,46.15,27.03,Used
+RET0000406,ORD0000964,OI0002112,SKU00390,CUST00325,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2026-02-10 22:06:50.000000,Inspected,43.42,16.34,Unused
+RET0000407,ORD0000966,OI0002119,SKU00116,CUST00326,Damaged upon arrival,Glass component was shattered inside the box.,2025-07-18 20:59:12.000000,Received,265.03,25.66,Damaged
+RET0000408,ORD0000968,OI0002124,SKU00129,CUST00327,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2025-05-08 17:59:20.000000,Refunded,186.55,12.35,Damaged
+RET0000409,ORD0000971,OI0002135,SKU00148,CUST00328,Too dark,In evening lighting it's almost black.,2025-03-31 06:40:41.000000,Inspected,203.33,26.3,Unused
+RET0000410,ORD0000973,OI0002137,SKU00095,CUST00329,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-05-17 15:12:33.000000,Refunded,357.04,13.98,Used
+RET0000411,ORD0000980,OI0002154,SKU00164,CUST00330,Quality didn't meet expectations,"For this price, I expected much better materials.",2025-04-04 02:40:12.000000,Refunded,82.57,10.43,Used
+RET0000412,ORD0000989,OI0002172,SKU00372,CUST00332,Not as described,Measurements online are wrong - about 3 inches narrower.,2024-10-25 20:21:03.000000,Received,70.96,12.39,Used
+RET0000413,ORD0000990,OI0002175,SKU00003,CUST00333,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2026-02-20 07:40:11.000000,Refunded,155.77,26.33,Unused
+RET0000414,ORD0000997,OI0002186,SKU00094,CUST00335,Too light,Pale compared to the product photography.,2025-10-27 04:49:54.000000,Inspected,198.51,28.11,Used
+RET0000415,ORD0000998,OI0002187,SKU00256,CUST00335,Defective,One leg is shorter so the table wobbles.,2026-04-05 22:00:13.000000,Inspected,348.54,15.88,Unused
+RET0000416,ORD0000999,OI0002190,SKU00084,CUST00336,Quality didn't meet expectations,Cushions losing shape after just a month.,2026-01-09 16:11:22.000000,Refunded,555.27,24.9,Used
+RET0000417,ORD0000999,OI0002192,SKU00067,CUST00336,Too light,Wood tone is much lighter than the rich warm color shown.,2026-01-05 16:11:22.000000,Received,270.78,13.81,Unused
+RET0000418,ORD0001000,OI0002193,SKU00383,CUST00336,Quality didn't meet expectations,Cushions losing shape after just a month.,2025-02-15 13:05:42.000000,Inspected,30.01,20.68,Unused
+RET0000419,ORD0001002,OI0002199,SKU00188,CUST00337,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-09-28 22:29:16.000000,Refunded,85.24,21.95,Unused
+RET0000420,ORD0001005,OI0002203,SKU00013,CUST00338,Difficult assembly,Holes for cam locks were drilled too shallow.,2025-09-08 20:56:47.000000,Refunded,491.54,13.63,Unused
+RET0000421,ORD0001008,OI0002208,SKU00054,CUST00340,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2024-05-19 04:31:37.000000,Received,85.32,15.95,Unused
+RET0000422,ORD0001009,OI0002210,SKU00223,CUST00340,Color mismatch,Gold finish is extremely yellow and brassy.,2024-08-10 11:49:56.000000,Refunded,81.78,19.34,Used
+RET0000423,ORD0001011,OI0002216,SKU00331,CUST00340,Quality didn't meet expectations,Construction feels flimsy and unstable.,2025-07-17 20:11:31.000000,Refunded,56.23,9.97,Used
+RET0000424,ORD0001012,OI0002220,SKU00131,CUST00340,Defective,Drawer doesn't close flush - frame is warped.,2025-01-05 07:15:40.000000,Refunded,247.84,14.73,Unused
+RET0000425,ORD0001022,OI0002243,SKU00264,CUST00342,Defective,Drawer doesn't close flush - frame is warped.,2024-05-10 08:31:52.000000,Refunded,237.32,16.84,Unused
+RET0000426,ORD0001023,OI0002244,SKU00052,CUST00343,Quality didn't meet expectations,Cushions losing shape after just a month.,2025-11-13 13:45:37.000000,Refunded,212.39,15.54,Used
+RET0000427,ORD0001025,OI0002247,SKU00085,CUST00343,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2025-03-12 20:59:12.000000,Received,89.27,15.81,Unused
+RET0000428,ORD0001026,OI0002249,SKU00079,CUST00343,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2026-02-22 21:47:55.000000,Refunded,1872.24,9.17,Used
+RET0000429,ORD0001026,OI0002250,SKU00051,CUST00343,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2026-03-05 21:47:55.000000,Refunded,232.88,17.03,Unused
+RET0000430,ORD0001027,OI0002252,SKU00381,CUST00344,Difficult assembly,Instructions were just bad diagrams with no text.,2025-09-25 00:26:23.000000,Refunded,117.24,11.54,Used
+RET0000431,ORD0001033,OI0002265,SKU00244,CUST00347,Too dark,In evening lighting it's almost black.,2025-01-22 09:40:12.000000,Inspected,681.62,14.02,Used
+RET0000432,ORD0001038,OI0002276,SKU00050,CUST00348,Color mismatch,Beige is much more yellow-toned than the photos.,2024-06-23 19:37:02.000000,Processing,416.45,15.9,Unused
+RET0000433,ORD0001039,OI0002277,SKU00103,CUST00348,Damaged upon arrival,One of the legs is bent and won't attach properly.,2026-02-18 00:29:14.000000,Received,81.65,27.99,Damaged
+RET0000434,ORD0001039,OI0002278,SKU00141,CUST00348,Too dark,In evening lighting it's almost black.,2026-02-17 00:29:14.000000,Refunded,219.86,21.15,Unused
+RET0000435,ORD0001041,OI0002283,SKU00142,CUST00349,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2026-02-12 11:13:31.000000,Received,368.55,15.75,Used
+RET0000436,ORD0001043,OI0002288,SKU00259,CUST00350,Quality didn't meet expectations,Cushions losing shape after just a month.,2026-02-24 21:43:50.000000,Refunded,57.29,25.67,Used
+RET0000437,ORD0001044,OI0002294,SKU00128,CUST00350,Defective,One leg is shorter so the table wobbles.,2025-06-03 21:52:20.000000,Refunded,1107.35,9.87,Unused
+RET0000438,ORD0001045,OI0002296,SKU00326,CUST00350,Too light,Pale compared to the product photography.,2025-02-11 14:19:11.000000,Refunded,110.07,25.33,Unused
+RET0000439,ORD0001047,OI0002299,SKU00301,CUST00352,Defective,Light socket is faulty - bulb flickers.,2025-08-23 06:48:53.000000,Refunded,80.74,16.28,Unused
+RET0000440,ORD0001047,OI0002300,SKU00257,CUST00352,Too light,Piece almost disappears because it's so light.,2025-08-14 06:48:53.000000,Refunded,238.2,11.68,Used
+RET0000441,ORD0001048,OI0002302,SKU00383,CUST00353,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2025-10-30 16:17:42.000000,Refunded,31.69,8.54,Used
+RET0000442,ORD0001050,OI0002304,SKU00267,CUST00353,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-12-11 06:42:25.000000,Inspected,44.59,11.0,Used
+RET0000443,ORD0001051,OI0002309,SKU00305,CUST00354,Defective,Pre-drilled holes don't line up with hardware.,2025-05-16 10:25:54.000000,Inspected,278.02,26.93,Used
+RET0000444,ORD0001052,OI0002310,SKU00026,CUST00354,Too light,Wood tone is much lighter than the rich warm color shown.,2026-02-28 00:49:46.000000,Inspected,247.97,11.22,Unused
+RET0000445,ORD0001059,OI0002324,SKU00259,CUST00359,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2025-10-08 00:33:50.000000,Refunded,116.96,17.95,Unused
+RET0000446,ORD0001061,OI0002329,SKU00053,CUST00359,Quality didn't meet expectations,Construction feels flimsy and unstable.,2024-12-17 15:33:51.000000,Refunded,700.63,8.67,Used
+RET0000447,ORD0001061,OI0002330,SKU00052,CUST00359,Damaged upon arrival,One of the legs is bent and won't attach properly.,2024-12-18 15:33:51.000000,Refunded,233.14,17.94,Damaged
+RET0000448,ORD0001064,OI0002335,SKU00091,CUST00360,Difficult assembly,Need three hands to hold pieces while screwing.,2024-07-05 15:13:27.000000,Refunded,404.08,27.56,Used
+RET0000449,ORD0001068,OI0002341,SKU00391,CUST00362,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-08-27 16:20:49.000000,Inspected,330.13,13.84,Unused
+RET0000450,ORD0001069,OI0002344,SKU00148,CUST00362,Color mismatch,Beige is much more yellow-toned than the photos.,2025-10-18 03:54:26.000000,Received,403.07,24.93,Unused
+RET0000451,ORD0001069,OI0002345,SKU00075,CUST00362,Too dark,In evening lighting it's almost black.,2025-11-06 03:54:26.000000,Received,191.6,13.19,Used
+RET0000452,ORD0001070,OI0002347,SKU00124,CUST00362,Defective,One leg is shorter so the table wobbles.,2026-03-19 04:29:14.000000,Inspected,520.74,22.12,Unused
+RET0000453,ORD0001071,OI0002350,SKU00085,CUST00363,Damaged upon arrival,Glass component was shattered inside the box.,2024-07-10 12:01:19.000000,Refunded,89.35,9.03,Damaged
+RET0000454,ORD0001081,OI0002368,SKU00099,CUST00366,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2024-06-12 00:34:10.000000,Inspected,320.38,26.89,Used
+RET0000455,ORD0001081,OI0002370,SKU00123,CUST00366,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2024-06-06 00:34:10.000000,Refunded,240.36,9.18,Unused
+RET0000456,ORD0001085,OI0002378,SKU00378,CUST00366,Too light,Finish is practically white-washed.,2025-04-02 23:00:54.000000,Refunded,249.26,11.26,Unused
+RET0000457,ORD0001086,OI0002380,SKU00288,CUST00367,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2024-08-11 12:02:56.000000,Inspected,276.9,10.74,Damaged
+RET0000458,ORD0001087,OI0002382,SKU00147,CUST00367,Defective,One leg is shorter so the table wobbles.,2024-11-03 02:36:05.000000,Received,305.73,23.6,Used
+RET0000459,ORD0001094,OI0002399,SKU00110,CUST00370,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2024-09-06 11:09:22.000000,Refunded,21.68,29.77,Unused
+RET0000460,ORD0001094,OI0002401,SKU00055,CUST00370,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2024-09-07 11:09:22.000000,Refunded,431.62,20.07,Unused
+RET0000461,ORD0001095,OI0002402,SKU00156,CUST00370,Damaged upon arrival,Glass component was shattered inside the box.,2024-09-06 09:57:38.000000,Refunded,434.18,26.89,Damaged
+RET0000462,ORD0001098,OI0002406,SKU00001,CUST00371,Defective,One leg is shorter so the table wobbles.,2026-02-22 20:03:29.000000,Refunded,370.49,15.45,Unused
+RET0000463,ORD0001099,OI0002408,SKU00352,CUST00371,Color mismatch,White is actually off-white/cream.,2025-02-26 13:34:26.000000,Processing,54.74,17.99,Used
+RET0000464,ORD0001102,OI0002413,SKU00390,CUST00372,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2024-11-06 11:49:26.000000,Refunded,54.7,17.42,Damaged
+RET0000465,ORD0001102,OI0002415,SKU00093,CUST00372,Color mismatch,Color variation is significant from the photos.,2024-10-30 11:49:26.000000,Refunded,320.67,21.57,Unused
+RET0000466,ORD0001104,OI0002420,SKU00253,CUST00373,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2026-04-08 21:57:10.740898,Refunded,54.41,18.1,Used
+RET0000467,ORD0001105,OI0002421,SKU00348,CUST00373,Not as described,Photos show a warm honey tone but it's very orange-yellow.,2025-08-05 09:16:05.000000,Refunded,123.21,9.79,Unused
+RET0000468,ORD0001108,OI0002428,SKU00051,CUST00373,Defective,Light socket is faulty - bulb flickers.,2025-05-02 14:53:19.000000,Refunded,270.88,13.69,Unused
+RET0000469,ORD0001110,OI0002433,SKU00364,CUST00375,Defective,Light socket is faulty - bulb flickers.,2024-11-19 16:54:43.000000,Refunded,150.95,22.5,Used
+RET0000470,ORD0001110,OI0002434,SKU00026,CUST00375,Too dark,Much more moody and dark in person.,2024-11-08 16:54:43.000000,Processing,493.95,22.77,Unused
+RET0000471,ORD0001112,OI0002437,SKU00257,CUST00376,Color mismatch,Gold finish is extremely yellow and brassy.,2024-11-08 18:03:58.000000,Inspected,237.65,11.01,Used
+RET0000472,ORD0001114,OI0002445,SKU00291,CUST00376,Color mismatch,Gold finish is extremely yellow and brassy.,2024-04-23 17:36:43.000000,Refunded,93.98,26.25,Used
+RET0000473,ORD0001115,OI0002448,SKU00216,CUST00376,Difficult assembly,Instructions were just bad diagrams with no text.,2026-03-20 15:18:03.000000,Received,34.86,12.23,Unused
+RET0000474,ORD0001116,OI0002451,SKU00112,CUST00376,Color mismatch,Beige is much more yellow-toned than the photos.,2026-01-13 09:52:44.000000,Refunded,62.05,24.53,Unused
+RET0000475,ORD0001122,OI0002463,SKU00373,CUST00378,Not as described,Measurements online are wrong - about 3 inches narrower.,2024-09-08 03:18:37.000000,Received,60.84,10.44,Used
+RET0000476,ORD0001122,OI0002464,SKU00376,CUST00378,Defective,Pre-drilled holes don't line up with hardware.,2024-09-06 03:18:37.000000,Refunded,133.11,12.05,Unused
+RET0000477,ORD0001129,OI0002482,SKU00406,CUST00379,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-03-30 00:07:23.000000,Inspected,115.27,13.35,Unused
+RET0000478,ORD0001132,OI0002494,SKU00150,CUST00379,Difficult assembly,Holes for cam locks were drilled too shallow.,2025-04-21 06:28:05.000000,Processing,79.14,23.07,Unused
+RET0000479,ORD0001134,OI0002498,SKU00348,CUST00380,Color mismatch,White is actually off-white/cream.,2024-12-09 02:23:15.000000,Refunded,108.82,9.07,Unused
+RET0000480,ORD0001135,OI0002500,SKU00254,CUST00380,Too light,Piece almost disappears because it's so light.,2024-10-05 04:06:19.000000,Refunded,159.1,29.2,Used
+RET0000481,ORD0001137,OI0002504,SKU00184,CUST00381,Damaged upon arrival,One of the legs is bent and won't attach properly.,2026-02-24 05:45:26.000000,Refunded,373.74,11.55,Damaged
+RET0000482,ORD0001138,OI0002506,SKU00235,CUST00381,Too light,Piece almost disappears because it's so light.,2025-05-17 18:04:57.000000,Inspected,545.73,9.06,Unused
+RET0000483,ORD0001141,OI0002510,SKU00357,CUST00381,Difficult assembly,Instructions were just bad diagrams with no text.,2025-02-19 15:34:37.000000,Received,755.86,19.96,Unused
+RET0000484,ORD0001143,OI0002516,SKU00101,CUST00382,Defective,Drawer doesn't close flush - frame is warped.,2025-01-24 05:54:54.000000,Inspected,102.36,29.89,Unused
+RET0000485,ORD0001148,OI0002528,SKU00114,CUST00384,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2024-05-28 11:24:54.000000,Refunded,23.85,21.42,Damaged
+RET0000486,ORD0001149,OI0002529,SKU00033,CUST00384,Color mismatch,The navy I received is practically black.,2026-02-11 03:27:10.000000,Refunded,81.28,19.28,Unused
+RET0000487,ORD0001151,OI0002535,SKU00200,CUST00385,Damaged upon arrival,One of the legs is bent and won't attach properly.,2025-03-01 20:47:06.000000,Inspected,221.8,28.68,Damaged
+RET0000488,ORD0001153,OI0002540,SKU00274,CUST00385,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2024-05-01 17:23:18.000000,Inspected,96.75,13.45,Unused
+RET0000489,ORD0001154,OI0002542,SKU00041,CUST00385,Quality didn't meet expectations,"For this price, I expected much better materials.",2025-07-01 00:06:46.000000,Received,89.45,25.57,Used
+RET0000490,ORD0001156,OI0002545,SKU00084,CUST00386,Quality didn't meet expectations,Cushions losing shape after just a month.,2025-10-09 02:39:37.000000,Received,483.97,23.44,Used
+RET0000491,ORD0001156,OI0002547,SKU00232,CUST00386,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-10-01 02:39:37.000000,Received,268.48,14.69,Used
+RET0000492,ORD0001157,OI0002548,SKU00269,CUST00386,Defective,One leg is shorter so the table wobbles.,2025-12-14 23:12:41.000000,Inspected,177.11,20.77,Unused
+RET0000493,ORD0001157,OI0002550,SKU00285,CUST00386,Defective,Drawer doesn't close flush - frame is warped.,2025-12-29 23:12:41.000000,Inspected,49.67,15.79,Unused
+RET0000494,ORD0001160,OI0002554,SKU00093,CUST00387,Too dark,Finish is at least two shades darker than shown.,2026-04-03 21:57:10.884244,Inspected,324.3,12.52,Used
+RET0000495,ORD0001166,OI0002569,SKU00176,CUST00388,Quality didn't meet expectations,"For this price, I expected much better materials.",2026-03-23 18:21:29.000000,Processing,107.58,19.41,Unused
+RET0000496,ORD0001168,OI0002574,SKU00407,CUST00389,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2025-12-27 23:17:28.000000,Received,1471.51,22.32,Unused
+RET0000497,ORD0001169,OI0002577,SKU00310,CUST00389,Quality didn't meet expectations,Construction feels flimsy and unstable.,2025-12-30 22:15:48.000000,Inspected,415.38,28.64,Used
+RET0000498,ORD0001173,OI0002586,SKU00144,CUST00389,Color mismatch,The navy I received is practically black.,2025-01-16 02:10:12.000000,Refunded,541.96,24.09,Unused
+RET0000499,ORD0001174,OI0002588,SKU00321,CUST00390,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2024-10-22 12:58:18.000000,Refunded,93.4,21.24,Unused
+RET0000500,ORD0001175,OI0002593,SKU00181,CUST00391,Too dark,Finish is at least two shades darker than shown.,2025-09-14 21:50:55.000000,Inspected,284.52,28.6,Unused
+RET0000501,ORD0001178,OI0002598,SKU00003,CUST00392,Defective,One leg is shorter so the table wobbles.,2024-11-17 02:27:12.000000,Inspected,373.59,21.58,Unused
+RET0000502,ORD0001178,OI0002599,SKU00329,CUST00392,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2024-11-15 02:27:12.000000,Refunded,180.34,26.26,Unused
+RET0000503,ORD0001187,OI0002619,SKU00290,CUST00395,Damaged upon arrival,One of the legs is bent and won't attach properly.,2025-09-02 09:49:29.000000,Refunded,232.48,28.62,Damaged
+RET0000504,ORD0001188,OI0002623,SKU00398,CUST00395,Quality didn't meet expectations,Construction feels flimsy and unstable.,2024-07-20 21:41:53.000000,Refunded,58.84,23.99,Unused
+RET0000505,ORD0001189,OI0002624,SKU00380,CUST00396,Quality didn't meet expectations,"For this price, I expected much better materials.",2026-03-28 03:05:49.000000,Refunded,435.77,28.94,Unused
+RET0000506,ORD0001189,OI0002626,SKU00125,CUST00396,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2026-03-30 03:05:49.000000,Refunded,102.69,20.1,Unused
+RET0000507,ORD0001190,OI0002629,SKU00215,CUST00396,Damaged upon arrival,Paint is chipped off in several places.,2025-08-28 19:05:53.000000,Received,44.78,10.97,Damaged
+RET0000508,ORD0001193,OI0002633,SKU00323,CUST00396,Defective,Pre-drilled holes don't line up with hardware.,2024-12-18 09:21:27.000000,Inspected,112.4,26.22,Unused
+RET0000509,ORD0001194,OI0002634,SKU00343,CUST00396,Difficult assembly,Need three hands to hold pieces while screwing.,2025-12-30 23:11:46.000000,Refunded,108.89,26.12,Unused
+RET0000510,ORD0001194,OI0002635,SKU00139,CUST00396,Not as described,Description said solid wood but this is veneer over particle board.,2025-12-31 23:11:46.000000,Refunded,164.11,9.5,Unused
+RET0000511,ORD0001195,OI0002636,SKU00345,CUST00397,Defective,One leg is shorter so the table wobbles.,2025-04-12 19:58:16.000000,Refunded,88.44,28.65,Unused
+RET0000512,ORD0001200,OI0002643,SKU00051,CUST00397,Too light,Finish is practically white-washed.,2024-07-29 12:07:30.000000,Processing,694.97,23.93,Unused
+RET0000513,ORD0001206,OI0002653,SKU00072,CUST00400,Not as described,Shown with decorative pillows that weren't included.,2025-03-21 03:58:13.000000,Inspected,111.73,27.27,Used
+RET0000514,ORD0001208,OI0002659,SKU00179,CUST00401,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2024-09-24 09:31:03.000000,Inspected,1309.51,23.66,Damaged
+RET0000515,ORD0001209,OI0002661,SKU00305,CUST00401,Defective,Drawer doesn't close flush - frame is warped.,2024-08-18 02:04:06.000000,Refunded,278.02,26.67,Used
+RET0000516,ORD0001216,OI0002672,SKU00241,CUST00402,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2026-04-07 23:03:46.000000,Refunded,97.32,8.52,Used
+RET0000517,ORD0001219,OI0002679,SKU00047,CUST00402,Quality didn't meet expectations,"For this price, I expected much better materials.",2024-09-08 05:45:42.000000,Inspected,66.98,8.19,Used
+RET0000518,ORD0001221,OI0002682,SKU00016,CUST00403,Too dark,Much more moody and dark in person.,2026-03-31 21:57:11.025880,Inspected,138.67,10.45,Unused
+RET0000519,ORD0001224,OI0002689,SKU00128,CUST00404,Defective,Light socket is faulty - bulb flickers.,2026-01-14 20:27:59.000000,Refunded,1107.35,11.78,Used
+RET0000520,ORD0001225,OI0002691,SKU00163,CUST00404,Too dark,Much more moody and dark in person.,2024-12-19 16:16:00.000000,Refunded,163.6,14.48,Used
+RET0000521,ORD0001226,OI0002692,SKU00038,CUST00405,Color mismatch,The navy I received is practically black.,2025-11-19 07:18:22.000000,Inspected,119.57,9.52,Unused
+RET0000522,ORD0001228,OI0002695,SKU00191,CUST00405,Difficult assembly,Holes for cam locks were drilled too shallow.,2025-01-11 12:32:28.000000,Refunded,228.17,9.1,Used
+RET0000523,ORD0001232,OI0002701,SKU00294,CUST00407,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2024-06-13 22:06:47.000000,Inspected,364.07,25.91,Unused
+RET0000524,ORD0001234,OI0002705,SKU00372,CUST00407,Defective,Light socket is faulty - bulb flickers.,2025-11-26 04:50:02.000000,Processing,31.55,22.96,Unused
+RET0000525,ORD0001239,OI0002718,SKU00222,CUST00408,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2025-09-28 06:16:28.000000,Inspected,140.88,22.29,Used
+RET0000526,ORD0001241,OI0002727,SKU00363,CUST00409,Too light,Piece almost disappears because it's so light.,2026-02-11 08:15:04.000000,Inspected,89.14,8.97,Unused
+RET0000527,ORD0001243,OI0002732,SKU00001,CUST00409,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2025-06-28 07:29:29.000000,Refunded,370.49,16.9,Damaged
+RET0000528,ORD0001246,OI0002736,SKU00080,CUST00410,Too light,Piece almost disappears because it's so light.,2026-01-08 13:48:41.000000,Refunded,52.23,23.3,Unused
+RET0000529,ORD0001255,OI0002758,SKU00244,CUST00411,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2025-11-24 05:01:10.000000,Processing,748.16,10.42,Damaged
+RET0000530,ORD0001257,OI0002764,SKU00026,CUST00411,Color mismatch,Beige is much more yellow-toned than the photos.,2024-11-09 01:28:27.000000,Refunded,229.4,26.39,Used
+RET0000531,ORD0001261,OI0002773,SKU00121,CUST00412,Defective,One leg is shorter so the table wobbles.,2025-09-17 09:51:08.000000,Refunded,322.75,27.74,Unused
+RET0000532,ORD0001261,OI0002774,SKU00331,CUST00412,Quality didn't meet expectations,Construction feels flimsy and unstable.,2025-09-08 09:51:08.000000,Received,49.55,27.09,Unused
+RET0000533,ORD0001263,OI0002776,SKU00306,CUST00414,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2024-07-16 14:08:56.000000,Refunded,46.28,29.53,Unused
+RET0000534,ORD0001264,OI0002780,SKU00109,CUST00414,Quality didn't meet expectations,"For this price, I expected much better materials.",2025-10-03 14:17:47.000000,Refunded,56.83,24.78,Used
+RET0000535,ORD0001267,OI0002784,SKU00372,CUST00414,Color mismatch,The navy I received is practically black.,2024-05-23 20:55:28.000000,Refunded,36.55,16.83,Used
+RET0000536,ORD0001268,OI0002786,SKU00321,CUST00414,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2025-08-21 15:37:19.000000,Refunded,34.63,19.43,Unused
+RET0000537,ORD0001269,OI0002788,SKU00081,CUST00414,Color mismatch,White is actually off-white/cream.,2026-03-09 05:45:48.000000,Refunded,152.94,24.19,Unused
+RET0000538,ORD0001269,OI0002789,SKU00211,CUST00414,Difficult assembly,Holes for cam locks were drilled too shallow.,2026-03-16 05:45:48.000000,Received,379.95,16.22,Unused
+RET0000539,ORD0001272,OI0002800,SKU00092,CUST00416,Defective,One leg is shorter so the table wobbles.,2026-04-07 08:02:17.000000,Refunded,17.25,15.9,Unused
+RET0000540,ORD0001273,OI0002801,SKU00162,CUST00416,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2025-08-22 07:11:16.000000,Refunded,244.77,12.74,Unused
+RET0000541,ORD0001276,OI0002808,SKU00002,CUST00416,Quality didn't meet expectations,"For this price, I expected much better materials.",2024-06-03 12:52:56.000000,Refunded,172.89,29.61,Used
+RET0000542,ORD0001285,OI0002828,SKU00079,CUST00418,Color mismatch,White is actually off-white/cream.,2024-07-19 01:25:42.000000,Refunded,939.62,9.56,Used
+RET0000543,ORD0001285,OI0002830,SKU00197,CUST00418,Difficult assembly,Instructions were just bad diagrams with no text.,2024-07-29 01:25:42.000000,Received,54.63,12.16,Used
+RET0000544,ORD0001285,OI0002831,SKU00207,CUST00418,Too light,Finish is practically white-washed.,2024-07-29 01:25:42.000000,Inspected,144.64,8.52,Unused
+RET0000545,ORD0001286,OI0002833,SKU00404,CUST00418,Color mismatch,The navy I received is practically black.,2024-08-11 00:03:49.000000,Processing,62.64,17.52,Unused
+RET0000546,ORD0001288,OI0002835,SKU00097,CUST00420,Color mismatch,The navy I received is practically black.,2024-05-23 08:06:56.000000,Refunded,501.52,18.26,Unused
+RET0000547,ORD0001298,OI0002851,SKU00148,CUST00424,Too dark,Finish is at least two shades darker than shown.,2025-04-07 18:57:50.000000,Processing,178.49,13.34,Unused
+RET0000548,ORD0001299,OI0002854,SKU00089,CUST00424,Too light,Finish is practically white-washed.,2025-02-19 14:35:14.000000,Refunded,335.44,8.64,Used
+RET0000549,ORD0001300,OI0002855,SKU00215,CUST00424,Not as described,Description said solid wood but this is veneer over particle board.,2025-10-11 05:12:01.000000,Received,38.79,9.94,Unused
+RET0000550,ORD0001301,OI0002860,SKU00118,CUST00424,Too dark,In evening lighting it's almost black.,2025-12-04 15:34:02.000000,Refunded,58.37,18.23,Used
+RET0000551,ORD0001305,OI0002866,SKU00210,CUST00425,Defective,Pre-drilled holes don't line up with hardware.,2025-07-30 15:14:56.000000,Processing,136.71,13.21,Used
+RET0000552,ORD0001308,OI0002875,SKU00293,CUST00428,Quality didn't meet expectations,Cushions losing shape after just a month.,2024-08-18 10:56:49.000000,Inspected,258.28,14.82,Used
+RET0000553,ORD0001313,OI0002885,SKU00008,CUST00429,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2026-01-24 23:35:48.000000,Refunded,881.16,15.59,Damaged
+RET0000554,ORD0001320,OI0002899,SKU00262,CUST00431,Quality didn't meet expectations,Construction feels flimsy and unstable.,2025-10-08 14:11:44.000000,Refunded,30.7,23.98,Unused
+RET0000555,ORD0001320,OI0002902,SKU00322,CUST00431,Quality didn't meet expectations,"For this price, I expected much better materials.",2025-10-20 14:11:44.000000,Refunded,309.85,8.59,Unused
+RET0000556,ORD0001325,OI0002912,SKU00249,CUST00432,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2024-10-25 19:53:23.000000,Inspected,108.28,11.97,Unused
+RET0000557,ORD0001328,OI0002920,SKU00327,CUST00433,Damaged upon arrival,Paint is chipped off in several places.,2024-07-15 14:32:08.000000,Received,316.83,15.8,Damaged
+RET0000558,ORD0001329,OI0002921,SKU00178,CUST00433,Difficult assembly,Need three hands to hold pieces while screwing.,2025-10-09 00:26:16.000000,Processing,257.33,23.94,Unused
+RET0000559,ORD0001330,OI0002924,SKU00357,CUST00434,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2025-02-17 18:03:04.000000,Refunded,661.95,29.92,Unused
+RET0000560,ORD0001334,OI0002930,SKU00307,CUST00436,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2025-01-26 00:35:47.000000,Refunded,453.51,16.81,Unused
+RET0000561,ORD0001336,OI0002938,SKU00295,CUST00436,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-02-28 16:17:32.000000,Received,298.75,27.09,Unused
+RET0000562,ORD0001338,OI0002942,SKU00055,CUST00437,Color mismatch,The navy I received is practically black.,2024-09-30 20:43:09.000000,Refunded,855.37,15.16,Used
+RET0000563,ORD0001344,OI0002955,SKU00393,CUST00439,Not as described,Measurements online are wrong - about 3 inches narrower.,2025-09-27 05:20:10.000000,Refunded,84.03,28.51,Used
+RET0000564,ORD0001350,OI0002964,SKU00024,CUST00440,Too light,Finish is practically white-washed.,2024-06-21 17:16:59.000000,Received,313.33,14.11,Unused
+RET0000565,ORD0001351,OI0002965,SKU00309,CUST00440,Defective,Light socket is faulty - bulb flickers.,2026-01-08 13:20:44.000000,Refunded,151.92,22.96,Unused
+RET0000566,ORD0001364,OI0002991,SKU00170,CUST00444,Difficult assembly,Holes for cam locks were drilled too shallow.,2024-10-07 04:03:22.000000,Processing,151.23,23.73,Used
+RET0000567,ORD0001366,OI0002993,SKU00318,CUST00446,Defective,One leg is shorter so the table wobbles.,2026-03-04 22:43:45.000000,Refunded,196.44,22.83,Unused
+RET0000568,ORD0001366,OI0002994,SKU00062,CUST00446,Not as described,Shown with decorative pillows that weren't included.,2026-02-24 22:43:45.000000,Refunded,154.1,26.34,Used
+RET0000569,ORD0001375,OI0003010,SKU00389,CUST00448,Difficult assembly,Need three hands to hold pieces while screwing.,2024-12-01 19:12:32.000000,Inspected,403.75,19.11,Unused
+RET0000570,ORD0001377,OI0003014,SKU00086,CUST00449,Color mismatch,Beige is much more yellow-toned than the photos.,2024-08-15 19:36:38.000000,Refunded,117.88,16.61,Used
+RET0000571,ORD0001377,OI0003015,SKU00042,CUST00449,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2024-08-06 19:36:38.000000,Refunded,110.7,29.86,Damaged
+RET0000572,ORD0001377,OI0003016,SKU00173,CUST00449,Damaged upon arrival,Paint is chipped off in several places.,2024-08-09 19:36:38.000000,Refunded,567.96,8.4,Damaged
+RET0000573,ORD0001378,OI0003017,SKU00352,CUST00449,Too light,Wood tone is much lighter than the rich warm color shown.,2024-08-05 09:39:37.000000,Processing,50.69,20.69,Unused
+RET0000574,ORD0001385,OI0003026,SKU00268,CUST00451,Quality didn't meet expectations,Construction feels flimsy and unstable.,2026-03-09 10:11:26.000000,Inspected,134.29,9.54,Used
+RET0000575,ORD0001386,OI0003027,SKU00191,CUST00451,Defective,Drawer doesn't close flush - frame is warped.,2024-05-15 11:00:29.000000,Received,685.37,27.26,Used
+RET0000576,ORD0001387,OI0003030,SKU00235,CUST00451,Too dark,Much more moody and dark in person.,2024-08-01 19:25:18.000000,Received,633.4,23.17,Used
+RET0000577,ORD0001389,OI0003035,SKU00257,CUST00453,Not as described,Measurements online are wrong - about 3 inches narrower.,2025-01-21 16:33:05.000000,Inspected,256.23,28.96,Used
+RET0000578,ORD0001390,OI0003039,SKU00130,CUST00453,Defective,Pre-drilled holes don't line up with hardware.,2025-12-25 00:48:46.000000,Inspected,91.72,15.65,Used
+RET0000579,ORD0001391,OI0003040,SKU00365,CUST00453,Defective,One leg is shorter so the table wobbles.,2026-01-09 19:51:37.000000,Received,114.83,25.3,Unused
+RET0000580,ORD0001394,OI0003046,SKU00281,CUST00455,Defective,One leg is shorter so the table wobbles.,2025-01-12 21:58:08.000000,Refunded,143.89,20.6,Used
+RET0000581,ORD0001399,OI0003057,SKU00338,CUST00457,Too light,Piece almost disappears because it's so light.,2024-08-04 21:22:54.000000,Refunded,613.82,20.37,Unused
+RET0000582,ORD0001401,OI0003060,SKU00400,CUST00458,Not as described,Photos show a warm honey tone but it's very orange-yellow.,2025-03-14 09:42:17.000000,Refunded,111.82,11.61,Unused
+RET0000583,ORD0001404,OI0003065,SKU00228,CUST00460,Color mismatch,Gold finish is extremely yellow and brassy.,2025-11-20 14:38:22.000000,Inspected,174.89,12.85,Used
+RET0000584,ORD0001405,OI0003066,SKU00217,CUST00460,Too light,Piece almost disappears because it's so light.,2024-06-22 19:14:20.000000,Refunded,56.63,24.25,Unused
+RET0000585,ORD0001407,OI0003068,SKU00054,CUST00460,Difficult assembly,Instructions were just bad diagrams with no text.,2025-04-09 14:53:13.000000,Refunded,142.05,15.5,Unused
+RET0000586,ORD0001408,OI0003070,SKU00067,CUST00460,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2025-12-26 17:43:12.000000,Inspected,343.87,10.28,Damaged
+RET0000587,ORD0001409,OI0003073,SKU00368,CUST00461,Too light,Piece almost disappears because it's so light.,2025-02-02 15:19:37.000000,Refunded,181.13,13.74,Unused
+RET0000588,ORD0001412,OI0003078,SKU00322,CUST00463,Defective,Drawer doesn't close flush - frame is warped.,2024-07-19 03:20:43.000000,Inspected,285.38,8.92,Used
+RET0000589,ORD0001415,OI0003083,SKU00146,CUST00463,Color mismatch,Beige is much more yellow-toned than the photos.,2024-10-14 12:25:05.000000,Received,45.85,19.78,Unused
+RET0000590,ORD0001416,OI0003084,SKU00380,CUST00463,Quality didn't meet expectations,Cushions losing shape after just a month.,2025-08-09 04:51:14.000000,Refunded,435.62,11.41,Unused
+RET0000591,ORD0001417,OI0003087,SKU00345,CUST00463,Defective,Drawer doesn't close flush - frame is warped.,2024-06-06 02:48:51.000000,Refunded,93.09,19.45,Used
+RET0000592,ORD0001419,OI0003093,SKU00150,CUST00465,Too light,Wood tone is much lighter than the rich warm color shown.,2025-12-24 18:50:26.000000,Received,76.14,28.71,Unused
+RET0000593,ORD0001421,OI0003096,SKU00123,CUST00466,Difficult assembly,Need three hands to hold pieces while screwing.,2026-03-16 20:07:36.000000,Refunded,239.19,9.83,Unused
+RET0000594,ORD0001424,OI0003099,SKU00065,CUST00467,Defective,Light socket is faulty - bulb flickers.,2024-12-30 17:13:41.000000,Refunded,200.35,22.36,Unused
+RET0000595,ORD0001432,OI0003114,SKU00194,CUST00471,Not as described,Measurements online are wrong - about 3 inches narrower.,2025-03-28 12:44:51.000000,Refunded,91.12,15.82,Unused
+RET0000596,ORD0001435,OI0003122,SKU00410,CUST00472,Too light,Wood tone is much lighter than the rich warm color shown.,2025-05-09 05:42:18.000000,Received,190.76,27.9,Unused
+RET0000597,ORD0001437,OI0003126,SKU00085,CUST00473,Damaged upon arrival,One of the legs is bent and won't attach properly.,2026-03-31 00:29:02.000000,Refunded,201.04,10.85,Damaged
+RET0000598,ORD0001440,OI0003131,SKU00110,CUST00473,Defective,Pre-drilled holes don't line up with hardware.,2026-03-20 21:58:44.000000,Processing,18.82,20.95,Unused
+RET0000599,ORD0001442,OI0003136,SKU00038,CUST00473,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2024-12-21 15:01:51.000000,Refunded,66.61,15.5,Damaged
+RET0000600,ORD0001451,OI0003153,SKU00154,CUST00475,Too light,Pale compared to the product photography.,2025-06-30 08:32:10.000000,Refunded,93.07,10.38,Used
+RET0000601,ORD0001452,OI0003155,SKU00040,CUST00475,Color mismatch,White is actually off-white/cream.,2025-10-28 13:55:18.000000,Inspected,146.98,14.6,Used
+RET0000602,ORD0001453,OI0003156,SKU00226,CUST00476,Color mismatch,Beige is much more yellow-toned than the photos.,2024-12-27 00:19:38.000000,Refunded,124.55,21.24,Unused
+RET0000603,ORD0001453,OI0003157,SKU00404,CUST00476,Difficult assembly,Instructions were just bad diagrams with no text.,2025-01-13 00:19:38.000000,Refunded,56.35,25.79,Used
+RET0000604,ORD0001453,OI0003158,SKU00403,CUST00476,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2025-01-13 00:19:38.000000,Refunded,148.02,26.41,Used
+RET0000605,ORD0001455,OI0003162,SKU00101,CUST00478,Defective,Pre-drilled holes don't line up with hardware.,2025-08-13 10:37:21.000000,Refunded,87.01,29.86,Used
+RET0000606,ORD0001459,OI0003172,SKU00396,CUST00479,Quality didn't meet expectations,"For this price, I expected much better materials.",2025-05-20 02:35:11.000000,Processing,47.5,21.38,Used
+RET0000607,ORD0001463,OI0003177,SKU00004,CUST00480,Damaged upon arrival,Paint is chipped off in several places.,2025-12-27 10:48:50.000000,Inspected,55.21,13.19,Damaged
+RET0000608,ORD0001467,OI0003185,SKU00080,CUST00481,Defective,Pre-drilled holes don't line up with hardware.,2025-09-27 23:09:55.000000,Inspected,117.06,14.46,Unused
+RET0000609,ORD0001470,OI0003196,SKU00353,CUST00481,Defective,Pre-drilled holes don't line up with hardware.,2025-12-21 16:56:08.000000,Inspected,179.47,21.89,Unused
+RET0000610,ORD0001472,OI0003198,SKU00251,CUST00481,Difficult assembly,Holes for cam locks were drilled too shallow.,2025-11-13 07:51:40.000000,Inspected,38.46,13.6,Used
+RET0000611,ORD0001473,OI0003200,SKU00189,CUST00482,Defective,Pre-drilled holes don't line up with hardware.,2026-02-18 16:22:39.000000,Refunded,73.14,10.62,Unused
+RET0000612,ORD0001473,OI0003203,SKU00328,CUST00482,Not as described,Measurements online are wrong - about 3 inches narrower.,2026-02-23 16:22:39.000000,Received,163.92,13.9,Unused
+RET0000613,ORD0001478,OI0003211,SKU00390,CUST00484,Not as described,Shown with decorative pillows that weren't included.,2024-10-16 21:51:37.000000,Refunded,48.21,21.86,Used
+RET0000614,ORD0001478,OI0003213,SKU00282,CUST00484,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2024-10-13 21:51:37.000000,Inspected,173.76,12.3,Unused
+RET0000615,ORD0001483,OI0003219,SKU00290,CUST00486,Too light,Pale compared to the product photography.,2025-03-04 03:18:02.000000,Received,112.33,18.84,Unused
+RET0000616,ORD0001485,OI0003222,SKU00388,CUST00486,Defective,Pre-drilled holes don't line up with hardware.,2025-11-10 03:23:39.000000,Inspected,265.26,16.61,Used
+RET0000617,ORD0001486,OI0003225,SKU00013,CUST00486,Color mismatch,Color variation is significant from the photos.,2024-07-10 06:57:35.000000,Processing,491.84,25.09,Unused
+RET0000618,ORD0001491,OI0003231,SKU00185,CUST00488,Damaged upon arrival,Paint is chipped off in several places.,2024-11-20 09:55:17.000000,Processing,109.95,19.45,Damaged
+RET0000619,ORD0001500,OI0003252,SKU00263,CUST00490,Difficult assembly,Holes for cam locks were drilled too shallow.,2024-06-26 17:44:18.000000,Inspected,69.82,28.29,Unused
+RET0000620,ORD0001505,OI0003257,SKU00016,CUST00493,Color mismatch,Beige is much more yellow-toned than the photos.,2025-11-18 06:35:13.000000,Refunded,130.07,28.17,Unused
+RET0000621,ORD0001507,OI0003260,SKU00131,CUST00494,Too light,Finish is practically white-washed.,2026-01-27 22:54:27.000000,Inspected,245.86,15.71,Used
+RET0000622,ORD0001508,OI0003261,SKU00212,CUST00494,Quality didn't meet expectations,"For this price, I expected much better materials.",2024-07-27 11:57:33.000000,Inspected,832.81,28.24,Unused
+RET0000623,ORD0001511,OI0003268,SKU00278,CUST00495,Too light,Piece almost disappears because it's so light.,2025-07-22 22:55:58.000000,Inspected,108.25,26.22,Used
+RET0000624,ORD0001511,OI0003269,SKU00207,CUST00495,Damaged upon arrival,Glass component was shattered inside the box.,2025-07-19 22:55:58.000000,Refunded,156.5,11.05,Damaged
+RET0000625,ORD0001511,OI0003270,SKU00158,CUST00495,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2025-07-18 22:55:58.000000,Refunded,471.62,29.59,Damaged
+RET0000626,ORD0001513,OI0003273,SKU00260,CUST00496,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2025-07-04 16:58:06.000000,Refunded,161.9,15.27,Used
+RET0000627,ORD0001516,OI0003278,SKU00339,CUST00497,Not as described,Measurements online are wrong - about 3 inches narrower.,2024-08-09 08:59:15.000000,Inspected,26.29,17.54,Unused
+RET0000628,ORD0001517,OI0003279,SKU00184,CUST00497,Color mismatch,Beige is much more yellow-toned than the photos.,2025-03-19 12:27:33.000000,Inspected,168.07,29.73,Unused
+RET0000629,ORD0001521,OI0003287,SKU00384,CUST00499,Not as described,Description said solid wood but this is veneer over particle board.,2025-11-23 04:44:36.000000,Refunded,92.11,25.48,Used
+RET0000630,ORD0001523,OI0003293,SKU00383,CUST00500,Defective,Light socket is faulty - bulb flickers.,2026-03-01 16:50:30.000000,Refunded,34.11,29.55,Unused
+RET0000631,ORD0001529,OI0003307,SKU00276,CUST00501,Quality didn't meet expectations,"For this price, I expected much better materials.",2025-01-06 02:54:03.000000,Received,93.63,16.49,Unused
+RET0000632,ORD0001530,OI0003308,SKU00308,CUST00502,Defective,Pre-drilled holes don't line up with hardware.,2025-01-20 13:35:29.000000,Processing,182.42,12.3,Unused
+RET0000633,ORD0001531,OI0003312,SKU00359,CUST00502,Defective,Drawer doesn't close flush - frame is warped.,2024-07-07 21:41:09.000000,Inspected,52.77,8.9,Unused
+RET0000634,ORD0001532,OI0003313,SKU00367,CUST00502,Color mismatch,The navy I received is practically black.,2025-07-18 07:36:48.000000,Processing,130.63,16.15,Unused
+RET0000635,ORD0001537,OI0003324,SKU00207,CUST00503,Color mismatch,Beige is much more yellow-toned than the photos.,2025-05-13 23:05:35.000000,Refunded,139.53,14.36,Unused
+RET0000636,ORD0001538,OI0003328,SKU00328,CUST00503,Too dark,In evening lighting it's almost black.,2024-10-13 14:39:31.000000,Refunded,151.34,17.32,Used
+RET0000637,ORD0001541,OI0003336,SKU00240,CUST00506,Color mismatch,Gold finish is extremely yellow and brassy.,2025-01-24 09:01:45.000000,Refunded,390.67,17.3,Unused
+RET0000638,ORD0001543,OI0003342,SKU00058,CUST00507,Color mismatch,Beige is much more yellow-toned than the photos.,2025-07-12 11:58:17.000000,Refunded,180.19,23.21,Unused
+RET0000639,ORD0001546,OI0003346,SKU00266,CUST00507,Difficult assembly,Holes for cam locks were drilled too shallow.,2025-12-10 18:25:50.000000,Received,310.24,17.87,Used
+RET0000640,ORD0001546,OI0003347,SKU00159,CUST00507,Defective,One leg is shorter so the table wobbles.,2025-12-19 18:25:50.000000,Received,196.88,12.79,Unused
+RET0000641,ORD0001553,OI0003362,SKU00140,CUST00510,Too light,Finish is practically white-washed.,2025-07-03 03:35:23.000000,Processing,157.06,9.5,Unused
+RET0000642,ORD0001554,OI0003364,SKU00033,CUST00510,Color mismatch,White is actually off-white/cream.,2025-12-18 12:24:38.000000,Inspected,129.95,29.51,Unused
+RET0000643,ORD0001554,OI0003365,SKU00319,CUST00510,Defective,One leg is shorter so the table wobbles.,2025-12-15 12:24:38.000000,Received,206.54,21.33,Unused
+RET0000644,ORD0001555,OI0003368,SKU00263,CUST00510,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2026-01-20 03:00:49.000000,Refunded,72.27,9.5,Used
+RET0000645,ORD0001565,OI0003389,SKU00155,CUST00513,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2026-01-20 16:42:04.000000,Processing,86.58,13.38,Damaged
+RET0000646,ORD0001566,OI0003390,SKU00019,CUST00513,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2025-10-29 01:40:16.000000,Refunded,107.48,16.86,Unused
+RET0000647,ORD0001567,OI0003393,SKU00252,CUST00514,Color mismatch,White is actually off-white/cream.,2024-11-28 04:01:06.000000,Refunded,598.96,11.79,Used
+RET0000648,ORD0001570,OI0003397,SKU00051,CUST00515,Damaged upon arrival,One of the legs is bent and won't attach properly.,2024-12-04 16:33:38.000000,Refunded,270.88,14.97,Damaged
+RET0000649,ORD0001570,OI0003398,SKU00068,CUST00515,Too light,Piece almost disappears because it's so light.,2024-11-28 16:33:38.000000,Refunded,240.09,15.33,Unused
+RET0000650,ORD0001570,OI0003399,SKU00304,CUST00515,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2024-11-28 16:33:38.000000,Refunded,88.58,17.13,Used
+RET0000651,ORD0001572,OI0003402,SKU00165,CUST00515,Not as described,Photos show a warm honey tone but it's very orange-yellow.,2025-12-15 14:46:29.000000,Refunded,984.85,18.43,Used
+RET0000652,ORD0001578,OI0003418,SKU00030,CUST00519,Not as described,Measurements online are wrong - about 3 inches narrower.,2024-09-10 08:04:33.000000,Inspected,126.4,10.06,Used
+RET0000653,ORD0001580,OI0003420,SKU00243,CUST00519,Too dark,In evening lighting it's almost black.,2024-08-18 16:49:57.000000,Refunded,107.85,12.06,Unused
+RET0000654,ORD0001584,OI0003425,SKU00254,CUST00520,Color mismatch,Gold finish is extremely yellow and brassy.,2024-06-30 11:35:51.000000,Refunded,155.33,28.58,Unused
+RET0000655,ORD0001586,OI0003429,SKU00073,CUST00521,Too dark,Finish is at least two shades darker than shown.,2025-11-15 23:05:44.000000,Processing,88.68,21.91,Unused
+RET0000656,ORD0001588,OI0003434,SKU00198,CUST00521,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2024-05-28 05:55:16.000000,Refunded,566.52,26.17,Damaged
+RET0000657,ORD0001588,OI0003435,SKU00096,CUST00521,Color mismatch,Color variation is significant from the photos.,2024-05-14 05:55:16.000000,Refunded,24.18,23.06,Unused
+RET0000658,ORD0001599,OI0003456,SKU00022,CUST00524,Not as described,Photos show a warm honey tone but it's very orange-yellow.,2024-12-25 11:46:22.000000,Received,549.19,21.53,Used
+RET0000659,ORD0001604,OI0003466,SKU00057,CUST00525,Too dark,Finish is at least two shades darker than shown.,2025-07-30 12:50:53.000000,Processing,100.59,22.42,Unused
+RET0000660,ORD0001609,OI0003475,SKU00228,CUST00526,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2024-08-26 16:45:52.000000,Refunded,433.64,27.25,Unused
+RET0000661,ORD0001610,OI0003477,SKU00213,CUST00527,Quality didn't meet expectations,"For this price, I expected much better materials.",2025-11-29 10:08:07.000000,Inspected,249.82,14.77,Used
+RET0000662,ORD0001611,OI0003478,SKU00376,CUST00527,Defective,Pre-drilled holes don't line up with hardware.,2025-08-19 07:46:11.000000,Refunded,106.49,20.51,Unused
+RET0000663,ORD0001612,OI0003480,SKU00014,CUST00527,Damaged upon arrival,Paint is chipped off in several places.,2024-06-16 02:04:17.000000,Processing,159.16,24.02,Damaged
+RET0000664,ORD0001614,OI0003483,SKU00276,CUST00528,Quality didn't meet expectations,Cushions losing shape after just a month.,2024-06-24 19:13:16.000000,Refunded,47.26,18.25,Unused
+RET0000665,ORD0001616,OI0003489,SKU00133,CUST00528,Color mismatch,Gold finish is extremely yellow and brassy.,2025-03-30 14:39:21.000000,Inspected,371.59,27.82,Unused
+RET0000666,ORD0001620,OI0003496,SKU00400,CUST00530,Not as described,Measurements online are wrong - about 3 inches narrower.,2025-08-15 23:08:54.000000,Refunded,228.26,22.02,Unused
+RET0000667,ORD0001620,OI0003497,SKU00408,CUST00530,Not as described,Shown with decorative pillows that weren't included.,2025-07-31 23:08:54.000000,Inspected,183.67,19.79,Used
+RET0000668,ORD0001621,OI0003498,SKU00121,CUST00530,Quality didn't meet expectations,"For this price, I expected much better materials.",2025-04-15 18:43:56.000000,Received,293.99,21.71,Used
+RET0000669,ORD0001622,OI0003503,SKU00171,CUST00530,Difficult assembly,Instructions were just bad diagrams with no text.,2025-04-02 03:22:33.000000,Refunded,190.67,29.58,Used
+RET0000670,ORD0001623,OI0003504,SKU00153,CUST00530,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2024-11-16 14:37:49.000000,Received,141.98,22.63,Damaged
+RET0000671,ORD0001624,OI0003505,SKU00244,CUST00531,Not as described,Measurements online are wrong - about 3 inches narrower.,2024-10-15 20:55:41.000000,Received,1280.32,11.78,Unused
+RET0000672,ORD0001625,OI0003506,SKU00168,CUST00531,Too light,Pale compared to the product photography.,2025-12-13 19:35:29.000000,Refunded,209.02,12.93,Unused
+RET0000673,ORD0001634,OI0003525,SKU00045,CUST00534,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2025-07-29 03:15:18.000000,Refunded,72.6,21.15,Damaged
+RET0000674,ORD0001639,OI0003534,SKU00373,CUST00537,Defective,Light socket is faulty - bulb flickers.,2024-05-25 17:04:20.000000,Refunded,66.6,25.12,Used
+RET0000675,ORD0001641,OI0003540,SKU00105,CUST00538,Too dark,Finish is at least two shades darker than shown.,2025-02-22 10:40:30.000000,Refunded,155.7,20.7,Unused
+RET0000676,ORD0001642,OI0003543,SKU00200,CUST00538,Too light,Piece almost disappears because it's so light.,2025-08-19 22:39:30.000000,Processing,209.71,13.48,Unused
+RET0000677,ORD0001642,OI0003544,SKU00201,CUST00538,Too light,Piece almost disappears because it's so light.,2025-08-17 22:39:30.000000,Received,292.28,28.28,Used
+RET0000678,ORD0001642,OI0003545,SKU00307,CUST00538,Defective,Light socket is faulty - bulb flickers.,2025-08-09 22:39:30.000000,Refunded,628.16,29.32,Used
+RET0000679,ORD0001643,OI0003546,SKU00166,CUST00538,Defective,Drawer doesn't close flush - frame is warped.,2024-06-15 23:38:28.000000,Received,134.12,13.64,Used
+RET0000680,ORD0001645,OI0003548,SKU00109,CUST00539,Not as described,Brass accents are actually painted plastic.,2024-10-01 05:09:16.000000,Refunded,111.59,10.56,Used
+RET0000681,ORD0001647,OI0003552,SKU00384,CUST00540,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2024-09-25 12:07:05.000000,Inspected,91.23,20.12,Used
+RET0000682,ORD0001649,OI0003556,SKU00144,CUST00541,Color mismatch,White is actually off-white/cream.,2024-08-03 00:40:24.000000,Refunded,580.69,14.1,Used
+RET0000683,ORD0001651,OI0003560,SKU00237,CUST00541,Too light,Pale compared to the product photography.,2024-11-20 21:39:36.000000,Refunded,400.86,29.97,Unused
+RET0000684,ORD0001656,OI0003568,SKU00235,CUST00543,Defective,Light socket is faulty - bulb flickers.,2025-05-14 18:21:57.000000,Refunded,1021.34,24.83,Used
+RET0000685,ORD0001659,OI0003575,SKU00068,CUST00545,Color mismatch,Color variation is significant from the photos.,2024-09-04 21:37:11.000000,Inspected,259.45,26.85,Unused
+RET0000686,ORD0001668,OI0003593,SKU00301,CUST00548,Quality didn't meet expectations,Construction feels flimsy and unstable.,2025-09-22 07:45:06.000000,Received,69.38,9.52,Used
+RET0000687,ORD0001671,OI0003601,SKU00171,CUST00549,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2024-07-01 10:00:57.000000,Refunded,185.47,19.25,Used
+RET0000688,ORD0001671,OI0003602,SKU00294,CUST00549,Quality didn't meet expectations,Construction feels flimsy and unstable.,2024-06-18 10:00:57.000000,Refunded,116.0,21.25,Used
+RET0000689,ORD0001674,OI0003606,SKU00315,CUST00549,Defective,Light socket is faulty - bulb flickers.,2025-11-27 19:05:03.000000,Refunded,74.71,13.9,Used
+RET0000690,ORD0001675,OI0003609,SKU00036,CUST00549,Too light,Finish is practically white-washed.,2024-06-05 07:00:09.000000,Inspected,122.76,25.78,Used
+RET0000691,ORD0001676,OI0003612,SKU00264,CUST00549,Too dark,Much more moody and dark in person.,2025-03-25 06:09:14.000000,Inspected,227.4,22.94,Unused
+RET0000692,ORD0001677,OI0003613,SKU00029,CUST00550,Too light,Wood tone is much lighter than the rich warm color shown.,2024-05-15 23:47:56.000000,Refunded,75.44,15.15,Unused
+RET0000693,ORD0001679,OI0003617,SKU00404,CUST00550,Difficult assembly,Instructions were just bad diagrams with no text.,2026-04-06 22:08:37.000000,Refunded,56.11,17.68,Used
+RET0000694,ORD0001688,OI0003638,SKU00172,CUST00554,Too light,Pale compared to the product photography.,2025-09-24 15:32:13.000000,Refunded,49.14,13.55,Unused
+RET0000695,ORD0001694,OI0003648,SKU00181,CUST00556,Defective,Pre-drilled holes don't line up with hardware.,2025-01-09 16:32:56.000000,Refunded,308.17,12.71,Used
+RET0000696,ORD0001695,OI0003649,SKU00199,CUST00557,Not as described,Brass accents are actually painted plastic.,2024-09-01 22:22:46.000000,Received,201.48,12.61,Used
+RET0000697,ORD0001696,OI0003651,SKU00362,CUST00558,Difficult assembly,Holes for cam locks were drilled too shallow.,2026-01-16 20:09:32.000000,Refunded,51.01,24.93,Used
+RET0000698,ORD0001697,OI0003654,SKU00314,CUST00558,Too light,Piece almost disappears because it's so light.,2025-08-24 13:07:17.000000,Refunded,315.56,16.24,Used
+RET0000699,ORD0001701,OI0003661,SKU00184,CUST00559,Color mismatch,Gold finish is extremely yellow and brassy.,2026-04-07 20:10:56.000000,Received,171.6,13.4,Used
+RET0000700,ORD0001701,OI0003662,SKU00018,CUST00559,Not as described,Description said solid wood but this is veneer over particle board.,2026-04-02 20:10:56.000000,Inspected,23.6,21.85,Unused
+RET0000701,ORD0001702,OI0003664,SKU00149,CUST00560,Defective,One leg is shorter so the table wobbles.,2025-02-03 11:51:16.000000,Refunded,34.95,14.04,Unused
+RET0000702,ORD0001703,OI0003667,SKU00176,CUST00560,Not as described,Shown with decorative pillows that weren't included.,2024-06-20 21:17:29.000000,Refunded,167.45,17.47,Used
+RET0000703,ORD0001706,OI0003671,SKU00003,CUST00561,Defective,Drawer doesn't close flush - frame is warped.,2024-07-17 15:51:47.000000,Refunded,149.44,8.88,Used
+RET0000704,ORD0001708,OI0003677,SKU00314,CUST00561,Defective,Pre-drilled holes don't line up with hardware.,2025-03-21 20:01:49.000000,Inspected,319.97,19.53,Unused
+RET0000705,ORD0001713,OI0003690,SKU00084,CUST00564,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2025-02-20 20:03:26.000000,Inspected,546.07,22.04,Unused
+RET0000706,ORD0001717,OI0003701,SKU00198,CUST00565,Defective,Pre-drilled holes don't line up with hardware.,2025-01-27 03:25:03.000000,Inspected,1133.04,16.29,Used
+RET0000707,ORD0001726,OI0003717,SKU00321,CUST00568,Defective,Light socket is faulty - bulb flickers.,2025-05-31 13:37:19.000000,Received,30.47,10.97,Unused
+RET0000708,ORD0001728,OI0003721,SKU00377,CUST00569,Defective,One leg is shorter so the table wobbles.,2024-10-05 01:03:30.000000,Received,375.33,26.59,Unused
+RET0000709,ORD0001729,OI0003724,SKU00305,CUST00569,Too light,Wood tone is much lighter than the rich warm color shown.,2026-04-02 02:03:18.000000,Refunded,137.07,16.32,Unused
+RET0000710,ORD0001732,OI0003730,SKU00226,CUST00569,Color mismatch,Beige is much more yellow-toned than the photos.,2025-01-29 03:24:17.000000,Refunded,132.86,16.37,Used
+RET0000711,ORD0001736,OI0003738,SKU00382,CUST00571,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2026-01-24 11:49:20.000000,Processing,383.72,24.38,Unused
+RET0000712,ORD0001741,OI0003748,SKU00049,CUST00572,Color mismatch,White is actually off-white/cream.,2024-11-05 06:01:29.000000,Refunded,141.54,27.25,Used
+RET0000713,ORD0001743,OI0003753,SKU00185,CUST00573,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2024-09-15 04:41:15.000000,Received,129.35,29.63,Damaged
+RET0000714,ORD0001749,OI0003763,SKU00246,CUST00574,Too dark,Finish is at least two shades darker than shown.,2024-06-27 23:07:05.000000,Refunded,64.11,18.91,Unused
+RET0000715,ORD0001749,OI0003764,SKU00085,CUST00574,Damaged upon arrival,Glass component was shattered inside the box.,2024-06-30 23:07:05.000000,Refunded,89.35,21.19,Damaged
+RET0000716,ORD0001754,OI0003773,SKU00339,CUST00576,Color mismatch,Gold finish is extremely yellow and brassy.,2025-04-18 19:08:36.000000,Refunded,70.72,29.81,Unused
+RET0000717,ORD0001760,OI0003786,SKU00190,CUST00578,Damaged upon arrival,One of the legs is bent and won't attach properly.,2025-10-13 11:40:46.000000,Refunded,103.71,25.79,Damaged
+RET0000718,ORD0001763,OI0003800,SKU00082,CUST00579,Too dark,In evening lighting it's almost black.,2025-07-18 21:19:15.000000,Refunded,73.14,15.25,Unused
+RET0000719,ORD0001769,OI0003809,SKU00271,CUST00580,Not as described,Shown with decorative pillows that weren't included.,2025-08-22 14:36:40.000000,Refunded,202.86,15.45,Used
+RET0000720,ORD0001769,OI0003810,SKU00046,CUST00580,Difficult assembly,Need three hands to hold pieces while screwing.,2025-09-05 14:36:40.000000,Refunded,299.26,23.74,Used
+RET0000721,ORD0001770,OI0003814,SKU00137,CUST00580,Too light,Piece almost disappears because it's so light.,2024-12-19 23:41:15.000000,Processing,93.51,18.3,Used
+RET0000722,ORD0001775,OI0003823,SKU00259,CUST00581,Defective,One leg is shorter so the table wobbles.,2025-04-14 21:47:13.000000,Processing,67.17,13.45,Used
+RET0000723,ORD0001777,OI0003829,SKU00066,CUST00582,Color mismatch,Beige is much more yellow-toned than the photos.,2024-12-12 15:24:48.000000,Refunded,147.01,16.14,Unused
+RET0000724,ORD0001785,OI0003840,SKU00266,CUST00584,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2024-12-23 12:51:11.000000,Inspected,113.26,21.35,Damaged
+RET0000725,ORD0001785,OI0003841,SKU00289,CUST00584,Too dark,Much more moody and dark in person.,2025-01-06 12:51:11.000000,Refunded,108.89,26.66,Used
+RET0000726,ORD0001786,OI0003845,SKU00077,CUST00584,Quality didn't meet expectations,Cushions losing shape after just a month.,2025-04-19 01:56:06.000000,Refunded,171.96,29.1,Used
+RET0000727,ORD0001790,OI0003854,SKU00213,CUST00586,Color mismatch,White is actually off-white/cream.,2025-02-21 20:11:54.000000,Refunded,254.66,15.25,Unused
+RET0000728,ORD0001791,OI0003857,SKU00332,CUST00587,Defective,Pre-drilled holes don't line up with hardware.,2026-02-07 10:22:49.000000,Inspected,100.65,15.16,Unused
+RET0000729,ORD0001792,OI0003860,SKU00218,CUST00587,Difficult assembly,Instructions were just bad diagrams with no text.,2024-12-15 09:56:06.000000,Inspected,118.55,21.71,Used
+RET0000730,ORD0001798,OI0003872,SKU00026,CUST00588,Too light,Piece almost disappears because it's so light.,2025-08-09 03:01:07.000000,Refunded,232.47,25.65,Used
+RET0000731,ORD0001800,OI0003874,SKU00087,CUST00589,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-05-17 06:51:38.000000,Inspected,78.43,29.8,Unused
+RET0000732,ORD0001801,OI0003876,SKU00395,CUST00589,Too dark,Much more moody and dark in person.,2025-02-25 01:42:15.000000,Refunded,214.36,19.07,Used
+RET0000733,ORD0001805,OI0003883,SKU00069,CUST00592,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2026-01-07 10:59:05.000000,Refunded,97.8,22.55,Unused
+RET0000734,ORD0001810,OI0003898,SKU00244,CUST00594,Color mismatch,Gold finish is extremely yellow and brassy.,2026-04-05 21:57:12.335427,Processing,725.17,15.56,Unused
+RET0000735,ORD0001818,OI0003916,SKU00363,CUST00597,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2025-05-20 20:35:43.000000,Processing,184.32,21.67,Damaged
+RET0000736,ORD0001823,OI0003931,SKU00344,CUST00597,Quality didn't meet expectations,"For this price, I expected much better materials.",2026-01-13 07:56:54.000000,Inspected,118.39,20.88,Unused
+RET0000737,ORD0001824,OI0003934,SKU00356,CUST00597,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2026-03-26 19:22:13.000000,Refunded,168.27,16.43,Unused
+RET0000738,ORD0001825,OI0003937,SKU00243,CUST00598,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2026-02-16 20:16:24.000000,Refunded,116.78,26.95,Used
+RET0000739,ORD0001827,OI0003943,SKU00360,CUST00598,Color mismatch,Color variation is significant from the photos.,2025-11-16 06:14:18.000000,Refunded,295.06,24.34,Unused
+RET0000740,ORD0001830,OI0003948,SKU00117,CUST00601,Defective,Light socket is faulty - bulb flickers.,2025-09-03 07:06:48.000000,Inspected,292.84,24.43,Unused
+RET0000741,ORD0001830,OI0003951,SKU00272,CUST00601,Too light,Piece almost disappears because it's so light.,2025-09-11 07:06:48.000000,Received,195.21,11.74,Used
+RET0000742,ORD0001833,OI0003955,SKU00020,CUST00604,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2024-11-15 20:42:32.000000,Received,101.41,16.38,Damaged
+RET0000743,ORD0001835,OI0003960,SKU00359,CUST00604,Defective,Light socket is faulty - bulb flickers.,2025-04-04 10:50:13.000000,Refunded,84.43,19.94,Unused
+RET0000744,ORD0001838,OI0003969,SKU00108,CUST00605,Color mismatch,The navy I received is practically black.,2025-06-11 11:09:39.000000,Refunded,296.53,23.46,Used
+RET0000745,ORD0001840,OI0003973,SKU00223,CUST00607,Too dark,Much more moody and dark in person.,2024-09-02 17:40:30.000000,Processing,51.89,11.91,Unused
+RET0000746,ORD0001847,OI0003986,SKU00306,CUST00610,Defective,Light socket is faulty - bulb flickers.,2025-12-09 23:30:05.000000,Inspected,48.47,28.63,Used
+RET0000747,ORD0001850,OI0003995,SKU00264,CUST00611,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2025-08-01 19:49:54.000000,Processing,214.27,21.54,Unused
+RET0000748,ORD0001852,OI0003999,SKU00179,CUST00611,Too light,Wood tone is much lighter than the rich warm color shown.,2026-01-03 10:41:15.000000,Inspected,1234.41,11.1,Unused
+RET0000749,ORD0001852,OI0004000,SKU00115,CUST00611,Too dark,Much more moody and dark in person.,2026-01-09 10:41:15.000000,Refunded,22.62,15.58,Used
+RET0000750,ORD0001853,OI0004003,SKU00239,CUST00611,Defective,Drawer doesn't close flush - frame is warped.,2025-09-04 11:00:34.000000,Refunded,186.78,28.47,Unused
+RET0000751,ORD0001855,OI0004005,SKU00093,CUST00612,Too dark,Much more moody and dark in person.,2025-01-15 08:44:50.000000,Processing,588.23,13.11,Unused
+RET0000752,ORD0001860,OI0004018,SKU00268,CUST00613,Defective,Drawer doesn't close flush - frame is warped.,2025-10-13 08:20:20.000000,Refunded,71.61,14.91,Used
+RET0000753,ORD0001861,OI0004019,SKU00213,CUST00613,Not as described,Measurements online are wrong - about 3 inches narrower.,2025-02-17 16:30:37.000000,Received,743.37,16.11,Unused
+RET0000754,ORD0001863,OI0004021,SKU00163,CUST00614,Too light,Finish is practically white-washed.,2024-11-09 03:58:23.000000,Refunded,340.02,20.65,Unused
+RET0000755,ORD0001863,OI0004022,SKU00244,CUST00614,Too light,Pale compared to the product photography.,2024-11-03 03:58:23.000000,Refunded,688.77,12.03,Used
+RET0000756,ORD0001863,OI0004024,SKU00392,CUST00614,Defective,One leg is shorter so the table wobbles.,2024-11-11 03:58:23.000000,Inspected,101.28,13.38,Used
+RET0000757,ORD0001869,OI0004036,SKU00208,CUST00615,Difficult assembly,Instructions were just bad diagrams with no text.,2026-03-18 17:32:39.000000,Received,481.64,8.29,Unused
+RET0000758,ORD0001870,OI0004038,SKU00072,CUST00616,Difficult assembly,Need three hands to hold pieces while screwing.,2024-08-14 05:35:36.000000,Refunded,112.7,28.71,Used
+RET0000759,ORD0001871,OI0004040,SKU00272,CUST00616,Color mismatch,Gold finish is extremely yellow and brassy.,2025-01-05 08:45:00.000000,Refunded,193.55,13.36,Unused
+RET0000760,ORD0001872,OI0004041,SKU00125,CUST00616,Damaged upon arrival,Glass component was shattered inside the box.,2024-07-10 17:44:18.000000,Inspected,105.06,27.64,Damaged
+RET0000761,ORD0001876,OI0004050,SKU00115,CUST00618,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2026-03-31 21:57:12.506089,Inspected,20.43,25.13,Used
+RET0000762,ORD0001879,OI0004059,SKU00051,CUST00618,Not as described,Description said solid wood but this is veneer over particle board.,2025-09-20 00:10:39.000000,Refunded,245.85,24.7,Used
+RET0000763,ORD0001879,OI0004060,SKU00029,CUST00618,Quality didn't meet expectations,Cushions losing shape after just a month.,2025-09-23 00:10:39.000000,Processing,119.22,8.28,Used
+RET0000764,ORD0001881,OI0004063,SKU00092,CUST00619,Quality didn't meet expectations,Cushions losing shape after just a month.,2025-09-29 17:31:31.000000,Refunded,12.61,18.48,Used
+RET0000765,ORD0001886,OI0004072,SKU00318,CUST00620,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2026-04-02 21:57:12.530368,Refunded,260.6,14.52,Unused
+RET0000766,ORD0001889,OI0004078,SKU00374,CUST00622,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2025-07-07 13:29:38.000000,Refunded,162.17,21.09,Unused
+RET0000767,ORD0001889,OI0004079,SKU00174,CUST00622,Color mismatch,Beige is much more yellow-toned than the photos.,2025-07-09 13:29:38.000000,Received,57.08,10.74,Used
+RET0000768,ORD0001889,OI0004080,SKU00200,CUST00622,Too dark,Much more moody and dark in person.,2025-07-18 13:29:38.000000,Refunded,551.04,8.59,Used
+RET0000769,ORD0001889,OI0004081,SKU00384,CUST00622,Too light,Finish is practically white-washed.,2025-07-13 13:29:38.000000,Refunded,245.55,27.95,Used
+RET0000770,ORD0001891,OI0004084,SKU00005,CUST00622,Damaged upon arrival,One of the legs is bent and won't attach properly.,2025-09-09 06:00:54.000000,Refunded,103.61,28.08,Damaged
+RET0000771,ORD0001891,OI0004086,SKU00113,CUST00622,Damaged upon arrival,Paint is chipped off in several places.,2025-08-29 06:00:54.000000,Processing,25.77,20.89,Damaged
+RET0000772,ORD0001893,OI0004092,SKU00071,CUST00622,Quality didn't meet expectations,"For this price, I expected much better materials.",2025-01-12 13:40:41.000000,Refunded,95.73,13.56,Unused
+RET0000773,ORD0001896,OI0004097,SKU00172,CUST00622,Defective,One leg is shorter so the table wobbles.,2025-10-02 22:18:23.000000,Refunded,51.83,19.75,Unused
+RET0000774,ORD0001901,OI0004103,SKU00199,CUST00624,Color mismatch,White is actually off-white/cream.,2026-03-28 03:41:40.000000,Refunded,209.24,11.37,Unused
+RET0000775,ORD0001905,OI0004110,SKU00084,CUST00626,Quality didn't meet expectations,"For this price, I expected much better materials.",2025-09-21 04:38:16.000000,Received,497.89,19.06,Used
+RET0000776,ORD0001906,OI0004111,SKU00026,CUST00626,Color mismatch,Color variation is significant from the photos.,2025-03-21 07:17:53.000000,Refunded,238.08,29.77,Unused
+RET0000777,ORD0001908,OI0004113,SKU00005,CUST00626,Color mismatch,The navy I received is practically black.,2025-02-09 11:23:45.000000,Received,93.5,24.83,Unused
+RET0000778,ORD0001910,OI0004117,SKU00188,CUST00627,Difficult assembly,Instructions were just bad diagrams with no text.,2025-01-24 01:44:30.000000,Inspected,192.43,13.83,Used
+RET0000779,ORD0001914,OI0004123,SKU00059,CUST00629,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-01-10 20:47:02.000000,Refunded,68.97,13.5,Used
+RET0000780,ORD0001915,OI0004125,SKU00351,CUST00629,Quality didn't meet expectations,Construction feels flimsy and unstable.,2025-12-10 12:37:05.000000,Refunded,34.11,16.93,Used
+RET0000781,ORD0001916,OI0004126,SKU00256,CUST00629,Defective,Drawer doesn't close flush - frame is warped.,2025-05-04 03:10:42.000000,Refunded,348.54,19.11,Unused
+RET0000782,ORD0001917,OI0004128,SKU00005,CUST00630,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2024-09-30 13:40:06.000000,Refunded,86.02,23.39,Used
+RET0000783,ORD0001918,OI0004129,SKU00076,CUST00630,Defective,One leg is shorter so the table wobbles.,2024-10-29 09:29:59.000000,Refunded,188.35,9.38,Unused
+RET0000784,ORD0001921,OI0004139,SKU00060,CUST00631,Damaged upon arrival,Paint is chipped off in several places.,2024-06-22 08:53:34.000000,Refunded,117.25,25.24,Damaged
+RET0000785,ORD0001924,OI0004144,SKU00133,CUST00632,Color mismatch,The navy I received is practically black.,2025-12-23 14:03:22.000000,Refunded,352.7,12.4,Used
+RET0000786,ORD0001924,OI0004145,SKU00345,CUST00632,Quality didn't meet expectations,Cushions losing shape after just a month.,2025-12-30 14:03:22.000000,Processing,85.36,21.36,Unused
+RET0000787,ORD0001925,OI0004146,SKU00244,CUST00632,Difficult assembly,Need three hands to hold pieces while screwing.,2024-07-19 23:49:54.000000,Inspected,690.43,10.42,Used
+RET0000788,ORD0001925,OI0004147,SKU00254,CUST00632,Too dark,In evening lighting it's almost black.,2024-07-08 23:49:54.000000,Refunded,303.65,27.81,Used
+RET0000789,ORD0001928,OI0004152,SKU00206,CUST00632,Too light,Piece almost disappears because it's so light.,2025-06-11 16:29:15.000000,Refunded,96.23,24.48,Unused
+RET0000790,ORD0001929,OI0004154,SKU00164,CUST00632,Too light,Pale compared to the product photography.,2026-02-10 02:11:35.000000,Inspected,118.31,22.24,Used
+RET0000791,ORD0001934,OI0004165,SKU00314,CUST00634,Difficult assembly,Instructions were just bad diagrams with no text.,2025-09-19 13:41:12.000000,Inspected,290.48,21.18,Used
+RET0000792,ORD0001935,OI0004169,SKU00231,CUST00634,Color mismatch,Color variation is significant from the photos.,2025-01-14 00:10:27.000000,Refunded,112.44,25.24,Unused
+RET0000793,ORD0001937,OI0004177,SKU00255,CUST00634,Too light,Piece almost disappears because it's so light.,2025-12-14 15:26:25.000000,Inspected,637.2,16.61,Used
+RET0000794,ORD0001937,OI0004178,SKU00217,CUST00634,Too dark,Finish is at least two shades darker than shown.,2025-12-18 15:26:25.000000,Received,110.86,29.55,Unused
+RET0000795,ORD0001942,OI0004184,SKU00156,CUST00636,Not as described,Photos show a warm honey tone but it's very orange-yellow.,2024-08-20 05:54:40.000000,Processing,407.75,17.97,Unused
+RET0000796,ORD0001942,OI0004185,SKU00390,CUST00636,Too dark,In evening lighting it's almost black.,2024-08-14 05:54:40.000000,Refunded,48.08,21.78,Used
+RET0000797,ORD0001943,OI0004186,SKU00052,CUST00636,Quality didn't meet expectations,Construction feels flimsy and unstable.,2024-08-25 10:56:19.000000,Refunded,220.85,22.27,Unused
+RET0000798,ORD0001947,OI0004192,SKU00205,CUST00637,Not as described,Photos show a warm honey tone but it's very orange-yellow.,2025-12-17 08:44:11.000000,Inspected,227.72,28.87,Used
+RET0000799,ORD0001951,OI0004201,SKU00114,CUST00639,Not as described,Brass accents are actually painted plastic.,2024-08-22 00:18:18.000000,Processing,16.67,24.77,Unused
+RET0000800,ORD0001953,OI0004206,SKU00224,CUST00639,Defective,Light socket is faulty - bulb flickers.,2025-03-25 09:15:18.000000,Received,740.74,23.55,Unused
+RET0000801,ORD0001954,OI0004208,SKU00350,CUST00640,Too light,Finish is practically white-washed.,2024-05-21 08:55:02.000000,Processing,168.11,15.93,Unused
+RET0000802,ORD0001955,OI0004209,SKU00117,CUST00640,Too light,Wood tone is much lighter than the rich warm color shown.,2025-03-15 13:23:27.000000,Refunded,261.81,16.6,Unused
+RET0000803,ORD0001959,OI0004215,SKU00307,CUST00640,Defective,Pre-drilled holes don't line up with hardware.,2024-11-03 22:18:54.000000,Refunded,628.16,20.39,Unused
+RET0000804,ORD0001963,OI0004224,SKU00305,CUST00642,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-12-02 20:01:09.000000,Processing,138.57,11.27,Unused
+RET0000805,ORD0001965,OI0004228,SKU00178,CUST00644,Too light,Pale compared to the product photography.,2025-12-25 05:31:44.000000,Received,280.53,29.64,Unused
+RET0000806,ORD0001967,OI0004235,SKU00381,CUST00644,Defective,Pre-drilled holes don't line up with hardware.,2024-10-29 04:33:44.000000,Inspected,135.31,10.18,Used
+RET0000807,ORD0001967,OI0004236,SKU00139,CUST00644,Not as described,Description said solid wood but this is veneer over particle board.,2024-11-03 04:33:44.000000,Refunded,194.19,20.28,Used
+RET0000808,ORD0001972,OI0004247,SKU00315,CUST00646,Difficult assembly,Holes for cam locks were drilled too shallow.,2026-01-04 16:09:08.000000,Refunded,101.69,15.62,Used
+RET0000809,ORD0001975,OI0004252,SKU00384,CUST00646,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2026-02-11 02:04:24.000000,Inspected,88.0,20.16,Unused
+RET0000810,ORD0001976,OI0004257,SKU00303,CUST00647,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2024-10-05 03:09:18.000000,Refunded,272.49,14.65,Used
+RET0000811,ORD0001984,OI0004274,SKU00193,CUST00650,Too light,Wood tone is much lighter than the rich warm color shown.,2025-12-14 19:42:53.000000,Refunded,88.08,21.31,Used
+RET0000812,ORD0001989,OI0004283,SKU00084,CUST00652,Quality didn't meet expectations,"For this price, I expected much better materials.",2024-08-18 07:24:52.000000,Refunded,552.02,18.9,Used
+RET0000813,ORD0001991,OI0004288,SKU00030,CUST00653,Too light,Finish is practically white-washed.,2024-09-20 13:04:00.000000,Refunded,130.39,20.58,Unused
+RET0000814,ORD0001992,OI0004290,SKU00169,CUST00653,Too dark,Much more moody and dark in person.,2025-12-28 18:59:09.000000,Refunded,101.08,13.57,Unused
+RET0000815,ORD0001992,OI0004291,SKU00091,CUST00653,Too dark,Much more moody and dark in person.,2025-12-30 18:59:09.000000,Inspected,121.4,29.1,Unused
+RET0000816,ORD0001993,OI0004293,SKU00257,CUST00653,Color mismatch,Beige is much more yellow-toned than the photos.,2025-08-14 02:10:30.000000,Refunded,243.09,24.33,Unused
+RET0000817,ORD0001994,OI0004296,SKU00335,CUST00653,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2024-08-24 22:22:01.000000,Refunded,280.89,9.53,Unused
+RET0000818,ORD0001995,OI0004298,SKU00037,CUST00654,Damaged upon arrival,Glass component was shattered inside the box.,2026-03-02 12:22:00.000000,Received,254.31,19.4,Damaged
+RET0000819,ORD0001996,OI0004303,SKU00283,CUST00654,Too light,Piece almost disappears because it's so light.,2024-11-17 14:49:44.000000,Received,66.5,25.13,Unused
+RET0000820,ORD0001997,OI0004304,SKU00237,CUST00655,Not as described,Photos show a warm honey tone but it's very orange-yellow.,2024-05-30 23:08:00.000000,Received,380.45,19.44,Used
+RET0000821,ORD0001998,OI0004309,SKU00381,CUST00655,Quality didn't meet expectations,Construction feels flimsy and unstable.,2025-09-14 10:52:29.000000,Refunded,131.44,24.17,Used
+RET0000822,ORD0001999,OI0004310,SKU00060,CUST00655,Not as described,Measurements online are wrong - about 3 inches narrower.,2025-04-29 17:17:25.000000,Inspected,222.7,9.29,Unused
+RET0000823,ORD0001999,OI0004311,SKU00379,CUST00655,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2025-05-17 17:17:25.000000,Inspected,1548.42,26.46,Damaged
+RET0000824,ORD0002000,OI0004312,SKU00116,CUST00655,Color mismatch,The navy I received is practically black.,2026-03-02 09:09:08.000000,Refunded,237.21,10.81,Unused
+RET0000825,ORD0002000,OI0004313,SKU00040,CUST00655,Defective,Pre-drilled holes don't line up with hardware.,2026-03-04 09:09:08.000000,Inspected,175.69,25.56,Used
+RET0000826,ORD0002001,OI0004316,SKU00289,CUST00656,Not as described,Brass accents are actually painted plastic.,2025-02-06 18:19:35.000000,Inspected,112.84,28.62,Used
+RET0000827,ORD0002003,OI0004320,SKU00274,CUST00656,Too light,Finish is practically white-washed.,2026-03-31 21:57:12.798470,Refunded,101.23,18.59,Unused
+RET0000828,ORD0002006,OI0004323,SKU00149,CUST00658,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2026-02-16 11:00:22.000000,Refunded,34.95,24.28,Damaged
+RET0000829,ORD0002008,OI0004328,SKU00055,CUST00658,Not as described,Brass accents are actually painted plastic.,2026-02-17 13:18:59.000000,Inspected,404.02,16.11,Used
+RET0000830,ORD0002008,OI0004330,SKU00230,CUST00658,Difficult assembly,Holes for cam locks were drilled too shallow.,2026-02-24 13:18:59.000000,Processing,43.37,28.62,Used
+RET0000831,ORD0002015,OI0004343,SKU00136,CUST00661,Defective,One leg is shorter so the table wobbles.,2025-03-31 10:20:55.000000,Processing,26.4,25.72,Used
+RET0000832,ORD0002017,OI0004347,SKU00072,CUST00662,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2025-06-06 04:01:12.000000,Refunded,120.7,8.52,Damaged
+RET0000833,ORD0002024,OI0004359,SKU00307,CUST00663,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2026-01-25 18:53:00.000000,Inspected,619.14,22.5,Unused
+RET0000834,ORD0002025,OI0004360,SKU00345,CUST00663,Defective,Pre-drilled holes don't line up with hardware.,2025-04-15 20:03:59.000000,Received,186.18,14.73,Unused
+RET0000835,ORD0002026,OI0004362,SKU00038,CUST00664,Quality didn't meet expectations,Construction feels flimsy and unstable.,2026-03-07 13:07:32.000000,Inspected,62.66,14.21,Used
+RET0000836,ORD0002031,OI0004369,SKU00134,CUST00666,Not as described,Brass accents are actually painted plastic.,2024-06-20 19:12:42.000000,Processing,168.69,20.97,Used
+RET0000837,ORD0002032,OI0004371,SKU00235,CUST00666,Color mismatch,The navy I received is practically black.,2025-02-18 08:52:08.000000,Inspected,1087.29,23.74,Used
+RET0000838,ORD0002038,OI0004380,SKU00396,CUST00667,Difficult assembly,Need three hands to hold pieces while screwing.,2025-02-11 15:18:36.000000,Inspected,53.75,9.09,Used
+RET0000839,ORD0002039,OI0004382,SKU00296,CUST00667,Too dark,Much more moody and dark in person.,2024-10-16 20:08:14.000000,Inspected,263.42,17.05,Used
+RET0000840,ORD0002042,OI0004391,SKU00296,CUST00667,Quality didn't meet expectations,Construction feels flimsy and unstable.,2026-04-07 10:17:02.000000,Inspected,263.95,25.07,Used
+RET0000841,ORD0002043,OI0004393,SKU00133,CUST00667,Too dark,Much more moody and dark in person.,2024-07-09 09:28:28.000000,Refunded,268.22,19.62,Used
+RET0000842,ORD0002043,OI0004395,SKU00328,CUST00667,Defective,Drawer doesn't close flush - frame is warped.,2024-07-22 09:28:28.000000,Inspected,171.02,22.29,Unused
+RET0000843,ORD0002050,OI0004409,SKU00310,CUST00669,Defective,Pre-drilled holes don't line up with hardware.,2024-08-04 07:28:25.000000,Inspected,960.46,19.89,Used
+RET0000844,ORD0002052,OI0004414,SKU00091,CUST00669,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2024-12-01 06:15:03.000000,Inspected,121.18,16.77,Unused
+RET0000845,ORD0002057,OI0004421,SKU00220,CUST00674,Damaged upon arrival,One of the legs is bent and won't attach properly.,2026-02-13 23:27:13.000000,Processing,357.76,28.99,Damaged
+RET0000846,ORD0002060,OI0004426,SKU00353,CUST00675,Defective,Pre-drilled holes don't line up with hardware.,2025-10-19 10:34:44.000000,Refunded,179.47,28.35,Unused
+RET0000847,ORD0002060,OI0004427,SKU00185,CUST00675,Defective,Pre-drilled holes don't line up with hardware.,2025-10-24 10:34:44.000000,Inspected,129.35,24.81,Used
+RET0000848,ORD0002062,OI0004432,SKU00222,CUST00676,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2025-04-01 20:58:08.000000,Refunded,136.74,13.31,Used
+RET0000849,ORD0002063,OI0004433,SKU00188,CUST00676,Color mismatch,Color variation is significant from the photos.,2025-08-15 09:21:15.000000,Refunded,82.86,22.35,Unused
+RET0000850,ORD0002066,OI0004437,SKU00211,CUST00677,Color mismatch,White is actually off-white/cream.,2024-06-30 23:18:24.000000,Inspected,409.69,15.69,Used
+RET0000851,ORD0002069,OI0004445,SKU00311,CUST00678,Not as described,Description said solid wood but this is veneer over particle board.,2024-10-10 22:31:37.000000,Processing,67.66,12.25,Used
+RET0000852,ORD0002071,OI0004450,SKU00347,CUST00679,Too light,Finish is practically white-washed.,2024-08-25 13:40:44.000000,Refunded,508.41,13.33,Used
+RET0000853,ORD0002071,OI0004452,SKU00412,CUST00679,Color mismatch,Color variation is significant from the photos.,2024-08-17 13:40:44.000000,Processing,510.73,27.03,Used
+RET0000854,ORD0002073,OI0004459,SKU00124,CUST00679,Quality didn't meet expectations,Construction feels flimsy and unstable.,2025-11-11 07:04:13.000000,Refunded,130.97,27.39,Unused
+RET0000855,ORD0002073,OI0004460,SKU00020,CUST00679,Too light,Finish is practically white-washed.,2025-11-22 07:04:13.000000,Refunded,39.55,23.23,Unused
+RET0000856,ORD0002076,OI0004470,SKU00015,CUST00680,Too dark,In evening lighting it's almost black.,2025-03-30 04:28:19.000000,Processing,25.6,10.91,Unused
+RET0000857,ORD0002077,OI0004471,SKU00102,CUST00680,Defective,Pre-drilled holes don't line up with hardware.,2024-07-26 19:06:16.000000,Inspected,54.96,10.63,Unused
+RET0000858,ORD0002077,OI0004473,SKU00279,CUST00680,Defective,Light socket is faulty - bulb flickers.,2024-08-03 19:06:16.000000,Processing,162.9,22.09,Used
+RET0000859,ORD0002079,OI0004477,SKU00208,CUST00680,Too dark,Finish is at least two shades darker than shown.,2024-11-28 05:02:02.000000,Refunded,272.6,19.47,Unused
+RET0000860,ORD0002085,OI0004486,SKU00188,CUST00683,Not as described,Photos show a warm honey tone but it's very orange-yellow.,2025-03-21 12:32:48.000000,Inspected,90.61,16.73,Unused
+RET0000861,ORD0002086,OI0004487,SKU00323,CUST00683,Too dark,In evening lighting it's almost black.,2025-09-13 17:21:17.000000,Inspected,98.0,19.94,Unused
+RET0000862,ORD0002090,OI0004500,SKU00241,CUST00684,Damaged upon arrival,Paint is chipped off in several places.,2024-06-15 05:14:29.000000,Received,73.5,22.0,Damaged
+RET0000863,ORD0002098,OI0004509,SKU00136,CUST00686,Defective,Pre-drilled holes don't line up with hardware.,2025-09-02 06:55:31.000000,Refunded,47.52,26.49,Unused
+RET0000864,ORD0002099,OI0004513,SKU00366,CUST00686,Quality didn't meet expectations,Cushions losing shape after just a month.,2025-06-13 17:43:52.000000,Refunded,153.48,23.62,Used
+RET0000865,ORD0002103,OI0004523,SKU00273,CUST00687,Defective,Light socket is faulty - bulb flickers.,2024-08-11 22:53:51.000000,Refunded,225.95,14.6,Used
+RET0000866,ORD0002107,OI0004531,SKU00071,CUST00687,Too light,Piece almost disappears because it's so light.,2025-08-22 23:18:45.000000,Refunded,90.98,9.53,Used
+RET0000867,ORD0002107,OI0004532,SKU00318,CUST00687,Defective,Drawer doesn't close flush - frame is warped.,2025-08-13 23:18:45.000000,Refunded,78.58,23.28,Used
+RET0000868,ORD0002108,OI0004535,SKU00367,CUST00688,Color mismatch,White is actually off-white/cream.,2025-01-30 11:23:56.000000,Refunded,137.52,9.24,Unused
+RET0000869,ORD0002110,OI0004542,SKU00256,CUST00690,Quality didn't meet expectations,Construction feels flimsy and unstable.,2025-07-20 16:22:26.000000,Refunded,163.26,25.99,Unused
+RET0000870,ORD0002113,OI0004550,SKU00062,CUST00691,Color mismatch,The navy I received is practically black.,2025-09-25 11:12:36.000000,Refunded,161.74,28.19,Unused
+RET0000871,ORD0002116,OI0004555,SKU00182,CUST00692,Not as described,Shown with decorative pillows that weren't included.,2025-06-22 00:53:26.000000,Refunded,103.1,15.84,Unused
+RET0000872,ORD0002118,OI0004560,SKU00152,CUST00692,Defective,One leg is shorter so the table wobbles.,2024-06-24 00:03:55.000000,Refunded,264.93,12.62,Unused
+RET0000873,ORD0002118,OI0004561,SKU00074,CUST00692,Not as described,Brass accents are actually painted plastic.,2024-06-24 00:03:55.000000,Inspected,270.02,27.6,Used
+RET0000874,ORD0002124,OI0004573,SKU00216,CUST00693,Too dark,Finish is at least two shades darker than shown.,2025-06-27 20:34:21.000000,Processing,35.51,19.22,Used
+RET0000875,ORD0002129,OI0004584,SKU00322,CUST00695,Defective,One leg is shorter so the table wobbles.,2024-05-29 05:58:18.000000,Refunded,335.74,10.42,Unused
+RET0000876,ORD0002130,OI0004586,SKU00107,CUST00695,Quality didn't meet expectations,Construction feels flimsy and unstable.,2025-09-01 04:11:37.000000,Processing,170.55,14.2,Used
+RET0000877,ORD0002131,OI0004589,SKU00287,CUST00695,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2025-02-27 22:25:18.000000,Refunded,114.25,25.43,Used
+RET0000878,ORD0002136,OI0004600,SKU00355,CUST00696,Too dark,Much more moody and dark in person.,2025-01-22 19:08:37.000000,Refunded,31.18,25.6,Used
+RET0000879,ORD0002140,OI0004608,SKU00375,CUST00699,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2024-11-07 17:20:39.000000,Refunded,456.34,25.88,Used
+RET0000880,ORD0002140,OI0004609,SKU00188,CUST00699,Defective,Light socket is faulty - bulb flickers.,2024-11-06 17:20:39.000000,Received,96.73,25.88,Unused
+RET0000881,ORD0002148,OI0004623,SKU00339,CUST00700,Not as described,Photos show a warm honey tone but it's very orange-yellow.,2025-12-06 03:56:56.000000,Refunded,25.63,24.75,Used
+RET0000882,ORD0002155,OI0004638,SKU00207,CUST00703,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2026-01-25 07:20:08.000000,Received,313.0,12.21,Damaged
+RET0000883,ORD0002157,OI0004642,SKU00045,CUST00703,Color mismatch,The navy I received is practically black.,2024-09-05 10:19:45.000000,Refunded,68.23,9.6,Used
+RET0000884,ORD0002159,OI0004645,SKU00026,CUST00704,Not as described,Description said solid wood but this is veneer over particle board.,2025-12-19 14:42:07.000000,Inspected,232.84,20.51,Used
+RET0000885,ORD0002162,OI0004650,SKU00298,CUST00705,Not as described,Description said solid wood but this is veneer over particle board.,2025-11-02 13:25:35.000000,Inspected,80.94,25.41,Unused
+RET0000886,ORD0002163,OI0004653,SKU00403,CUST00705,Color mismatch,Color variation is significant from the photos.,2025-05-03 02:53:56.000000,Processing,136.4,11.14,Unused
+RET0000887,ORD0002166,OI0004662,SKU00412,CUST00707,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2026-01-24 17:50:40.000000,Refunded,942.41,23.7,Used
+RET0000888,ORD0002166,OI0004664,SKU00052,CUST00707,Difficult assembly,Need three hands to hold pieces while screwing.,2026-01-09 17:50:40.000000,Refunded,231.58,9.02,Unused
+RET0000889,ORD0002168,OI0004669,SKU00040,CUST00707,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2024-06-14 10:42:38.000000,Refunded,150.57,17.8,Used
+RET0000890,ORD0002170,OI0004673,SKU00034,CUST00708,Difficult assembly,Instructions were just bad diagrams with no text.,2025-12-24 07:40:08.000000,Refunded,203.5,15.56,Used
+RET0000891,ORD0002171,OI0004675,SKU00138,CUST00709,Not as described,Description said solid wood but this is veneer over particle board.,2025-04-20 22:11:49.000000,Refunded,186.15,15.63,Unused
+RET0000892,ORD0002172,OI0004678,SKU00213,CUST00709,Damaged upon arrival,Glass component was shattered inside the box.,2024-06-07 03:51:33.000000,Refunded,291.07,10.78,Damaged
+RET0000893,ORD0002173,OI0004680,SKU00313,CUST00709,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2024-12-18 08:35:50.000000,Received,20.98,26.96,Unused
+RET0000894,ORD0002175,OI0004683,SKU00332,CUST00709,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2024-05-27 11:02:22.000000,Received,91.47,18.68,Used
+RET0000895,ORD0002176,OI0004687,SKU00113,CUST00710,Color mismatch,Beige is much more yellow-toned than the photos.,2025-12-22 21:46:33.000000,Inspected,23.98,21.95,Used
+RET0000896,ORD0002178,OI0004693,SKU00004,CUST00710,Not as described,Photos show a warm honey tone but it's very orange-yellow.,2026-03-24 10:45:39.000000,Refunded,141.2,8.28,Used
+RET0000897,ORD0002180,OI0004699,SKU00098,CUST00711,Color mismatch,Beige is much more yellow-toned than the photos.,2025-01-03 13:33:49.000000,Inspected,39.35,14.12,Unused
+RET0000898,ORD0002185,OI0004711,SKU00283,CUST00711,Defective,Pre-drilled holes don't line up with hardware.,2026-01-30 18:42:08.000000,Refunded,156.4,8.31,Unused
+RET0000899,ORD0002188,OI0004717,SKU00387,CUST00711,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2024-11-15 04:32:32.000000,Refunded,93.64,17.56,Used
+RET0000900,ORD0002189,OI0004720,SKU00260,CUST00711,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2024-06-04 21:05:31.000000,Refunded,155.07,16.06,Unused
+RET0000901,ORD0002193,OI0004729,SKU00116,CUST00714,Quality didn't meet expectations,Construction feels flimsy and unstable.,2024-12-02 15:55:30.000000,Received,177.07,29.93,Used
+RET0000902,ORD0002194,OI0004730,SKU00356,CUST00714,Too light,Piece almost disappears because it's so light.,2025-01-19 16:54:44.000000,Refunded,533.61,15.84,Used
+RET0000903,ORD0002196,OI0004735,SKU00407,CUST00715,Too light,Wood tone is much lighter than the rich warm color shown.,2025-12-20 22:22:23.000000,Refunded,768.72,26.51,Used
+RET0000904,ORD0002197,OI0004739,SKU00103,CUST00715,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2024-06-05 13:33:47.000000,Processing,73.3,16.69,Used
+RET0000905,ORD0002199,OI0004744,SKU00406,CUST00715,Defective,Light socket is faulty - bulb flickers.,2025-09-18 18:09:00.000000,Inspected,240.94,24.39,Used
+RET0000906,ORD0002202,OI0004752,SKU00204,CUST00716,Defective,One leg is shorter so the table wobbles.,2024-07-31 02:48:49.000000,Refunded,119.18,16.99,Unused
+RET0000907,ORD0002203,OI0004755,SKU00100,CUST00716,Defective,Drawer doesn't close flush - frame is warped.,2026-01-17 07:15:14.000000,Refunded,95.53,20.25,Used
+RET0000908,ORD0002204,OI0004758,SKU00087,CUST00716,Quality didn't meet expectations,Construction feels flimsy and unstable.,2025-01-28 06:48:21.000000,Processing,176.15,9.78,Used
+RET0000909,ORD0002207,OI0004768,SKU00309,CUST00718,Defective,Drawer doesn't close flush - frame is warped.,2025-03-09 03:22:39.000000,Refunded,75.96,13.04,Used
+RET0000910,ORD0002208,OI0004769,SKU00181,CUST00718,Too light,Pale compared to the product photography.,2025-12-04 18:41:28.000000,Received,295.63,14.0,Unused
+RET0000911,ORD0002208,OI0004770,SKU00050,CUST00718,Difficult assembly,Need three hands to hold pieces while screwing.,2025-11-21 18:41:28.000000,Processing,397.53,22.81,Unused
+RET0000912,ORD0002209,OI0004772,SKU00358,CUST00719,Too light,Wood tone is much lighter than the rich warm color shown.,2025-04-19 23:42:58.000000,Inspected,1501.55,8.52,Unused
+RET0000913,ORD0002212,OI0004776,SKU00006,CUST00720,Damaged upon arrival,One of the legs is bent and won't attach properly.,2025-01-23 18:31:55.000000,Inspected,123.2,13.18,Damaged
+RET0000914,ORD0002212,OI0004779,SKU00220,CUST00720,Difficult assembly,Instructions were just bad diagrams with no text.,2025-01-21 18:31:55.000000,Refunded,174.57,9.24,Used
+RET0000915,ORD0002213,OI0004782,SKU00184,CUST00720,Too light,Piece almost disappears because it's so light.,2024-09-16 12:57:24.000000,Refunded,172.29,12.04,Used
+RET0000916,ORD0002216,OI0004785,SKU00251,CUST00721,Too dark,In evening lighting it's almost black.,2025-05-14 20:56:22.000000,Refunded,74.92,18.14,Unused
+RET0000917,ORD0002218,OI0004792,SKU00289,CUST00721,Not as described,Photos show a warm honey tone but it's very orange-yellow.,2026-04-07 08:49:38.000000,Processing,234.16,8.05,Unused
+RET0000918,ORD0002218,OI0004793,SKU00043,CUST00721,Difficult assembly,Need three hands to hold pieces while screwing.,2026-03-31 21:57:13.310801,Refunded,367.5,16.6,Unused
+RET0000919,ORD0002220,OI0004799,SKU00235,CUST00722,Defective,Drawer doesn't close flush - frame is warped.,2025-06-10 18:26:05.000000,Inspected,638.34,12.81,Used
+RET0000920,ORD0002224,OI0004804,SKU00211,CUST00724,Too dark,Much more moody and dark in person.,2025-11-19 04:12:34.000000,Refunded,812.22,9.72,Unused
+RET0000921,ORD0002225,OI0004808,SKU00363,CUST00724,Defective,One leg is shorter so the table wobbles.,2025-03-12 03:40:43.000000,Processing,92.16,15.04,Used
+RET0000922,ORD0002228,OI0004811,SKU00217,CUST00725,Damaged upon arrival,Glass component was shattered inside the box.,2025-08-22 08:58:29.000000,Processing,64.45,18.07,Damaged
+RET0000923,ORD0002228,OI0004812,SKU00206,CUST00725,Difficult assembly,Pieces were labeled wrong - had to reassemble multiple times.,2025-08-15 08:58:29.000000,Received,123.64,25.7,Used
+RET0000924,ORD0002234,OI0004822,SKU00223,CUST00726,Too light,Finish is practically white-washed.,2024-07-12 02:59:42.000000,Refunded,153.1,10.54,Unused
+RET0000925,ORD0002235,OI0004824,SKU00344,CUST00727,Defective,One leg is shorter so the table wobbles.,2024-06-25 15:01:26.000000,Received,301.6,28.5,Used
+RET0000926,ORD0002238,OI0004829,SKU00235,CUST00728,Damaged upon arrival,Paint is chipped off in several places.,2024-12-06 01:33:34.000000,Refunded,638.34,24.02,Damaged
+RET0000927,ORD0002245,OI0004841,SKU00026,CUST00730,Difficult assembly,Holes for cam locks were drilled too shallow.,2025-10-25 04:34:45.000000,Inspected,256.91,14.96,Unused
+RET0000928,ORD0002247,OI0004845,SKU00293,CUST00730,Quality didn't meet expectations,Construction feels flimsy and unstable.,2025-02-05 11:44:31.000000,Received,139.49,19.52,Used
+RET0000929,ORD0002248,OI0004846,SKU00364,CUST00730,Defective,One leg is shorter so the table wobbles.,2025-04-05 17:31:56.000000,Refunded,113.21,21.96,Unused
+RET0000930,ORD0002248,OI0004848,SKU00162,CUST00730,Damaged upon arrival,Glass component was shattered inside the box.,2025-04-07 17:31:56.000000,Inspected,127.07,22.96,Damaged
+RET0000931,ORD0002248,OI0004849,SKU00020,CUST00730,Defective,Light socket is faulty - bulb flickers.,2025-04-10 17:31:56.000000,Refunded,45.07,15.31,Used
+RET0000932,ORD0002250,OI0004854,SKU00332,CUST00731,Defective,Light socket is faulty - bulb flickers.,2025-11-04 23:14:01.000000,Received,100.65,22.13,Used
+RET0000933,ORD0002250,OI0004855,SKU00155,CUST00731,Difficult assembly,Instructions were just bad diagrams with no text.,2025-11-21 23:14:01.000000,Refunded,227.14,28.08,Used
+RET0000934,ORD0002250,OI0004856,SKU00040,CUST00731,Too dark,Much more moody and dark in person.,2025-11-11 23:14:01.000000,Refunded,149.97,28.87,Unused
+RET0000935,ORD0002251,OI0004857,SKU00225,CUST00731,Damaged upon arrival,One of the legs is bent and won't attach properly.,2026-03-02 05:05:59.000000,Inspected,145.97,24.9,Damaged
+RET0000936,ORD0002252,OI0004861,SKU00312,CUST00731,Not as described,Measurements online are wrong - about 3 inches narrower.,2026-03-27 12:01:18.000000,Refunded,142.32,14.05,Used
+RET0000937,ORD0002252,OI0004862,SKU00329,CUST00731,Too dark,Finish is at least two shades darker than shown.,2026-04-06 12:01:18.000000,Inspected,349.04,24.21,Unused
+RET0000938,ORD0002254,OI0004867,SKU00322,CUST00731,Quality didn't meet expectations,Construction feels flimsy and unstable.,2025-08-09 00:05:37.000000,Received,952.42,16.97,Unused
+RET0000939,ORD0002256,OI0004871,SKU00347,CUST00732,Too dark,Much more moody and dark in person.,2024-11-27 16:30:51.000000,Inspected,524.91,28.15,Used
+RET0000940,ORD0002258,OI0004876,SKU00026,CUST00732,Color mismatch,The navy I received is practically black.,2026-01-03 04:38:50.000000,Received,230.91,17.81,Unused
+RET0000941,ORD0002259,OI0004878,SKU00289,CUST00733,Not as described,Photos show a warm honey tone but it's very orange-yellow.,2024-06-05 23:39:47.000000,Refunded,221.83,29.01,Used
+RET0000942,ORD0002259,OI0004879,SKU00411,CUST00733,Difficult assembly,Need three hands to hold pieces while screwing.,2024-06-03 23:39:47.000000,Processing,137.83,22.16,Used
+RET0000943,ORD0002260,OI0004880,SKU00110,CUST00733,Defective,Pre-drilled holes don't line up with hardware.,2024-06-29 17:18:00.000000,Inspected,23.52,21.44,Unused
+RET0000944,ORD0002260,OI0004881,SKU00032,CUST00733,Quality didn't meet expectations,Construction feels flimsy and unstable.,2024-06-20 17:18:00.000000,Refunded,726.25,20.25,Unused
+RET0000945,ORD0002261,OI0004883,SKU00367,CUST00734,Damaged upon arrival,Paint is chipped off in several places.,2025-10-10 18:12:21.000000,Refunded,126.68,16.01,Damaged
+RET0000946,ORD0002263,OI0004889,SKU00206,CUST00735,Too dark,Finish is at least two shades darker than shown.,2025-02-26 22:44:20.000000,Refunded,94.81,26.17,Unused
+RET0000947,ORD0002267,OI0004896,SKU00328,CUST00736,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2025-12-06 21:32:34.000000,Refunded,147.24,23.81,Used
+RET0000948,ORD0002270,OI0004907,SKU00190,CUST00737,Difficult assembly,Holes for cam locks were drilled too shallow.,2024-05-10 14:56:04.000000,Refunded,101.67,12.14,Used
+RET0000949,ORD0002273,OI0004912,SKU00076,CUST00738,Defective,One leg is shorter so the table wobbles.,2025-08-19 08:24:40.000000,Received,198.26,17.07,Unused
+RET0000950,ORD0002274,OI0004916,SKU00196,CUST00739,Color mismatch,The navy I received is practically black.,2025-10-10 02:55:26.000000,Inspected,106.3,11.11,Unused
+RET0000951,ORD0002275,OI0004917,SKU00161,CUST00740,Not as described,Shown with decorative pillows that weren't included.,2025-12-15 07:08:31.000000,Processing,70.24,21.02,Unused
+RET0000952,ORD0002276,OI0004921,SKU00321,CUST00741,Quality didn't meet expectations,Cushions losing shape after just a month.,2025-04-01 18:33:53.000000,Received,65.41,25.75,Unused
+RET0000953,ORD0002279,OI0004926,SKU00272,CUST00742,Damaged upon arrival,Paint is chipped off in several places.,2024-06-20 15:45:07.000000,Received,203.81,23.3,Damaged
+RET0000954,ORD0002280,OI0004929,SKU00029,CUST00742,Too light,Piece almost disappears because it's so light.,2024-10-25 17:42:14.000000,Refunded,72.74,19.57,Used
+RET0000955,ORD0002283,OI0004936,SKU00240,CUST00742,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2025-01-26 23:17:20.000000,Processing,311.93,9.97,Used
+RET0000956,ORD0002285,OI0004940,SKU00119,CUST00742,Too light,Wood tone is much lighter than the rich warm color shown.,2025-02-08 19:21:16.000000,Refunded,104.1,17.69,Used
+RET0000957,ORD0002286,OI0004941,SKU00325,CUST00743,Difficult assembly,Need three hands to hold pieces while screwing.,2025-06-30 00:38:16.000000,Inspected,10.67,18.29,Used
+RET0000958,ORD0002289,OI0004945,SKU00153,CUST00744,Color mismatch,The navy I received is practically black.,2024-08-28 14:43:33.000000,Received,171.41,22.87,Used
+RET0000959,ORD0002293,OI0004952,SKU00378,CUST00745,Damaged upon arrival,One of the legs is bent and won't attach properly.,2025-02-10 09:15:48.000000,Refunded,282.36,22.42,Damaged
+RET0000960,ORD0002293,OI0004954,SKU00168,CUST00745,Quality didn't meet expectations,"For this price, I expected much better materials.",2025-02-18 09:15:48.000000,Received,221.79,16.14,Used
+RET0000961,ORD0002296,OI0004959,SKU00412,CUST00746,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2024-06-19 03:40:46.000000,Refunded,504.03,22.92,Used
+RET0000962,ORD0002296,OI0004962,SKU00228,CUST00746,Not as described,Brass accents are actually painted plastic.,2024-06-20 03:40:46.000000,Refunded,438.85,26.65,Used
+RET0000963,ORD0002299,OI0004967,SKU00333,CUST00747,Not as described,Shown with decorative pillows that weren't included.,2025-06-11 16:16:44.000000,Inspected,204.63,28.32,Used
+RET0000964,ORD0002301,OI0004971,SKU00399,CUST00748,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2025-02-20 14:19:25.000000,Received,193.77,8.32,Unused
+RET0000965,ORD0002307,OI0004984,SKU00183,CUST00750,Too dark,In evening lighting it's almost black.,2024-05-29 13:29:27.000000,Refunded,116.73,16.18,Unused
+RET0000966,ORD0002309,OI0004986,SKU00036,CUST00751,Damaged upon arrival,Glass component was shattered inside the box.,2024-09-13 22:37:06.000000,Received,132.0,10.8,Damaged
+RET0000967,ORD0002310,OI0004989,SKU00240,CUST00751,Damaged upon arrival,The box arrived crushed and the corner was cracked.,2025-05-12 01:17:06.000000,Refunded,670.35,27.64,Damaged
+RET0000968,ORD0002311,OI0004995,SKU00237,CUST00751,Defective,Drawer doesn't close flush - frame is warped.,2025-06-20 13:54:10.000000,Inspected,1312.44,26.88,Used
+RET0000969,ORD0002313,OI0004999,SKU00353,CUST00752,Quality didn't meet expectations,Construction feels flimsy and unstable.,2026-03-31 21:57:13.534454,Received,327.35,9.84,Unused
+RET0000970,ORD0002316,OI0005003,SKU00128,CUST00752,Defective,Drawer doesn't close flush - frame is warped.,2024-11-24 18:18:08.000000,Processing,1107.35,22.91,Used
+RET0000971,ORD0002319,OI0005008,SKU00347,CUST00754,Not as described,Photos show a warm honey tone but it's very orange-yellow.,2025-10-25 06:38:50.000000,Refunded,535.3,12.9,Unused
+RET0000972,ORD0002321,OI0005010,SKU00412,CUST00754,Too dark,Much more moody and dark in person.,2024-10-19 02:18:50.000000,Refunded,989.16,10.89,Used
+RET0000973,ORD0002325,OI0005021,SKU00236,CUST00756,Too light,Pale compared to the product photography.,2026-03-31 21:57:13.558103,Refunded,197.25,16.34,Unused
+RET0000974,ORD0002326,OI0005027,SKU00143,CUST00756,Defective,One leg is shorter so the table wobbles.,2025-05-01 23:04:00.000000,Processing,315.36,20.44,Used
+RET0000975,ORD0002331,OI0005034,SKU00174,CUST00758,Color mismatch,White is actually off-white/cream.,2024-06-25 22:51:41.000000,Inspected,30.44,20.47,Unused
+RET0000976,ORD0002333,OI0005037,SKU00412,CUST00758,Not as described,Photos show a warm honey tone but it's very orange-yellow.,2024-09-13 12:58:45.000000,Inspected,491.81,11.92,Unused
+RET0000977,ORD0002333,OI0005038,SKU00167,CUST00758,Difficult assembly,Need three hands to hold pieces while screwing.,2024-09-06 12:58:45.000000,Refunded,27.04,24.2,Unused
+RET0000978,ORD0002334,OI0005039,SKU00103,CUST00758,Too light,Wood tone is much lighter than the rich warm color shown.,2026-03-15 11:01:21.000000,Refunded,74.15,24.99,Unused
+RET0000979,ORD0002335,OI0005040,SKU00156,CUST00759,Quality didn't meet expectations,Construction feels flimsy and unstable.,2025-10-27 12:36:36.000000,Refunded,407.03,14.35,Used
+RET0000980,ORD0002338,OI0005048,SKU00293,CUST00759,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2026-01-21 23:29:34.000000,Refunded,119.3,9.45,Unused
+RET0000981,ORD0002340,OI0005050,SKU00394,CUST00759,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2026-02-15 04:05:21.000000,Refunded,219.48,18.52,Unused
+RET0000982,ORD0002342,OI0005054,SKU00387,CUST00760,Defective,Light socket is faulty - bulb flickers.,2025-09-21 03:52:02.000000,Refunded,107.07,26.54,Unused
+RET0000983,ORD0002344,OI0005060,SKU00088,CUST00761,Too dark,Finish is at least two shades darker than shown.,2025-11-09 13:13:29.000000,Inspected,95.98,23.65,Used
+RET0000984,ORD0002344,OI0005061,SKU00373,CUST00761,Too dark,This piece absorbs what little light there is. Makes the corner feel like a cave.,2025-11-02 13:13:29.000000,Received,56.97,18.93,Unused
+RET0000985,ORD0002345,OI0005063,SKU00334,CUST00761,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2024-06-19 20:59:00.000000,Inspected,91.63,13.55,Used
+RET0000986,ORD0002347,OI0005065,SKU00153,CUST00762,Too light,Finish is practically white-washed.,2025-06-21 13:14:17.000000,Refunded,531.5,20.84,Unused
+RET0000987,ORD0002347,OI0005067,SKU00332,CUST00762,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2025-06-22 13:14:17.000000,Inspected,87.6,23.98,Used
+RET0000988,ORD0002348,OI0005068,SKU00121,CUST00762,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2024-12-06 23:10:35.000000,Processing,322.75,27.4,Damaged
+RET0000989,ORD0002350,OI0005076,SKU00348,CUST00763,Color mismatch,Beige is much more yellow-toned than the photos.,2024-12-27 10:01:44.000000,Received,249.09,9.96,Unused
+RET0000990,ORD0002351,OI0005077,SKU00097,CUST00763,Too light,Piece almost disappears because it's so light.,2026-02-25 16:58:13.000000,Refunded,175.44,9.84,Unused
+RET0000991,ORD0002352,OI0005081,SKU00099,CUST00763,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2024-08-20 18:32:31.000000,Refunded,336.01,22.29,Used
+RET0000992,ORD0002353,OI0005085,SKU00072,CUST00764,Too light,Piece almost disappears because it's so light.,2025-11-16 07:30:53.000000,Refunded,109.84,13.6,Unused
+RET0000993,ORD0002359,OI0005095,SKU00185,CUST00765,Quality didn't meet expectations,Cushions losing shape after just a month.,2026-01-08 22:00:15.000000,Refunded,188.36,9.96,Used
+RET0000994,ORD0002359,OI0005096,SKU00209,CUST00765,Difficult assembly,Need three hands to hold pieces while screwing.,2026-01-07 22:00:15.000000,Refunded,75.19,20.52,Used
+RET0000995,ORD0002361,OI0005100,SKU00307,CUST00767,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-06-03 14:19:33.000000,Refunded,1116.83,26.31,Used
+RET0000996,ORD0002367,OI0005109,SKU00088,CUST00771,Defective,Drawer doesn't close flush - frame is warped.,2024-11-06 07:30:49.000000,Refunded,115.97,28.96,Unused
+RET0000997,ORD0002367,OI0005112,SKU00289,CUST00771,Color mismatch,Color variation is significant from the photos.,2024-10-18 07:30:49.000000,Refunded,320.72,28.3,Unused
+RET0000998,ORD0002370,OI0005119,SKU00374,CUST00772,Too light,Piece almost disappears because it's so light.,2024-05-17 20:24:04.000000,Received,80.91,10.7,Unused
+RET0000999,ORD0002372,OI0005123,SKU00368,CUST00772,Damaged upon arrival,One of the legs is bent and won't attach properly.,2025-07-06 18:08:22.000000,Processing,146.84,20.74,Damaged
+RET0001000,ORD0002373,OI0005124,SKU00276,CUST00772,Defective,Pre-drilled holes don't line up with hardware.,2025-07-12 22:27:19.000000,Refunded,93.84,15.8,Used
+RET0001001,ORD0002373,OI0005127,SKU00029,CUST00772,Defective,Pre-drilled holes don't line up with hardware.,2025-07-24 22:27:19.000000,Inspected,165.86,25.72,Unused
+RET0001002,ORD0002374,OI0005128,SKU00081,CUST00773,Not as described,Brass accents are actually painted plastic.,2025-02-23 23:26:02.000000,Refunded,130.82,25.17,Used
+RET0001003,ORD0002376,OI0005134,SKU00175,CUST00773,Too light,Pale compared to the product photography.,2026-01-22 15:46:18.000000,Refunded,40.54,12.79,Unused
+RET0001004,ORD0002377,OI0005137,SKU00371,CUST00773,Defective,Light socket is faulty - bulb flickers.,2025-07-07 21:52:32.000000,Refunded,515.61,9.03,Unused
+RET0001005,ORD0002379,OI0005141,SKU00224,CUST00774,Defective,Light socket is faulty - bulb flickers.,2025-08-13 17:58:32.000000,Received,370.37,8.89,Unused
+RET0001006,ORD0002380,OI0005144,SKU00057,CUST00774,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2026-03-08 05:58:47.000000,Refunded,145.51,14.5,Used
+RET0001007,ORD0002381,OI0005145,SKU00081,CUST00775,Not as described,Photos show a warm honey tone but it's very orange-yellow.,2024-07-13 09:36:16.000000,Refunded,170.41,17.76,Used
+RET0001008,ORD0002385,OI0005155,SKU00403,CUST00776,Defective,Pre-drilled holes don't line up with hardware.,2025-11-06 07:02:32.000000,Refunded,152.42,24.4,Used
+RET0001009,ORD0002387,OI0005158,SKU00346,CUST00777,Too dark,Much more moody and dark in person.,2025-05-05 05:23:44.000000,Processing,134.39,22.66,Unused
+RET0001010,ORD0002390,OI0005163,SKU00089,CUST00778,Defective,Pre-drilled holes don't line up with hardware.,2025-12-09 20:41:52.000000,Received,170.56,24.26,Used
+RET0001011,ORD0002392,OI0005168,SKU00386,CUST00779,Quality didn't meet expectations,Cushions losing shape after just a month.,2026-02-02 22:35:24.000000,Inspected,419.49,26.16,Used
+RET0001012,ORD0002393,OI0005169,SKU00133,CUST00779,Color mismatch,White is actually off-white/cream.,2025-08-03 23:21:13.000000,Processing,323.86,29.39,Used
+RET0001013,ORD0002394,OI0005171,SKU00121,CUST00779,Defective,Light socket is faulty - bulb flickers.,2024-07-11 17:14:39.000000,Inspected,322.75,19.86,Used
+RET0001014,ORD0002396,OI0005176,SKU00113,CUST00780,Quality didn't meet expectations,"For this price, I expected much better materials.",2024-12-31 16:15:19.000000,Processing,24.31,12.13,Used
+RET0001015,ORD0002398,OI0005178,SKU00021,CUST00780,Difficult assembly,Holes for cam locks were drilled too shallow.,2024-06-30 00:58:03.000000,Refunded,25.93,23.81,Unused
+RET0001016,ORD0002399,OI0005181,SKU00257,CUST00781,Color mismatch,White is actually off-white/cream.,2025-04-17 22:33:50.000000,Inspected,243.0,10.29,Used
+RET0001017,ORD0002400,OI0005184,SKU00301,CUST00782,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-04-20 06:11:29.000000,Received,76.76,9.47,Unused
+RET0001018,ORD0002402,OI0005191,SKU00124,CUST00783,Defective,One leg is shorter so the table wobbles.,2025-06-13 06:43:15.000000,Inspected,138.86,25.24,Used
+RET0001019,ORD0002403,OI0005195,SKU00329,CUST00784,Not as described,Description said solid wood but this is veneer over particle board.,2025-02-04 00:39:08.000000,Refunded,174.7,22.99,Unused
+RET0001020,ORD0002406,OI0005202,SKU00384,CUST00785,Difficult assembly,Instructions were just bad diagrams with no text.,2026-02-05 09:06:46.000000,Processing,241.79,12.03,Used
+RET0001021,ORD0002408,OI0005206,SKU00227,CUST00786,Quality didn't meet expectations,Drawer slides are already sticking after two weeks.,2025-07-12 15:28:20.000000,Inspected,74.84,18.88,Unused
+RET0001022,ORD0002411,OI0005211,SKU00095,CUST00787,Damaged upon arrival,Huge scratch across the top surface. Looks like it was dragged.,2024-10-04 18:28:12.000000,Refunded,532.3,24.98,Damaged
+RET0001023,ORD0002411,OI0005214,SKU00270,CUST00787,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2024-09-14 18:28:12.000000,Refunded,240.14,9.8,Unused
+RET0001024,ORD0002423,OI0005239,SKU00255,CUST00792,Quality didn't meet expectations,Stitching on the upholstery is uneven and coming loose.,2024-12-15 15:43:25.000000,Inspected,993.79,13.19,Unused
+RET0001025,ORD0002426,OI0005249,SKU00047,CUST00793,Color mismatch,Beige is much more yellow-toned than the photos.,2024-12-28 01:15:49.000000,Processing,75.48,24.11,Unused
+RET0001026,ORD0002427,OI0005254,SKU00361,CUST00793,Color mismatch,Gold finish is extremely yellow and brassy.,2026-04-08 21:57:13.809265,Received,512.9,24.34,Used
+RET0001027,ORD0002433,OI0005266,SKU00344,CUST00794,Quality didn't meet expectations,"For this price, I expected much better materials.",2024-12-10 01:28:32.000000,Processing,135.35,29.17,Used
+RET0001028,ORD0002440,OI0005280,SKU00390,CUST00797,Not as described,Shown with decorative pillows that weren't included.,2024-11-20 14:34:10.000000,Refunded,49.38,25.96,Used
+RET0001029,ORD0002440,OI0005281,SKU00003,CUST00797,Defective,Pre-drilled holes don't line up with hardware.,2024-12-02 14:34:10.000000,Received,498.12,15.51,Used
+RET0001030,ORD0002446,OI0005291,SKU00359,CUST00798,Defective,Pre-drilled holes don't line up with hardware.,2024-07-10 00:03:47.000000,Received,44.85,23.06,Unused
+RET0001031,ORD0002446,OI0005294,SKU00258,CUST00798,Damaged upon arrival,Glass component was shattered inside the box.,2024-07-09 00:03:47.000000,Inspected,297.63,19.61,Damaged

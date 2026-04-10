@@ -1,0 +1,801 @@
+customer_id,age_group,lifestyle_tags,preferred_styles,Preferred_colors,lighting_condition,avg_spend,return_rate
+CUST00001,55-64,renter|family_with_kids|frequent_entertainer|eco_conscious,Traditional,Pastels,Dim Artificial,350.07,0.115
+CUST00002,35-44,pet_owner|homeowner|diy_enthusiast|couple,Minimalist|Bohemian|Traditional,Greens|Pastels,Dim Natural,497.06,0.173
+CUST00003,35-44,single|family_with_kids|eco_conscious,Eclectic|Traditional,Natural Wood,Mixed,438.12,0.187
+CUST00004,18-24,pet_owner|single|homeowner|family_with_kids,Eclectic,Blues,Dim Artificial,435.3,0.023
+CUST00005,45-54,frequent_entertainer|renter|pet_owner|homeowner,Traditional,Pastels|Black & White,Bright Natural,573.71,0.217
+CUST00006,35-44,renter|single|eco_conscious|home_chef,Eclectic|Traditional,Black & White|Warm Earth Tones,Bright Artificial,701.64,0.236
+CUST00007,55-64,home_chef|single|renter,Modern,Neutrals|Blues,Bright Artificial,478.85,0.084
+CUST00008,45-54,family_with_kids|home_chef,Coastal|Farmhouse|Minimalist,Neutrals|Jewel Tones,Dim Natural,803.63,0.122
+CUST00009,55-64,single|homeowner,Traditional,Natural Wood,Mixed,284.26,0.086
+CUST00010,55-64,couple|family_with_kids,Bohemian|Coastal,Black & White|Jewel Tones,Bright Natural,106.08,0.064
+CUST00011,35-44,eco_conscious|renter|single,Mid-Century,Black & White|Natural Wood,Bright Artificial,256.0,0.112
+CUST00012,45-54,family_with_kids|diy_enthusiast|renter,Mid-Century|Industrial|Scandinavian,Black & White,Mixed,558.44,0.059
+CUST00013,25-34,diy_enthusiast|renter|home_chef,Scandinavian|Industrial|Mid-Century,Pastels|Blues,Mixed,338.44,0.432
+CUST00014,45-54,eco_conscious|pet_owner,Coastal|Minimalist|Eclectic,Monochrome|Jewel Tones,Bright Artificial,403.86,0.126
+CUST00015,35-44,single|frequent_entertainer|family_with_kids,Mid-Century|Modern|Minimalist,Monochrome,Mixed,1105.74,0.141
+CUST00016,65+,diy_enthusiast|family_with_kids,Coastal|Traditional|Mid-Century,Warm Earth Tones,Bright Artificial,760.29,0.095
+CUST00017,35-44,couple|diy_enthusiast,Traditional|Scandinavian|Bohemian,Metallics|Neutrals,Dim Artificial,424.24,0.142
+CUST00018,25-34,family_with_kids|couple,Mid-Century,Monochrome|Blues,Bright Artificial,218.24,0.527
+CUST00019,25-34,family_with_kids|renter,Farmhouse|Modern,Natural Wood|Black & White,Dim Artificial,466.34,0.055
+CUST00020,45-54,frequent_entertainer|home_chef|pet_owner,Coastal|Scandinavian|Bohemian,Jewel Tones|Warm Earth Tones,Bright Artificial,1244.48,0.18
+CUST00021,65+,home_chef|couple|homeowner,Industrial|Mid-Century,Blues,Mixed,511.71,0.118
+CUST00022,35-44,diy_enthusiast|family_with_kids|home_chef|eco_conscious,Minimalist|Coastal|Scandinavian,Warm Earth Tones,Dim Natural,1460.86,0.169
+CUST00023,65+,couple|pet_owner|family_with_kids|diy_enthusiast,Mid-Century|Bohemian,Greens,Mixed,432.76,0.093
+CUST00024,18-24,diy_enthusiast|homeowner,Eclectic|Mid-Century|Bohemian,Blues,Bright Artificial,403.16,0.157
+CUST00025,18-24,renter|family_with_kids|couple,Farmhouse|Scandinavian,Black & White,Mixed,537.05,0.543
+CUST00026,55-64,couple|frequent_entertainer|pet_owner|eco_conscious,Farmhouse|Traditional|Mid-Century,Monochrome|Natural Wood,Bright Natural,744.8,0.008
+CUST00027,35-44,home_chef|diy_enthusiast|frequent_entertainer,Mid-Century|Industrial|Eclectic,Metallics|Monochrome,Bright Artificial,340.06,0.05
+CUST00028,65+,renter|diy_enthusiast,Farmhouse|Scandinavian,Monochrome,Mixed,399.31,0.104
+CUST00029,35-44,homeowner|couple|single|home_chef,Scandinavian|Traditional,Pastels,Mixed,816.94,0.09
+CUST00030,25-34,renter|pet_owner|homeowner|eco_conscious,Scandinavian|Eclectic,Natural Wood,Dim Natural,523.39,0.622
+CUST00031,45-54,couple|diy_enthusiast|single|pet_owner,Farmhouse|Mid-Century,Greens,Dim Artificial,521.82,0.132
+CUST00032,55-64,pet_owner|home_chef|homeowner|diy_enthusiast,Industrial|Farmhouse|Mid-Century,Pastels|Greens,Mixed,1263.42,0.161
+CUST00033,55-64,renter|family_with_kids|pet_owner,Bohemian|Modern|Coastal,Metallics|Black & White,Dim Artificial,409.17,0.082
+CUST00034,35-44,single|frequent_entertainer|renter|pet_owner,Industrial|Mid-Century,Neutrals,Dim Natural,347.23,0.193
+CUST00035,18-24,eco_conscious|diy_enthusiast|frequent_entertainer,Eclectic|Industrial,Natural Wood,Mixed,1146.09,0.099
+CUST00036,35-44,home_chef|diy_enthusiast|single|homeowner,Eclectic|Modern,Natural Wood,Mixed,967.93,0.038
+CUST00037,35-44,renter|couple|frequent_entertainer|pet_owner,Coastal|Mid-Century|Minimalist,Pastels,Dim Natural,432.29,0.52
+CUST00038,25-34,family_with_kids|eco_conscious|couple|homeowner,Industrial|Scandinavian|Minimalist,Neutrals,Bright Artificial,547.56,0.086
+CUST00039,45-54,eco_conscious|couple,Bohemian|Eclectic,Black & White|Neutrals,Dim Artificial,592.74,0.322
+CUST00040,35-44,homeowner|couple,Minimalist|Scandinavian,Monochrome,Mixed,463.24,0.259
+CUST00041,55-64,single|home_chef,Bohemian|Mid-Century,Greens|Blues,Dim Artificial,1202.05,0.166
+CUST00042,35-44,diy_enthusiast|home_chef|frequent_entertainer,Traditional|Industrial|Minimalist,Jewel Tones,Mixed,897.27,0.139
+CUST00043,25-34,homeowner|eco_conscious,Bohemian|Traditional,Neutrals|Jewel Tones,Dim Natural,164.28,0.039
+CUST00044,35-44,frequent_entertainer|homeowner,Scandinavian,Jewel Tones,Mixed,409.49,0.145
+CUST00045,35-44,renter|single|couple|eco_conscious,Eclectic|Traditional|Mid-Century,Pastels,Mixed,475.6,0.33
+CUST00046,18-24,frequent_entertainer|renter|eco_conscious,Scandinavian,Black & White|Pastels,Bright Artificial,930.99,0.136
+CUST00047,25-34,diy_enthusiast|frequent_entertainer|homeowner,Industrial,Jewel Tones|Neutrals,Dim Artificial,926.14,0.576
+CUST00048,45-54,eco_conscious|renter|family_with_kids|frequent_entertainer,Scandinavian|Farmhouse,Pastels,Dim Artificial,835.07,0.091
+CUST00049,65+,pet_owner|eco_conscious|single|renter,Minimalist|Industrial|Coastal,Neutrals,Dim Natural,535.76,0.035
+CUST00050,35-44,eco_conscious|diy_enthusiast|home_chef,Traditional,Blues|Warm Earth Tones,Dim Artificial,557.17,0.238
+CUST00051,25-34,pet_owner|family_with_kids|home_chef|homeowner,Scandinavian|Modern,Neutrals|Blues,Bright Artificial,1194.18,0.133
+CUST00052,45-54,single|eco_conscious|pet_owner,Coastal|Farmhouse,Natural Wood|Blues,Bright Artificial,195.9,0.273
+CUST00053,45-54,home_chef|pet_owner|couple|frequent_entertainer,Bohemian,Neutrals|Warm Earth Tones,Bright Natural,877.42,0.088
+CUST00054,25-34,renter|pet_owner|frequent_entertainer|single,Coastal|Mid-Century|Bohemian,Warm Earth Tones,Bright Artificial,987.14,0.103
+CUST00055,35-44,homeowner|couple|pet_owner,Minimalist,Black & White|Monochrome,Bright Natural,101.65,0.089
+CUST00056,45-54,pet_owner|eco_conscious|frequent_entertainer,Eclectic,Neutrals,Dim Natural,1100.19,0.254
+CUST00057,45-54,eco_conscious|home_chef|single|pet_owner,Minimalist|Farmhouse|Modern,Natural Wood|Black & White,Dim Artificial,1256.89,0.234
+CUST00058,35-44,family_with_kids|couple,Traditional|Bohemian,Greens|Jewel Tones,Mixed,313.07,0.091
+CUST00059,35-44,couple|renter|single,Bohemian|Scandinavian,Jewel Tones|Pastels,Dim Natural,403.43,0.266
+CUST00060,18-24,single|home_chef|renter,Industrial,Neutrals|Metallics,Mixed,898.09,0.382
+CUST00061,55-64,family_with_kids|pet_owner,Mid-Century|Industrial|Farmhouse,Jewel Tones,Dim Natural,220.51,0.084
+CUST00062,25-34,renter|frequent_entertainer,Scandinavian|Bohemian,Black & White,Bright Natural,1409.85,0.346
+CUST00063,45-54,home_chef|diy_enthusiast|single|frequent_entertainer,Farmhouse,Neutrals,Bright Artificial,1478.18,0.096
+CUST00064,35-44,renter|homeowner|home_chef,Farmhouse|Minimalist|Industrial,Natural Wood,Dim Natural,1274.53,0.098
+CUST00065,35-44,renter|pet_owner,Mid-Century|Coastal|Bohemian,Greens,Bright Artificial,469.11,0.125
+CUST00066,55-64,diy_enthusiast|frequent_entertainer|eco_conscious|home_chef,Industrial,Blues|Jewel Tones,Bright Natural,1381.25,0.043
+CUST00067,25-34,family_with_kids|couple,Eclectic|Modern,Metallics,Dim Natural,263.25,0.195
+CUST00068,25-34,home_chef|frequent_entertainer|renter,Coastal|Minimalist,Metallics,Dim Artificial,1246.34,0.183
+CUST00069,35-44,frequent_entertainer|family_with_kids|single,Modern|Coastal|Farmhouse,Blues|Metallics,Dim Natural,550.67,0.063
+CUST00070,35-44,home_chef|homeowner|couple,Eclectic|Farmhouse,Monochrome|Pastels,Mixed,442.1,0.364
+CUST00071,65+,home_chef|renter|pet_owner,Traditional,Blues|Greens,Mixed,1265.63,0.063
+CUST00072,25-34,couple|frequent_entertainer,Modern,Pastels,Bright Artificial,550.01,0.398
+CUST00073,25-34,frequent_entertainer|single|eco_conscious|pet_owner,Mid-Century|Eclectic,Metallics,Bright Natural,1481.94,0.456
+CUST00074,45-54,renter|pet_owner|family_with_kids|couple,Scandinavian|Modern|Mid-Century,Metallics|Jewel Tones,Bright Artificial,190.1,0.182
+CUST00075,55-64,single|renter|eco_conscious,Traditional|Industrial,Greens|Blues,Bright Artificial,355.21,0.149
+CUST00076,55-64,home_chef|pet_owner|frequent_entertainer|eco_conscious,Farmhouse|Traditional,Black & White,Bright Natural,418.92,0.179
+CUST00077,45-54,diy_enthusiast|frequent_entertainer|single,Industrial|Minimalist|Eclectic,Blues,Bright Natural,1481.89,0.299
+CUST00078,25-34,couple|eco_conscious,Eclectic|Farmhouse|Coastal,Monochrome,Dim Natural,292.55,0.408
+CUST00079,45-54,renter|pet_owner|home_chef,Eclectic|Coastal,Jewel Tones|Neutrals,Bright Natural,626.59,0.024
+CUST00080,35-44,frequent_entertainer|homeowner|renter,Farmhouse|Eclectic,Natural Wood|Neutrals,Dim Natural,970.14,0.181
+CUST00081,45-54,eco_conscious|pet_owner|couple,Bohemian|Coastal,Warm Earth Tones|Jewel Tones,Dim Natural,290.89,0.071
+CUST00082,55-64,homeowner|renter,Bohemian|Industrial,Natural Wood,Dim Artificial,429.65,0.043
+CUST00083,45-54,pet_owner|couple|renter|diy_enthusiast,Minimalist|Scandinavian|Modern,Black & White|Warm Earth Tones,Mixed,597.21,0.13
+CUST00084,55-64,pet_owner|single,Modern,Monochrome,Dim Natural,163.71,0.071
+CUST00085,45-54,diy_enthusiast|family_with_kids,Scandinavian|Bohemian,Jewel Tones|Natural Wood,Dim Natural,279.77,0.008
+CUST00086,45-54,family_with_kids|renter,Eclectic,Black & White,Bright Natural,287.23,0.288
+CUST00087,18-24,home_chef|single,Modern,Neutrals|Warm Earth Tones,Bright Natural,653.39,0.255
+CUST00088,25-34,family_with_kids|homeowner|diy_enthusiast,Bohemian,Jewel Tones,Bright Natural,449.21,0.139
+CUST00089,35-44,eco_conscious|renter,Scandinavian|Mid-Century,Metallics|Warm Earth Tones,Dim Natural,138.86,0.086
+CUST00090,25-34,single|eco_conscious|renter,Minimalist|Mid-Century|Coastal,Monochrome|Metallics,Mixed,431.66,0.265
+CUST00091,55-64,home_chef|family_with_kids,Modern|Traditional|Bohemian,Neutrals|Pastels,Dim Natural,952.69,0.025
+CUST00092,45-54,single|couple|pet_owner,Bohemian|Mid-Century|Traditional,Warm Earth Tones,Bright Natural,120.94,0.12
+CUST00093,25-34,homeowner|diy_enthusiast,Traditional|Industrial,Metallics|Greens,Mixed,279.93,0.022
+CUST00094,45-54,home_chef|couple|frequent_entertainer,Coastal|Minimalist,Black & White,Mixed,1194.97,0.364
+CUST00095,35-44,diy_enthusiast|couple|renter,Industrial|Bohemian|Farmhouse,Metallics,Bright Natural,592.65,0.148
+CUST00096,25-34,renter|single|homeowner,Farmhouse,Pastels,Dim Natural,282.48,0.652
+CUST00097,18-24,frequent_entertainer|renter|family_with_kids|diy_enthusiast,Minimalist|Farmhouse|Scandinavian,Greens,Dim Artificial,434.53,0.067
+CUST00098,45-54,diy_enthusiast|home_chef,Minimalist|Traditional,Natural Wood|Monochrome,Mixed,1451.59,0.246
+CUST00099,35-44,homeowner|single,Industrial|Bohemian,Greens,Dim Artificial,147.42,0.173
+CUST00100,45-54,couple|family_with_kids,Minimalist,Jewel Tones|Greens,Dim Natural,511.79,0.433
+CUST00101,18-24,pet_owner|family_with_kids,Mid-Century,Jewel Tones|Blues,Bright Natural,509.12,0.563
+CUST00102,25-34,home_chef|renter|single|homeowner,Industrial,Warm Earth Tones|Blues,Dim Natural,1343.68,0.461
+CUST00103,65+,family_with_kids|frequent_entertainer|home_chef,Farmhouse|Minimalist,Neutrals,Bright Natural,610.86,0.028
+CUST00104,45-54,diy_enthusiast|family_with_kids,Modern|Mid-Century,Warm Earth Tones|Neutrals,Dim Artificial,208.0,0.253
+CUST00105,18-24,homeowner|eco_conscious|home_chef,Mid-Century|Modern,Neutrals,Dim Natural,1239.92,0.031
+CUST00106,55-64,family_with_kids|single|pet_owner|renter,Bohemian|Scandinavian|Minimalist,Greens,Dim Natural,532.09,0.199
+CUST00107,35-44,diy_enthusiast|family_with_kids|single,Scandinavian|Coastal|Modern,Blues,Bright Natural,654.53,0.012
+CUST00108,25-34,renter|family_with_kids,Eclectic|Farmhouse,Monochrome|Greens,Bright Natural,325.41,0.198
+CUST00109,55-64,pet_owner|couple|renter,Bohemian,Greens,Mixed,397.36,0.048
+CUST00110,25-34,eco_conscious|home_chef,Coastal,Warm Earth Tones,Bright Artificial,1154.07,0.119
+CUST00111,18-24,home_chef|family_with_kids,Modern|Coastal,Pastels|Blues,Mixed,352.81,0.166
+CUST00112,45-54,frequent_entertainer|homeowner|diy_enthusiast,Traditional,Natural Wood,Mixed,326.79,0.201
+CUST00113,35-44,homeowner|single|pet_owner,Minimalist,Neutrals,Dim Natural,543.79,0.729
+CUST00114,25-34,frequent_entertainer|eco_conscious|single|family_with_kids,Farmhouse|Traditional|Mid-Century,Black & White,Mixed,1446.58,0.068
+CUST00115,55-64,family_with_kids|eco_conscious,Modern|Eclectic|Bohemian,Blues,Dim Artificial,205.29,0.192
+CUST00116,25-34,pet_owner|home_chef|family_with_kids|single,Scandinavian|Modern,Black & White|Warm Earth Tones,Bright Natural,772.85,0.123
+CUST00117,25-34,single|home_chef|couple|eco_conscious,Mid-Century,Warm Earth Tones,Dim Artificial,608.03,0.097
+CUST00118,45-54,frequent_entertainer|pet_owner,Industrial|Coastal,Jewel Tones,Dim Natural,860.29,0.281
+CUST00119,18-24,family_with_kids|renter,Eclectic,Natural Wood,Bright Artificial,410.8,0.233
+CUST00120,25-34,renter|frequent_entertainer,Minimalist|Traditional,Metallics|Neutrals,Dim Natural,510.24,0.129
+CUST00121,35-44,frequent_entertainer|homeowner|couple|home_chef,Scandinavian,Metallics|Jewel Tones,Dim Natural,1374.38,0.433
+CUST00122,35-44,diy_enthusiast|single|renter|couple,Bohemian|Eclectic,Metallics,Dim Artificial,236.85,0.309
+CUST00123,55-64,pet_owner|family_with_kids,Scandinavian,Warm Earth Tones,Dim Artificial,398.21,0.31
+CUST00124,45-54,renter|homeowner|diy_enthusiast,Coastal|Minimalist,Jewel Tones,Dim Artificial,262.65,0.298
+CUST00125,25-34,family_with_kids|renter|eco_conscious,Modern,Pastels,Bright Artificial,400.56,0.058
+CUST00126,45-54,family_with_kids|frequent_entertainer|pet_owner,Traditional,Black & White,Bright Artificial,1487.23,0.073
+CUST00127,25-34,couple|pet_owner,Mid-Century,Metallics,Mixed,131.63,0.261
+CUST00128,65+,single|eco_conscious|homeowner,Traditional|Farmhouse,Jewel Tones,Dim Artificial,214.22,0.103
+CUST00129,55-64,homeowner|home_chef,Bohemian|Traditional,Warm Earth Tones|Jewel Tones,Bright Natural,563.98,0.067
+CUST00130,18-24,renter|family_with_kids|homeowner,Modern,Pastels|Monochrome,Mixed,496.67,0.168
+CUST00131,65+,frequent_entertainer|family_with_kids|eco_conscious,Farmhouse|Coastal,Pastels|Jewel Tones,Mixed,1209.82,0.044
+CUST00132,65+,family_with_kids|eco_conscious,Coastal,Metallics|Greens,Dim Natural,219.34,0.186
+CUST00133,65+,eco_conscious|couple|family_with_kids|renter,Traditional,Warm Earth Tones|Natural Wood,Bright Natural,206.69,0.036
+CUST00134,25-34,diy_enthusiast|home_chef,Eclectic,Jewel Tones,Mixed,1482.58,0.131
+CUST00135,35-44,frequent_entertainer|couple,Modern|Traditional,Blues,Mixed,821.15,0.305
+CUST00136,35-44,home_chef|pet_owner|diy_enthusiast,Industrial|Modern,Black & White|Blues,Bright Natural,1127.94,0.062
+CUST00137,55-64,couple|homeowner|eco_conscious,Mid-Century,Jewel Tones,Dim Artificial,501.42,0.114
+CUST00138,35-44,single|home_chef|frequent_entertainer|homeowner,Farmhouse|Eclectic,Monochrome,Dim Natural,304.16,0.061
+CUST00139,55-64,family_with_kids|frequent_entertainer|home_chef|single,Minimalist,Pastels,Bright Artificial,851.65,0.06
+CUST00140,45-54,diy_enthusiast|renter,Coastal|Minimalist,Blues,Dim Natural,252.4,0.313
+CUST00141,45-54,frequent_entertainer|pet_owner|couple|diy_enthusiast,Coastal|Minimalist|Modern,Jewel Tones,Mixed,884.0,0.039
+CUST00142,65+,renter|pet_owner,Farmhouse|Coastal|Mid-Century,Metallics,Bright Natural,470.88,0.014
+CUST00143,25-34,renter|family_with_kids,Eclectic|Coastal|Modern,Blues,Dim Artificial,471.19,0.198
+CUST00144,25-34,home_chef|frequent_entertainer,Traditional|Bohemian|Modern,Greens|Blues,Dim Natural,631.88,0.405
+CUST00145,55-64,family_with_kids|eco_conscious,Farmhouse|Eclectic|Bohemian,Monochrome|Blues,Dim Natural,569.99,0.064
+CUST00146,65+,couple|frequent_entertainer,Modern|Mid-Century,Pastels,Bright Artificial,695.14,0.075
+CUST00147,35-44,family_with_kids|frequent_entertainer|single|pet_owner,Modern|Eclectic|Coastal,Monochrome,Bright Artificial,902.69,0.116
+CUST00148,65+,frequent_entertainer|renter|homeowner,Eclectic,Natural Wood,Bright Natural,1390.51,0.016
+CUST00149,65+,couple|family_with_kids|homeowner,Mid-Century,Pastels|Black & White,Bright Artificial,556.04,0.012
+CUST00150,25-34,couple|renter|diy_enthusiast|frequent_entertainer,Traditional|Scandinavian,Jewel Tones|Natural Wood,Bright Natural,397.43,0.204
+CUST00151,18-24,single|family_with_kids|couple,Mid-Century|Modern,Greens|Monochrome,Dim Natural,451.3,0.526
+CUST00152,45-54,renter|pet_owner|diy_enthusiast,Industrial|Mid-Century,Black & White,Dim Natural,588.87,0.067
+CUST00153,25-34,couple|home_chef|diy_enthusiast,Industrial|Coastal,Neutrals,Mixed,1341.23,0.363
+CUST00154,55-64,eco_conscious|homeowner,Scandinavian|Farmhouse,Pastels|Metallics,Bright Artificial,205.05,0.036
+CUST00155,35-44,diy_enthusiast|home_chef|single|pet_owner,Traditional|Minimalist,Natural Wood|Warm Earth Tones,Bright Artificial,1194.26,0.255
+CUST00156,55-64,eco_conscious|single|home_chef|family_with_kids,Traditional|Coastal|Modern,Warm Earth Tones|Pastels,Bright Natural,1102.91,0.069
+CUST00157,35-44,frequent_entertainer|homeowner|couple|renter,Traditional,Pastels,Dim Natural,1123.79,0.298
+CUST00158,45-54,frequent_entertainer|family_with_kids,Scandinavian,Natural Wood,Bright Natural,1131.05,0.077
+CUST00159,35-44,diy_enthusiast|couple,Farmhouse|Industrial|Bohemian,Natural Wood,Mixed,408.08,0.127
+CUST00160,35-44,family_with_kids|diy_enthusiast,Coastal|Bohemian|Industrial,Pastels|Metallics,Bright Natural,284.71,0.241
+CUST00161,35-44,homeowner|pet_owner|family_with_kids|eco_conscious,Coastal|Mid-Century|Minimalist,Warm Earth Tones|Black & White,Bright Artificial,364.7,0.286
+CUST00162,25-34,single|homeowner|frequent_entertainer|couple,Farmhouse|Minimalist,Black & White,Dim Artificial,699.86,0.218
+CUST00163,45-54,pet_owner|frequent_entertainer|eco_conscious,Mid-Century|Farmhouse,Greens|Blues,Bright Artificial,542.32,0.086
+CUST00164,35-44,diy_enthusiast|renter|single|frequent_entertainer,Coastal,Blues,Mixed,909.36,0.029
+CUST00165,65+,homeowner|family_with_kids,Minimalist|Eclectic|Traditional,Warm Earth Tones,Bright Artificial,524.71,0.098
+CUST00166,55-64,couple|renter,Traditional|Mid-Century|Modern,Warm Earth Tones|Jewel Tones,Bright Natural,567.28,0.014
+CUST00167,35-44,couple|pet_owner|single,Bohemian|Farmhouse,Pastels,Dim Artificial,550.23,0.148
+CUST00168,45-54,pet_owner|single|frequent_entertainer,Scandinavian,Neutrals|Greens,Mixed,802.26,0.106
+CUST00169,25-34,couple|frequent_entertainer,Bohemian|Traditional,Blues|Metallics,Dim Natural,653.6,0.337
+CUST00170,18-24,family_with_kids|single,Industrial,Warm Earth Tones,Mixed,272.48,0.215
+CUST00171,65+,home_chef|homeowner|frequent_entertainer,Eclectic|Bohemian,Pastels,Bright Artificial,1081.35,0.102
+CUST00172,45-54,eco_conscious|single|renter|pet_owner,Traditional|Minimalist|Mid-Century,Blues,Dim Artificial,261.66,0.05
+CUST00173,45-54,homeowner|pet_owner|frequent_entertainer,Modern,Warm Earth Tones|Metallics,Dim Artificial,310.84,0.172
+CUST00174,25-34,single|frequent_entertainer|home_chef,Mid-Century|Industrial|Modern,Natural Wood|Monochrome,Bright Artificial,415.26,0.137
+CUST00175,45-54,single|homeowner,Coastal,Pastels|Blues,Mixed,196.54,0.142
+CUST00176,25-34,home_chef|homeowner|pet_owner,Bohemian,Jewel Tones|Blues,Mixed,679.3,0.386
+CUST00177,25-34,diy_enthusiast|couple,Farmhouse|Minimalist|Modern,Black & White,Bright Artificial,474.48,0.234
+CUST00178,35-44,homeowner|home_chef,Bohemian|Coastal|Scandinavian,Pastels,Dim Natural,596.81,0.187
+CUST00179,45-54,single|frequent_entertainer,Industrial|Eclectic|Minimalist,Greens,Dim Artificial,1093.93,0.227
+CUST00180,18-24,couple|renter|pet_owner|single,Coastal,Monochrome,Bright Artificial,355.55,0.133
+CUST00181,45-54,homeowner|family_with_kids,Mid-Century|Scandinavian|Modern,Metallics|Black & White,Dim Natural,101.49,0.127
+CUST00182,45-54,eco_conscious|home_chef|homeowner,Minimalist|Farmhouse|Traditional,Monochrome,Mixed,635.93,0.138
+CUST00183,45-54,frequent_entertainer|home_chef|renter,Modern|Mid-Century,Greens|Pastels,Dim Artificial,737.74,0.111
+CUST00184,18-24,home_chef|family_with_kids|renter,Traditional,Monochrome|Warm Earth Tones,Mixed,396.73,0.309
+CUST00185,18-24,diy_enthusiast|home_chef,Mid-Century|Scandinavian,Warm Earth Tones,Bright Natural,920.8,0.097
+CUST00186,35-44,eco_conscious|frequent_entertainer|renter,Mid-Century|Farmhouse|Coastal,Metallics,Dim Natural,896.15,0.359
+CUST00187,18-24,home_chef|frequent_entertainer|single|eco_conscious,Minimalist|Bohemian|Mid-Century,Pastels,Dim Natural,948.98,0.105
+CUST00188,18-24,diy_enthusiast|homeowner|pet_owner|frequent_entertainer,Farmhouse,Pastels|Blues,Dim Artificial,1183.62,0.294
+CUST00189,35-44,pet_owner|single|family_with_kids,Mid-Century,Black & White,Dim Natural,456.31,0.194
+CUST00190,45-54,home_chef|single|renter,Scandinavian|Industrial|Traditional,Blues|Natural Wood,Bright Artificial,1111.12,0.157
+CUST00191,45-54,couple|single|renter,Bohemian|Modern|Mid-Century,Jewel Tones,Bright Artificial,226.67,0.232
+CUST00192,18-24,home_chef|single|family_with_kids,Traditional|Scandinavian|Modern,Metallics|Monochrome,Bright Natural,474.06,0.453
+CUST00193,45-54,family_with_kids|couple|eco_conscious|diy_enthusiast,Farmhouse|Industrial,Metallics,Bright Natural,774.54,0.15
+CUST00194,55-64,diy_enthusiast|homeowner,Traditional,Blues,Dim Artificial,751.82,0.143
+CUST00195,65+,homeowner|single|renter|home_chef,Scandinavian,Jewel Tones,Dim Natural,1180.57,0.186
+CUST00196,18-24,home_chef|homeowner,Eclectic|Bohemian,Black & White,Bright Artificial,1240.02,0.222
+CUST00197,55-64,family_with_kids|frequent_entertainer,Eclectic|Scandinavian|Minimalist,Black & White,Bright Artificial,568.61,0.059
+CUST00198,65+,pet_owner|renter|single|family_with_kids,Modern|Minimalist|Bohemian,Jewel Tones|Neutrals,Mixed,378.36,0.059
+CUST00199,35-44,family_with_kids|diy_enthusiast|renter,Farmhouse,Pastels,Dim Artificial,455.63,0.085
+CUST00200,35-44,family_with_kids|renter|pet_owner|home_chef,Traditional|Eclectic,Blues,Dim Natural,997.71,0.078
+CUST00201,35-44,homeowner|family_with_kids|frequent_entertainer,Scandinavian,Warm Earth Tones|Metallics,Bright Artificial,1107.96,0.46
+CUST00202,45-54,pet_owner|family_with_kids,Industrial|Farmhouse|Bohemian,Pastels|Black & White,Dim Natural,378.23,0.206
+CUST00203,45-54,pet_owner|frequent_entertainer|family_with_kids|renter,Eclectic|Bohemian|Traditional,Greens|Metallics,Bright Artificial,906.73,0.073
+CUST00204,45-54,couple|renter,Minimalist|Mid-Century|Modern,Neutrals,Bright Natural,103.86,0.136
+CUST00205,35-44,single|homeowner|family_with_kids,Mid-Century|Minimalist|Traditional,Monochrome|Warm Earth Tones,Bright Artificial,132.69,0.122
+CUST00206,25-34,homeowner|renter|diy_enthusiast,Traditional|Mid-Century|Eclectic,Neutrals|Greens,Dim Natural,339.38,0.45
+CUST00207,45-54,renter|diy_enthusiast|pet_owner,Eclectic,Blues|Metallics,Bright Natural,393.39,0.052
+CUST00208,25-34,couple|pet_owner|home_chef,Mid-Century|Eclectic,Metallics|Blues,Bright Artificial,654.34,0.328
+CUST00209,55-64,homeowner|diy_enthusiast|frequent_entertainer|pet_owner,Industrial,Metallics,Dim Artificial,1354.57,0.169
+CUST00210,18-24,renter|frequent_entertainer|single,Scandinavian|Coastal|Bohemian,Warm Earth Tones,Mixed,1458.87,0.246
+CUST00211,35-44,couple|pet_owner|family_with_kids,Coastal|Modern,Natural Wood,Dim Natural,212.63,0.034
+CUST00212,55-64,renter|homeowner,Bohemian|Traditional,Blues|Monochrome,Bright Natural,504.28,0.046
+CUST00213,25-34,homeowner|family_with_kids,Bohemian,Jewel Tones,Bright Artificial,590.82,0.082
+CUST00214,35-44,renter|couple|eco_conscious|single,Modern|Traditional,Black & White|Monochrome,Dim Artificial,197.01,0.093
+CUST00215,35-44,pet_owner|renter,Modern,Black & White|Blues,Bright Artificial,265.04,0.113
+CUST00216,25-34,home_chef|diy_enthusiast|eco_conscious|single,Industrial|Traditional|Mid-Century,Black & White|Warm Earth Tones,Dim Natural,748.06,0.319
+CUST00217,35-44,couple|pet_owner,Minimalist,Pastels,Bright Artificial,146.32,0.053
+CUST00218,55-64,homeowner|single|pet_owner,Coastal|Farmhouse,Warm Earth Tones|Black & White,Dim Artificial,435.09,0.265
+CUST00219,18-24,frequent_entertainer|home_chef|pet_owner|renter,Farmhouse|Modern,Warm Earth Tones|Jewel Tones,Bright Natural,622.23,0.319
+CUST00220,45-54,homeowner|renter,Mid-Century|Coastal|Scandinavian,Blues,Bright Artificial,550.83,0.152
+CUST00221,65+,homeowner|couple|family_with_kids|eco_conscious,Eclectic|Mid-Century|Scandinavian,Jewel Tones|Natural Wood,Dim Artificial,533.17,0.027
+CUST00222,25-34,diy_enthusiast|eco_conscious|family_with_kids,Minimalist|Farmhouse|Eclectic,Neutrals|Monochrome,Dim Artificial,295.94,0.245
+CUST00223,45-54,couple|homeowner,Eclectic|Minimalist,Neutrals|Natural Wood,Mixed,507.05,0.109
+CUST00224,55-64,single|frequent_entertainer,Farmhouse,Neutrals,Dim Artificial,415.9,0.018
+CUST00225,25-34,eco_conscious|home_chef,Eclectic,Neutrals,Dim Artificial,976.21,0.475
+CUST00226,55-64,home_chef|couple|diy_enthusiast|eco_conscious,Industrial|Coastal,Neutrals|Metallics,Mixed,1202.14,0.143
+CUST00227,25-34,frequent_entertainer|single|pet_owner|home_chef,Coastal,Monochrome|Blues,Dim Artificial,1180.06,0.093
+CUST00228,35-44,pet_owner|couple,Coastal|Mid-Century|Scandinavian,Natural Wood|Warm Earth Tones,Dim Artificial,527.41,0.069
+CUST00229,18-24,frequent_entertainer|couple|family_with_kids|home_chef,Scandinavian|Bohemian,Warm Earth Tones,Mixed,1266.5,0.291
+CUST00230,25-34,frequent_entertainer|family_with_kids,Coastal|Bohemian,Monochrome|Warm Earth Tones,Dim Natural,1028.93,0.16
+CUST00231,35-44,couple|pet_owner|single|home_chef,Scandinavian|Minimalist,Greens,Bright Natural,1308.4,0.185
+CUST00232,65+,frequent_entertainer|pet_owner|eco_conscious,Mid-Century|Minimalist|Bohemian,Jewel Tones,Dim Artificial,1128.91,0.099
+CUST00233,35-44,renter|frequent_entertainer|diy_enthusiast|single,Traditional,Blues,Dim Natural,918.77,0.184
+CUST00234,35-44,family_with_kids|couple,Traditional|Farmhouse,Neutrals|Warm Earth Tones,Mixed,417.94,0.132
+CUST00235,35-44,renter|frequent_entertainer|homeowner,Scandinavian|Coastal|Traditional,Monochrome|Pastels,Bright Natural,683.04,0.08
+CUST00236,55-64,homeowner|frequent_entertainer,Coastal|Minimalist,Neutrals|Black & White,Mixed,922.51,0.129
+CUST00237,45-54,renter|frequent_entertainer,Traditional|Coastal,Blues|Monochrome,Bright Artificial,724.89,0.157
+CUST00238,18-24,pet_owner|couple|eco_conscious|renter,Farmhouse,Warm Earth Tones|Greens,Bright Artificial,131.47,0.02
+CUST00239,35-44,single|pet_owner|homeowner,Coastal,Jewel Tones,Dim Natural,159.69,0.151
+CUST00240,65+,home_chef|frequent_entertainer|diy_enthusiast|homeowner,Industrial|Eclectic|Traditional,Metallics|Natural Wood,Dim Artificial,1304.1,0.092
+CUST00241,25-34,couple|eco_conscious|single,Traditional|Scandinavian,Monochrome|Pastels,Dim Artificial,351.36,0.127
+CUST00242,35-44,couple|home_chef,Industrial|Farmhouse,Neutrals|Black & White,Bright Artificial,1254.73,0.305
+CUST00243,45-54,single|pet_owner,Traditional|Industrial|Eclectic,Pastels|Greens,Mixed,239.33,0.146
+CUST00244,65+,family_with_kids|pet_owner|frequent_entertainer,Mid-Century|Minimalist,Natural Wood|Pastels,Dim Natural,549.82,0.168
+CUST00245,25-34,frequent_entertainer|couple|diy_enthusiast,Coastal|Bohemian|Minimalist,Monochrome,Bright Natural,515.0,0.139
+CUST00246,45-54,home_chef|frequent_entertainer|diy_enthusiast,Traditional|Scandinavian|Modern,Natural Wood,Dim Artificial,946.25,0.233
+CUST00247,45-54,frequent_entertainer|home_chef,Farmhouse|Industrial,Monochrome,Bright Artificial,755.4,0.066
+CUST00248,65+,family_with_kids|homeowner|renter,Farmhouse|Minimalist|Mid-Century,Black & White|Greens,Bright Natural,337.78,0.022
+CUST00249,45-54,single|couple|homeowner|pet_owner,Modern|Minimalist|Eclectic,Metallics|Warm Earth Tones,Bright Natural,502.25,0.143
+CUST00250,65+,frequent_entertainer|single|diy_enthusiast,Farmhouse,Blues|Greens,Dim Artificial,1147.78,0.108
+CUST00251,35-44,diy_enthusiast|pet_owner,Coastal|Bohemian,Neutrals|Black & White,Dim Natural,342.24,0.124
+CUST00252,35-44,family_with_kids|diy_enthusiast|renter,Industrial|Eclectic|Traditional,Natural Wood|Warm Earth Tones,Dim Natural,241.82,0.676
+CUST00253,18-24,family_with_kids|eco_conscious|frequent_entertainer,Traditional|Eclectic,Warm Earth Tones,Dim Artificial,1109.48,0.026
+CUST00254,45-54,diy_enthusiast|renter|family_with_kids|homeowner,Eclectic|Industrial,Natural Wood,Dim Artificial,296.65,0.393
+CUST00255,45-54,pet_owner|renter|diy_enthusiast,Mid-Century,Monochrome,Bright Artificial,518.85,0.029
+CUST00256,45-54,pet_owner|diy_enthusiast|couple,Traditional,Greens,Dim Artificial,339.8,0.249
+CUST00257,25-34,eco_conscious|homeowner|diy_enthusiast|couple,Coastal|Minimalist,Warm Earth Tones|Blues,Bright Artificial,714.54,0.105
+CUST00258,18-24,diy_enthusiast|frequent_entertainer|homeowner,Industrial|Coastal|Farmhouse,Black & White,Bright Natural,496.24,0.23
+CUST00259,35-44,diy_enthusiast|homeowner,Scandinavian|Mid-Century,Warm Earth Tones,Bright Artificial,437.47,0.278
+CUST00260,45-54,home_chef|frequent_entertainer,Eclectic|Coastal,Warm Earth Tones,Bright Artificial,1037.2,0.041
+CUST00261,25-34,frequent_entertainer|home_chef|homeowner,Farmhouse|Modern,Neutrals,Mixed,320.98,0.189
+CUST00262,18-24,eco_conscious|renter|family_with_kids|home_chef,Industrial|Scandinavian|Bohemian,Warm Earth Tones|Metallics,Mixed,1018.05,0.345
+CUST00263,35-44,renter|family_with_kids,Eclectic|Traditional|Industrial,Neutrals,Mixed,181.76,0.317
+CUST00264,45-54,home_chef|frequent_entertainer|family_with_kids|single,Eclectic|Coastal|Traditional,Black & White|Neutrals,Bright Artificial,1143.88,0.081
+CUST00265,35-44,home_chef|renter|eco_conscious|single,Traditional,Warm Earth Tones,Dim Natural,1034.94,0.072
+CUST00266,25-34,homeowner|eco_conscious|single|pet_owner,Traditional|Bohemian|Mid-Century,Black & White,Bright Artificial,228.78,0.31
+CUST00267,55-64,home_chef|renter,Modern|Minimalist|Bohemian,Jewel Tones,Bright Artificial,732.5,0.07
+CUST00268,35-44,diy_enthusiast|pet_owner,Coastal,Greens|Black & White,Mixed,301.48,0.233
+CUST00269,45-54,pet_owner|single|family_with_kids|couple,Scandinavian,Metallics|Blues,Dim Natural,439.57,0.182
+CUST00270,35-44,pet_owner|couple,Industrial,Black & White,Dim Natural,526.39,0.295
+CUST00271,25-34,homeowner|couple,Bohemian|Modern,Neutrals,Bright Natural,103.43,0.239
+CUST00272,45-54,homeowner|diy_enthusiast|home_chef|single,Scandinavian,Natural Wood|Greens,Mixed,811.61,0.047
+CUST00273,25-34,renter|frequent_entertainer,Farmhouse|Scandinavian|Traditional,Pastels|Metallics,Dim Artificial,458.69,0.05
+CUST00274,25-34,homeowner|family_with_kids|renter|home_chef,Scandinavian|Traditional|Farmhouse,Blues,Dim Artificial,1002.88,0.066
+CUST00275,18-24,diy_enthusiast|frequent_entertainer|pet_owner,Coastal,Metallics,Mixed,1453.46,0.069
+CUST00276,25-34,frequent_entertainer|renter|single|home_chef,Industrial|Scandinavian|Minimalist,Metallics,Bright Natural,575.44,0.075
+CUST00277,18-24,diy_enthusiast|frequent_entertainer|couple,Scandinavian|Bohemian|Traditional,Metallics,Bright Natural,1118.74,0.484
+CUST00278,18-24,single|couple|home_chef,Minimalist|Mid-Century|Bohemian,Jewel Tones,Dim Natural,1472.9,0.186
+CUST00279,45-54,pet_owner|single|frequent_entertainer,Farmhouse|Scandinavian|Bohemian,Black & White|Natural Wood,Bright Natural,795.89,0.017
+CUST00280,45-54,diy_enthusiast|frequent_entertainer|family_with_kids|home_chef,Industrial|Farmhouse|Modern,Neutrals|Metallics,Mixed,597.42,0.284
+CUST00281,18-24,frequent_entertainer|family_with_kids|eco_conscious|single,Traditional|Eclectic|Farmhouse,Warm Earth Tones,Dim Artificial,774.22,0.274
+CUST00282,55-64,homeowner|pet_owner|renter|diy_enthusiast,Farmhouse|Bohemian|Modern,Metallics,Bright Artificial,625.37,0.112
+CUST00283,18-24,renter|homeowner|home_chef|couple,Industrial,Natural Wood,Bright Natural,1286.71,0.123
+CUST00284,55-64,diy_enthusiast|pet_owner|homeowner,Farmhouse|Scandinavian,Black & White,Mixed,521.97,0.023
+CUST00285,35-44,eco_conscious|home_chef|couple|diy_enthusiast,Industrial|Mid-Century,Pastels|Natural Wood,Bright Artificial,997.21,0.162
+CUST00286,25-34,renter|homeowner|diy_enthusiast|eco_conscious,Minimalist|Mid-Century|Farmhouse,Jewel Tones|Greens,Bright Artificial,200.71,0.112
+CUST00287,45-54,eco_conscious|home_chef,Industrial|Minimalist|Scandinavian,Metallics|Blues,Mixed,1011.85,0.051
+CUST00288,55-64,renter|single|couple|diy_enthusiast,Bohemian,Greens|Blues,Bright Natural,317.63,0.147
+CUST00289,45-54,home_chef|diy_enthusiast|family_with_kids|couple,Eclectic|Industrial|Farmhouse,Natural Wood|Black & White,Dim Natural,1144.84,0.025
+CUST00290,35-44,diy_enthusiast|couple|eco_conscious|renter,Traditional|Farmhouse,Metallics,Bright Artificial,465.89,0.226
+CUST00291,45-54,diy_enthusiast|family_with_kids,Farmhouse|Mid-Century|Minimalist,Black & White|Blues,Mixed,468.99,0.059
+CUST00292,45-54,family_with_kids|frequent_entertainer|single|renter,Bohemian|Industrial|Eclectic,Neutrals,Mixed,405.28,0.039
+CUST00293,35-44,frequent_entertainer|pet_owner,Industrial|Scandinavian,Natural Wood|Monochrome,Mixed,593.47,0.09
+CUST00294,35-44,diy_enthusiast|eco_conscious|frequent_entertainer,Minimalist|Mid-Century,Jewel Tones,Bright Artificial,640.13,0.122
+CUST00295,25-34,homeowner|frequent_entertainer,Farmhouse,Pastels|Natural Wood,Bright Natural,1087.62,0.196
+CUST00296,25-34,pet_owner|diy_enthusiast,Eclectic|Coastal|Mid-Century,Jewel Tones,Bright Artificial,685.09,0.479
+CUST00297,55-64,single|diy_enthusiast|eco_conscious,Modern|Mid-Century,Blues|Black & White,Dim Natural,332.37,0.082
+CUST00298,65+,single|pet_owner|frequent_entertainer|couple,Farmhouse|Traditional,Jewel Tones|Neutrals,Dim Natural,726.88,0.113
+CUST00299,35-44,family_with_kids|single|couple,Industrial|Farmhouse,Neutrals,Bright Natural,544.32,0.154
+CUST00300,65+,diy_enthusiast|eco_conscious|family_with_kids|frequent_entertainer,Bohemian,Pastels,Bright Natural,1098.87,0.153
+CUST00301,65+,single|diy_enthusiast|homeowner,Modern,Neutrals|Warm Earth Tones,Dim Artificial,467.16,0.111
+CUST00302,55-64,renter|diy_enthusiast|couple,Minimalist,Warm Earth Tones|Natural Wood,Mixed,571.04,0.268
+CUST00303,35-44,eco_conscious|single,Industrial,Metallics|Black & White,Bright Artificial,576.2,0.155
+CUST00304,35-44,couple|family_with_kids|diy_enthusiast|renter,Minimalist|Farmhouse|Industrial,Greens|Natural Wood,Dim Artificial,475.53,0.334
+CUST00305,35-44,frequent_entertainer|home_chef|single,Modern|Mid-Century|Traditional,Black & White|Pastels,Bright Artificial,575.44,0.074
+CUST00306,65+,couple|homeowner|family_with_kids|frequent_entertainer,Minimalist|Scandinavian|Traditional,Monochrome,Bright Natural,1072.51,0.104
+CUST00307,55-64,pet_owner|single|home_chef|couple,Scandinavian|Coastal|Bohemian,Black & White,Dim Natural,496.18,0.122
+CUST00308,55-64,home_chef|renter|single|pet_owner,Eclectic|Mid-Century,Blues|Jewel Tones,Bright Natural,921.08,0.062
+CUST00309,65+,family_with_kids|diy_enthusiast|renter|home_chef,Coastal|Farmhouse,Greens|Blues,Dim Natural,461.4,0.012
+CUST00310,25-34,single|eco_conscious,Coastal|Industrial,Metallics|Monochrome,Dim Artificial,204.25,0.217
+CUST00311,35-44,single|couple|frequent_entertainer|pet_owner,Farmhouse|Coastal|Modern,Jewel Tones|Blues,Bright Artificial,934.9,0.379
+CUST00312,55-64,single|renter|family_with_kids|pet_owner,Coastal,Pastels,Dim Natural,435.0,0.148
+CUST00313,25-34,family_with_kids|couple|diy_enthusiast,Minimalist|Farmhouse,Monochrome,Bright Natural,350.9,0.177
+CUST00314,35-44,pet_owner|couple|eco_conscious,Traditional|Mid-Century,Pastels,Bright Artificial,538.51,0.215
+CUST00315,25-34,family_with_kids|home_chef|homeowner,Bohemian|Industrial,Metallics,Bright Artificial,1085.58,0.058
+CUST00316,65+,eco_conscious|diy_enthusiast,Eclectic|Mid-Century,Greens,Dim Artificial,533.41,0.126
+CUST00317,45-54,family_with_kids|single,Eclectic|Coastal,Blues|Neutrals,Dim Artificial,359.74,0.422
+CUST00318,45-54,couple|single,Coastal|Industrial|Mid-Century,Neutrals|Black & White,Bright Artificial,303.38,0.139
+CUST00319,25-34,single|couple|frequent_entertainer|renter,Modern|Coastal,Greens|Metallics,Bright Artificial,1233.31,0.163
+CUST00320,35-44,single|pet_owner|renter|couple,Traditional|Scandinavian|Bohemian,Natural Wood|Pastels,Mixed,553.67,0.117
+CUST00321,45-54,homeowner|couple,Bohemian|Mid-Century,Monochrome|Black & White,Bright Natural,505.63,0.11
+CUST00322,45-54,diy_enthusiast|pet_owner|home_chef|eco_conscious,Coastal,Jewel Tones|Natural Wood,Bright Natural,440.04,0.318
+CUST00323,55-64,home_chef|homeowner|frequent_entertainer|pet_owner,Minimalist|Coastal|Traditional,Blues,Dim Artificial,1026.26,0.144
+CUST00324,35-44,family_with_kids|eco_conscious|single,Bohemian,Neutrals,Dim Artificial,116.62,0.243
+CUST00325,45-54,eco_conscious|renter,Industrial|Scandinavian|Eclectic,Monochrome,Mixed,474.71,0.132
+CUST00326,25-34,homeowner|renter,Eclectic,Monochrome|Warm Earth Tones,Mixed,484.73,0.068
+CUST00327,35-44,single|couple,Industrial|Bohemian,Blues|Greens,Dim Natural,201.03,0.506
+CUST00328,55-64,renter|pet_owner,Bohemian|Industrial|Modern,Neutrals|Pastels,Dim Artificial,373.03,0.423
+CUST00329,25-34,home_chef|diy_enthusiast,Eclectic|Bohemian|Industrial,Blues|Black & White,Mixed,607.11,0.046
+CUST00330,45-54,frequent_entertainer|single|couple,Farmhouse|Eclectic|Minimalist,Natural Wood,Bright Artificial,373.67,0.024
+CUST00331,45-54,single|family_with_kids|couple,Minimalist,Greens,Dim Natural,237.55,0.35
+CUST00332,65+,homeowner|home_chef,Industrial,Black & White|Metallics,Dim Artificial,941.53,0.121
+CUST00333,25-34,pet_owner|homeowner,Industrial|Traditional|Coastal,Pastels,Bright Natural,259.28,0.17
+CUST00334,18-24,diy_enthusiast|renter|homeowner|pet_owner,Bohemian,Monochrome|Black & White,Dim Artificial,397.14,0.076
+CUST00335,45-54,home_chef|frequent_entertainer,Scandinavian|Farmhouse|Minimalist,Natural Wood,Dim Natural,594.21,0.18
+CUST00336,25-34,homeowner|home_chef|single|couple,Bohemian|Coastal,Monochrome,Dim Artificial,1323.27,0.219
+CUST00337,25-34,renter|diy_enthusiast|couple,Scandinavian|Bohemian,Greens,Dim Artificial,728.14,0.127
+CUST00338,35-44,renter|homeowner|home_chef,Traditional|Coastal|Mid-Century,Greens|Metallics,Bright Natural,821.76,0.056
+CUST00339,18-24,family_with_kids|couple|home_chef,Minimalist|Coastal|Scandinavian,Black & White|Pastels,Bright Artificial,1299.86,0.07
+CUST00340,35-44,couple|eco_conscious|diy_enthusiast|single,Coastal,Jewel Tones|Natural Wood,Bright Artificial,684.57,0.102
+CUST00341,55-64,couple|homeowner|single,Mid-Century|Farmhouse,Blues|Greens,Mixed,544.32,0.042
+CUST00342,55-64,family_with_kids|home_chef,Farmhouse,Warm Earth Tones,Mixed,1436.0,0.101
+CUST00343,35-44,diy_enthusiast|homeowner|frequent_entertainer|couple,Modern|Eclectic,Warm Earth Tones|Monochrome,Dim Artificial,422.71,0.465
+CUST00344,45-54,frequent_entertainer|home_chef,Bohemian|Mid-Century,Metallics|Natural Wood,Mixed,1267.33,0.159
+CUST00345,18-24,eco_conscious|single,Coastal|Eclectic,Warm Earth Tones|Natural Wood,Bright Artificial,191.61,0.216
+CUST00346,55-64,pet_owner|home_chef|couple,Farmhouse,Pastels,Dim Artificial,1395.52,0.248
+CUST00347,35-44,single|renter|family_with_kids,Mid-Century|Modern|Eclectic,Pastels|Monochrome,Bright Natural,240.58,0.137
+CUST00348,45-54,home_chef|frequent_entertainer|couple,Mid-Century|Bohemian,Neutrals,Dim Natural,395.68,0.282
+CUST00349,25-34,pet_owner|couple|renter,Eclectic|Bohemian,Black & White|Jewel Tones,Dim Natural,426.52,0.417
+CUST00350,45-54,couple|single|homeowner|eco_conscious,Farmhouse,Blues,Bright Artificial,318.25,0.265
+CUST00351,35-44,renter|single,Eclectic|Minimalist,Pastels|Blues,Bright Natural,304.19,0.115
+CUST00352,35-44,homeowner|diy_enthusiast|renter|couple,Farmhouse,Monochrome|Blues,Bright Artificial,681.66,0.086
+CUST00353,55-64,renter|diy_enthusiast|single|family_with_kids,Modern,Neutrals,Bright Natural,668.37,0.042
+CUST00354,18-24,renter|frequent_entertainer|homeowner,Farmhouse,Greens,Mixed,913.79,0.197
+CUST00355,35-44,diy_enthusiast|single|home_chef|homeowner,Minimalist|Coastal,Monochrome,Bright Artificial,314.02,0.104
+CUST00356,25-34,frequent_entertainer|pet_owner|couple|eco_conscious,Modern,Black & White,Dim Artificial,1067.81,0.094
+CUST00357,25-34,diy_enthusiast|frequent_entertainer|single,Eclectic,Metallics|Greens,Bright Natural,1270.92,0.164
+CUST00358,35-44,eco_conscious|pet_owner|diy_enthusiast,Mid-Century,Monochrome,Dim Natural,539.16,0.221
+CUST00359,55-64,family_with_kids|homeowner,Traditional,Pastels|Monochrome,Bright Artificial,418.92,0.0
+CUST00360,25-34,homeowner|renter,Coastal,Neutrals|Greens,Mixed,213.78,0.083
+CUST00361,45-54,frequent_entertainer|homeowner,Scandinavian|Coastal|Bohemian,Greens,Mixed,480.03,0.08
+CUST00362,45-54,renter|single|family_with_kids|pet_owner,Modern|Scandinavian,Natural Wood|Warm Earth Tones,Mixed,574.51,0.141
+CUST00363,25-34,frequent_entertainer|family_with_kids|home_chef,Farmhouse|Eclectic,Jewel Tones|Natural Wood,Bright Natural,848.95,0.266
+CUST00364,65+,family_with_kids|renter,Minimalist|Traditional,Jewel Tones|Natural Wood,Mixed,159.99,0.063
+CUST00365,35-44,renter|homeowner,Farmhouse|Mid-Century,Monochrome|Neutrals,Dim Artificial,151.77,0.104
+CUST00366,45-54,single|home_chef|family_with_kids|frequent_entertainer,Modern|Bohemian|Eclectic,Black & White,Dim Artificial,325.83,0.387
+CUST00367,35-44,renter|family_with_kids|diy_enthusiast|pet_owner,Modern|Mid-Century|Traditional,Black & White|Blues,Bright Natural,619.76,0.205
+CUST00368,25-34,diy_enthusiast|pet_owner|homeowner|family_with_kids,Scandinavian|Modern,Black & White|Jewel Tones,Dim Natural,429.66,0.145
+CUST00369,18-24,renter|home_chef,Traditional,Blues|Neutrals,Dim Natural,1046.64,0.375
+CUST00370,35-44,homeowner|couple|single,Modern|Minimalist|Coastal,Greens|Natural Wood,Bright Natural,283.29,0.316
+CUST00371,25-34,homeowner|renter|pet_owner|diy_enthusiast,Traditional|Farmhouse|Modern,Pastels,Mixed,783.83,0.062
+CUST00372,25-34,pet_owner|eco_conscious,Mid-Century|Eclectic|Bohemian,Neutrals,Dim Artificial,297.07,0.423
+CUST00373,25-34,single|frequent_entertainer,Scandinavian|Bohemian|Industrial,Pastels,Mixed,581.14,0.162
+CUST00374,35-44,single|renter|eco_conscious,Traditional|Scandinavian,Blues|Warm Earth Tones,Dim Natural,386.32,0.065
+CUST00375,65+,single|eco_conscious,Modern|Eclectic|Farmhouse,Blues,Bright Artificial,426.07,0.059
+CUST00376,45-54,family_with_kids|pet_owner|homeowner|single,Farmhouse,Monochrome|Pastels,Mixed,142.85,0.129
+CUST00377,55-64,home_chef|eco_conscious,Minimalist|Modern|Traditional,Blues,Bright Artificial,477.3,0.234
+CUST00378,18-24,home_chef|diy_enthusiast|pet_owner|single,Scandinavian,Pastels,Bright Artificial,374.25,0.018
+CUST00379,55-64,diy_enthusiast|homeowner|couple|home_chef,Farmhouse,Monochrome|Jewel Tones,Bright Artificial,985.83,0.079
+CUST00380,35-44,frequent_entertainer|diy_enthusiast|renter|single,Modern,Warm Earth Tones|Neutrals,Bright Natural,521.95,0.14
+CUST00381,35-44,homeowner|couple|eco_conscious,Coastal|Modern|Farmhouse,Monochrome,Bright Artificial,443.42,0.014
+CUST00382,45-54,frequent_entertainer|eco_conscious|single,Eclectic|Minimalist,Natural Wood,Mixed,798.82,0.064
+CUST00383,45-54,single|frequent_entertainer|diy_enthusiast|home_chef,Traditional|Coastal,Greens,Dim Natural,885.4,0.101
+CUST00384,35-44,homeowner|home_chef|pet_owner|eco_conscious,Traditional,Monochrome,Bright Natural,1352.09,0.143
+CUST00385,45-54,homeowner|pet_owner,Bohemian|Traditional|Coastal,Natural Wood|Black & White,Dim Natural,513.75,0.175
+CUST00386,45-54,home_chef|homeowner|eco_conscious|family_with_kids,Traditional,Monochrome|Greens,Dim Artificial,791.59,0.295
+CUST00387,18-24,renter|home_chef,Scandinavian|Minimalist,Pastels|Blues,Dim Artificial,1271.06,0.23
+CUST00388,55-64,family_with_kids|diy_enthusiast|single|couple,Scandinavian,Black & White,Bright Natural,774.91,0.12
+CUST00389,25-34,frequent_entertainer|renter|couple,Bohemian|Minimalist|Eclectic,Natural Wood|Greens,Mixed,609.93,0.15
+CUST00390,55-64,single|eco_conscious|diy_enthusiast,Coastal,Blues,Bright Natural,202.26,0.166
+CUST00391,55-64,single|home_chef|pet_owner|family_with_kids,Scandinavian,Blues|Natural Wood,Bright Natural,1278.71,0.199
+CUST00392,18-24,homeowner|frequent_entertainer|pet_owner,Coastal|Eclectic|Mid-Century,Greens|Neutrals,Bright Artificial,1045.03,0.205
+CUST00393,35-44,single|family_with_kids|pet_owner|diy_enthusiast,Modern|Coastal,Greens|Black & White,Bright Artificial,592.1,0.021
+CUST00394,45-54,couple|diy_enthusiast,Scandinavian|Farmhouse|Eclectic,Greens|Warm Earth Tones,Dim Artificial,799.9,0.149
+CUST00395,55-64,eco_conscious|pet_owner,Farmhouse|Mid-Century,Pastels|Jewel Tones,Mixed,297.52,0.169
+CUST00396,45-54,single|homeowner,Modern|Bohemian|Industrial,Monochrome,Bright Artificial,562.18,0.034
+CUST00397,25-34,homeowner|couple,Eclectic|Minimalist,Jewel Tones,Dim Artificial,509.32,0.069
+CUST00398,35-44,family_with_kids|eco_conscious,Modern|Eclectic|Minimalist,Warm Earth Tones|Greens,Dim Artificial,472.99,0.199
+CUST00399,55-64,family_with_kids|couple|home_chef,Traditional,Natural Wood,Bright Natural,1072.11,0.125
+CUST00400,35-44,renter|home_chef|diy_enthusiast,Bohemian|Scandinavian|Modern,Natural Wood,Dim Artificial,1243.05,0.118
+CUST00401,18-24,frequent_entertainer|diy_enthusiast|eco_conscious|couple,Mid-Century,Greens|Metallics,Dim Artificial,1065.24,0.067
+CUST00402,45-54,homeowner|couple,Modern|Coastal|Farmhouse,Black & White|Monochrome,Dim Artificial,298.77,0.118
+CUST00403,45-54,frequent_entertainer|homeowner|diy_enthusiast|pet_owner,Modern|Farmhouse|Eclectic,Greens|Blues,Dim Natural,868.48,0.157
+CUST00404,35-44,home_chef|frequent_entertainer|homeowner|couple,Eclectic|Bohemian|Mid-Century,Metallics,Dim Natural,392.4,0.162
+CUST00405,45-54,couple|single|homeowner|home_chef,Bohemian|Minimalist,Blues,Bright Natural,1171.29,0.209
+CUST00406,45-54,frequent_entertainer|diy_enthusiast|home_chef,Scandinavian|Industrial,Monochrome|Blues,Dim Artificial,512.29,0.093
+CUST00407,25-34,renter|family_with_kids|home_chef|pet_owner,Bohemian|Modern|Traditional,Neutrals|Warm Earth Tones,Dim Artificial,431.6,0.17
+CUST00408,55-64,single|frequent_entertainer|renter,Farmhouse,Natural Wood,Dim Natural,1405.22,0.122
+CUST00409,35-44,couple|home_chef,Eclectic|Scandinavian,Greens,Mixed,679.58,0.208
+CUST00410,35-44,family_with_kids|homeowner,Minimalist|Traditional|Mid-Century,Metallics,Dim Natural,557.31,0.118
+CUST00411,35-44,homeowner|family_with_kids|single,Farmhouse|Bohemian,Greens|Black & White,Bright Artificial,248.26,0.023
+CUST00412,35-44,homeowner|diy_enthusiast,Scandinavian|Modern,Blues,Bright Artificial,406.23,0.072
+CUST00413,55-64,diy_enthusiast|home_chef|couple,Modern|Minimalist|Bohemian,Jewel Tones,Dim Natural,929.69,0.019
+CUST00414,65+,homeowner|pet_owner|couple|family_with_kids,Modern|Traditional|Bohemian,Metallics,Bright Natural,583.27,0.088
+CUST00415,35-44,family_with_kids|homeowner,Coastal,Warm Earth Tones,Dim Artificial,287.85,0.119
+CUST00416,35-44,homeowner|renter,Scandinavian|Bohemian|Minimalist,Natural Wood,Bright Natural,437.88,0.219
+CUST00417,45-54,pet_owner|couple,Coastal,Blues|Pastels,Bright Natural,387.91,0.014
+CUST00418,18-24,eco_conscious|pet_owner,Mid-Century|Eclectic|Coastal,Metallics|Pastels,Dim Natural,541.64,0.317
+CUST00419,65+,home_chef|diy_enthusiast|family_with_kids,Farmhouse,Neutrals,Bright Artificial,1022.3,0.366
+CUST00420,35-44,eco_conscious|renter,Minimalist,Warm Earth Tones|Metallics,Mixed,305.87,0.054
+CUST00421,65+,single|eco_conscious|frequent_entertainer|home_chef,Farmhouse,Black & White|Warm Earth Tones,Mixed,1037.77,0.085
+CUST00422,25-34,family_with_kids|frequent_entertainer|renter|home_chef,Minimalist|Eclectic|Scandinavian,Pastels|Blues,Dim Natural,1161.57,0.575
+CUST00423,55-64,eco_conscious|renter|family_with_kids|frequent_entertainer,Bohemian|Minimalist,Pastels|Natural Wood,Bright Artificial,882.26,0.095
+CUST00424,35-44,pet_owner|eco_conscious,Bohemian|Farmhouse,Metallics,Dim Natural,531.53,0.41
+CUST00425,35-44,couple|homeowner,Modern|Mid-Century,Neutrals,Bright Natural,321.76,0.102
+CUST00426,35-44,pet_owner|home_chef|renter,Coastal|Traditional,Warm Earth Tones|Greens,Bright Natural,1435.98,0.279
+CUST00427,65+,single|home_chef|diy_enthusiast,Bohemian,Warm Earth Tones|Metallics,Bright Artificial,1254.73,0.151
+CUST00428,35-44,frequent_entertainer|couple|family_with_kids,Coastal|Minimalist,Natural Wood|Greens,Mixed,1280.99,0.39
+CUST00429,25-34,frequent_entertainer|single|renter,Eclectic|Coastal|Mid-Century,Metallics|Natural Wood,Bright Artificial,1059.01,0.776
+CUST00430,45-54,family_with_kids|diy_enthusiast,Mid-Century,Pastels,Mixed,264.65,0.049
+CUST00431,25-34,pet_owner|homeowner,Coastal|Eclectic|Bohemian,Warm Earth Tones|Jewel Tones,Bright Artificial,388.55,0.068
+CUST00432,25-34,couple|pet_owner,Traditional|Scandinavian,Metallics|Greens,Dim Natural,477.84,0.29
+CUST00433,35-44,eco_conscious|family_with_kids,Modern,Blues|Black & White,Bright Natural,171.69,0.04
+CUST00434,35-44,renter|pet_owner|single,Modern|Farmhouse|Mid-Century,Pastels|Greens,Dim Natural,289.11,0.541
+CUST00435,35-44,couple|pet_owner|frequent_entertainer,Eclectic|Minimalist|Bohemian,Neutrals,Bright Natural,1171.74,0.189
+CUST00436,65+,eco_conscious|family_with_kids,Mid-Century|Minimalist|Industrial,Monochrome,Bright Artificial,283.31,0.197
+CUST00437,65+,pet_owner|frequent_entertainer|couple|diy_enthusiast,Bohemian|Farmhouse|Eclectic,Monochrome|Pastels,Dim Artificial,1348.24,0.345
+CUST00438,55-64,frequent_entertainer|eco_conscious,Bohemian|Minimalist,Pastels|Monochrome,Bright Natural,1137.66,0.051
+CUST00439,25-34,homeowner|pet_owner|home_chef|frequent_entertainer,Eclectic,Jewel Tones,Bright Artificial,928.15,0.152
+CUST00440,55-64,home_chef|frequent_entertainer,Scandinavian,Pastels|Neutrals,Dim Artificial,1104.06,0.135
+CUST00441,35-44,family_with_kids|pet_owner|couple|homeowner,Modern|Farmhouse,Monochrome|Greens,Mixed,406.86,0.064
+CUST00442,35-44,couple|renter|single|diy_enthusiast,Coastal,Blues,Mixed,308.23,0.2
+CUST00443,65+,home_chef|frequent_entertainer|homeowner,Traditional|Bohemian,Jewel Tones|Natural Wood,Bright Artificial,1153.35,0.168
+CUST00444,25-34,couple|home_chef|eco_conscious|pet_owner,Farmhouse,Blues,Mixed,524.74,0.083
+CUST00445,25-34,homeowner|home_chef|renter|family_with_kids,Modern|Scandinavian|Minimalist,Monochrome,Dim Artificial,564.57,0.108
+CUST00446,45-54,family_with_kids|renter|single,Mid-Century,Blues|Warm Earth Tones,Mixed,538.33,0.031
+CUST00447,45-54,single|frequent_entertainer|eco_conscious|homeowner,Coastal|Farmhouse,Jewel Tones,Dim Artificial,931.59,0.227
+CUST00448,55-64,family_with_kids|couple,Modern|Farmhouse|Mid-Century,Metallics,Bright Natural,412.71,0.109
+CUST00449,18-24,pet_owner|single|homeowner|frequent_entertainer,Industrial|Coastal,Monochrome,Mixed,447.43,0.191
+CUST00450,35-44,home_chef|family_with_kids|frequent_entertainer,Coastal|Mid-Century|Modern,Natural Wood,Mixed,939.98,0.226
+CUST00451,45-54,frequent_entertainer|homeowner,Farmhouse|Scandinavian|Minimalist,Jewel Tones|Warm Earth Tones,Mixed,933.06,0.06
+CUST00452,65+,home_chef|eco_conscious|diy_enthusiast,Traditional|Modern|Farmhouse,Metallics,Mixed,527.23,0.117
+CUST00453,25-34,family_with_kids|renter|couple,Industrial|Bohemian|Scandinavian,Warm Earth Tones|Black & White,Dim Natural,338.6,0.215
+CUST00454,55-64,single|diy_enthusiast|eco_conscious|family_with_kids,Farmhouse,Natural Wood,Bright Artificial,454.29,0.066
+CUST00455,65+,home_chef|renter,Scandinavian|Modern|Coastal,Monochrome,Bright Artificial,1294.33,0.089
+CUST00456,45-54,single|renter|diy_enthusiast,Eclectic|Minimalist|Industrial,Black & White,Dim Natural,331.07,0.111
+CUST00457,35-44,family_with_kids|eco_conscious,Scandinavian|Minimalist,Jewel Tones,Dim Artificial,478.66,0.066
+CUST00458,25-34,eco_conscious|homeowner,Minimalist|Industrial,Black & White,Dim Artificial,504.47,0.315
+CUST00459,65+,pet_owner|eco_conscious,Modern,Black & White,Bright Artificial,536.49,0.104
+CUST00460,45-54,diy_enthusiast|homeowner|frequent_entertainer,Bohemian|Eclectic|Mid-Century,Natural Wood,Dim Artificial,826.11,0.051
+CUST00461,65+,renter|pet_owner|frequent_entertainer|home_chef,Scandinavian|Modern|Coastal,Pastels|Monochrome,Dim Natural,334.0,0.235
+CUST00462,25-34,pet_owner|diy_enthusiast|homeowner,Bohemian,Warm Earth Tones,Dim Natural,409.63,0.042
+CUST00463,25-34,diy_enthusiast|family_with_kids|pet_owner,Coastal,Greens|Monochrome,Dim Natural,331.95,0.257
+CUST00464,45-54,pet_owner|single|homeowner,Traditional|Farmhouse|Coastal,Metallics|Black & White,Bright Natural,443.99,0.169
+CUST00465,65+,eco_conscious|homeowner,Bohemian,Pastels|Warm Earth Tones,Dim Natural,545.22,0.076
+CUST00466,25-34,single|renter|family_with_kids,Coastal,Greens|Natural Wood,Dim Natural,223.34,0.094
+CUST00467,35-44,frequent_entertainer|pet_owner,Mid-Century,Pastels|Greens,Bright Natural,605.3,0.336
+CUST00468,45-54,eco_conscious|frequent_entertainer,Eclectic,Pastels,Mixed,1237.53,0.396
+CUST00469,65+,diy_enthusiast|family_with_kids,Modern|Coastal,Black & White,Dim Natural,713.13,0.056
+CUST00470,35-44,couple|single,Scandinavian|Eclectic,Pastels|Metallics,Mixed,378.38,0.12
+CUST00471,65+,homeowner|home_chef|diy_enthusiast|couple,Mid-Century,Pastels,Dim Artificial,705.74,0.067
+CUST00472,25-34,homeowner|pet_owner,Minimalist|Mid-Century|Scandinavian,Greens|Pastels,Dim Artificial,540.01,0.317
+CUST00473,18-24,home_chef|family_with_kids|frequent_entertainer,Industrial|Scandinavian,Natural Wood|Greens,Dim Artificial,1114.01,0.988
+CUST00474,25-34,couple|single|home_chef|pet_owner,Scandinavian|Traditional,Greens|Black & White,Bright Natural,1229.9,0.158
+CUST00475,25-34,renter|couple,Eclectic,Natural Wood,Dim Natural,484.5,0.171
+CUST00476,35-44,eco_conscious|single|diy_enthusiast,Farmhouse|Coastal|Industrial,Monochrome|Blues,Dim Artificial,303.52,0.086
+CUST00477,45-54,couple|frequent_entertainer,Traditional|Eclectic|Industrial,Jewel Tones,Bright Natural,884.42,0.094
+CUST00478,55-64,home_chef|renter|frequent_entertainer,Minimalist|Traditional,Greens,Dim Natural,1486.62,0.184
+CUST00479,18-24,eco_conscious|family_with_kids|frequent_entertainer|homeowner,Coastal|Minimalist|Traditional,Blues,Mixed,409.64,0.193
+CUST00480,35-44,single|frequent_entertainer|couple|home_chef,Mid-Century,Pastels,Dim Artificial,415.24,0.346
+CUST00481,35-44,home_chef|family_with_kids|homeowner,Eclectic|Minimalist|Modern,Monochrome,Dim Artificial,1349.3,0.153
+CUST00482,65+,renter|single|home_chef|frequent_entertainer,Mid-Century,Black & White,Bright Artificial,1254.57,0.105
+CUST00483,65+,couple|single|family_with_kids|home_chef,Farmhouse|Minimalist,Monochrome,Bright Natural,413.24,0.02
+CUST00484,65+,homeowner|diy_enthusiast|renter|couple,Industrial|Bohemian,Monochrome,Bright Artificial,771.76,0.071
+CUST00485,35-44,pet_owner|home_chef|diy_enthusiast|renter,Modern|Mid-Century,Pastels,Bright Natural,421.36,0.095
+CUST00486,25-34,diy_enthusiast|home_chef|family_with_kids|pet_owner,Traditional|Scandinavian|Minimalist,Pastels,Bright Natural,644.81,0.272
+CUST00487,65+,homeowner|home_chef|couple,Minimalist,Monochrome|Jewel Tones,Dim Artificial,809.31,0.058
+CUST00488,35-44,pet_owner|renter,Eclectic|Modern|Industrial,Neutrals|Jewel Tones,Dim Natural,186.92,0.152
+CUST00489,45-54,renter|eco_conscious|family_with_kids|couple,Scandinavian|Traditional,Blues,Bright Natural,424.91,0.066
+CUST00490,25-34,renter|eco_conscious|home_chef|single,Mid-Century,Greens|Monochrome,Mixed,1034.35,0.196
+CUST00491,55-64,single|eco_conscious,Mid-Century,Metallics,Mixed,297.59,0.088
+CUST00492,18-24,frequent_entertainer|family_with_kids|homeowner,Farmhouse|Eclectic,Jewel Tones|Blues,Mixed,301.4,0.058
+CUST00493,45-54,couple|diy_enthusiast|home_chef|single,Traditional|Industrial,Monochrome,Mixed,707.4,0.026
+CUST00494,45-54,single|pet_owner|couple|renter,Minimalist|Bohemian|Coastal,Warm Earth Tones|Greens,Dim Natural,409.52,0.507
+CUST00495,35-44,homeowner|single|diy_enthusiast|renter,Scandinavian|Mid-Century,Metallics|Monochrome,Bright Natural,225.03,0.286
+CUST00496,35-44,pet_owner|couple|homeowner,Farmhouse|Traditional,Warm Earth Tones|Natural Wood,Bright Artificial,434.08,0.543
+CUST00497,45-54,eco_conscious|homeowner|diy_enthusiast|single,Traditional|Mid-Century,Monochrome,Bright Artificial,319.25,0.167
+CUST00498,45-54,frequent_entertainer|renter,Bohemian,Natural Wood,Bright Natural,993.81,0.432
+CUST00499,65+,frequent_entertainer|eco_conscious|family_with_kids|home_chef,Coastal|Scandinavian|Modern,Monochrome,Dim Natural,1282.52,0.017
+CUST00500,35-44,pet_owner|couple,Modern|Coastal|Mid-Century,Jewel Tones|Neutrals,Bright Natural,464.3,0.022
+CUST00501,35-44,eco_conscious|home_chef|single,Coastal,Warm Earth Tones,Bright Natural,376.41,0.134
+CUST00502,35-44,family_with_kids|frequent_entertainer|homeowner|pet_owner,Minimalist|Scandinavian,Neutrals|Pastels,Bright Artificial,851.48,0.266
+CUST00503,65+,couple|diy_enthusiast|family_with_kids,Minimalist,Neutrals,Bright Natural,429.78,0.022
+CUST00504,55-64,couple|eco_conscious|renter,Mid-Century|Minimalist|Traditional,Greens|Black & White,Bright Natural,107.36,0.072
+CUST00505,65+,eco_conscious|diy_enthusiast,Eclectic|Bohemian|Coastal,Pastels,Bright Artificial,736.57,0.049
+CUST00506,35-44,frequent_entertainer|eco_conscious,Farmhouse|Coastal,Natural Wood|Warm Earth Tones,Bright Artificial,1056.78,0.04
+CUST00507,25-34,eco_conscious|pet_owner|frequent_entertainer,Modern,Blues|Warm Earth Tones,Mixed,632.26,0.118
+CUST00508,65+,pet_owner|frequent_entertainer|single|home_chef,Bohemian|Industrial,Jewel Tones|Natural Wood,Mixed,734.05,0.262
+CUST00509,35-44,couple|single|home_chef,Mid-Century|Bohemian|Coastal,Metallics,Dim Artificial,680.64,0.075
+CUST00510,25-34,family_with_kids|homeowner|frequent_entertainer,Coastal|Scandinavian|Industrial,Blues,Bright Artificial,1206.89,0.134
+CUST00511,55-64,single|frequent_entertainer|renter,Modern|Minimalist,Pastels|Jewel Tones,Bright Artificial,578.2,0.026
+CUST00512,45-54,diy_enthusiast|frequent_entertainer,Bohemian,Natural Wood|Metallics,Bright Natural,1410.22,0.109
+CUST00513,45-54,eco_conscious|homeowner,Bohemian|Traditional|Coastal,Natural Wood|Warm Earth Tones,Dim Natural,291.33,0.118
+CUST00514,65+,family_with_kids|frequent_entertainer|eco_conscious|homeowner,Eclectic,Pastels,Bright Artificial,1334.32,0.006
+CUST00515,65+,diy_enthusiast|homeowner|frequent_entertainer|renter,Mid-Century|Farmhouse|Traditional,Warm Earth Tones|Black & White,Dim Natural,853.16,0.033
+CUST00516,45-54,couple|pet_owner,Mid-Century|Eclectic|Farmhouse,Metallics,Mixed,490.72,0.121
+CUST00517,18-24,eco_conscious|frequent_entertainer|pet_owner,Scandinavian,Blues,Dim Artificial,1389.84,0.023
+CUST00518,45-54,homeowner|home_chef|frequent_entertainer|diy_enthusiast,Eclectic,Pastels|Warm Earth Tones,Bright Natural,933.56,0.24
+CUST00519,45-54,eco_conscious|couple|family_with_kids,Eclectic|Industrial,Neutrals|Metallics,Dim Artificial,206.7,0.111
+CUST00520,25-34,family_with_kids|single,Eclectic|Modern,Blues,Dim Natural,519.02,0.07
+CUST00521,25-34,couple|eco_conscious|home_chef,Traditional,Natural Wood,Bright Natural,609.05,0.132
+CUST00522,65+,frequent_entertainer|eco_conscious,Bohemian|Minimalist|Mid-Century,Warm Earth Tones|Greens,Dim Artificial,513.54,0.098
+CUST00523,25-34,couple|home_chef|pet_owner,Traditional|Mid-Century,Metallics,Dim Artificial,1424.54,0.342
+CUST00524,45-54,single|frequent_entertainer,Coastal|Modern,Metallics|Warm Earth Tones,Bright Natural,586.99,0.179
+CUST00525,55-64,diy_enthusiast|pet_owner,Modern|Scandinavian,Black & White,Bright Natural,302.67,0.094
+CUST00526,65+,homeowner|couple|renter,Minimalist|Modern,Warm Earth Tones|Neutrals,Dim Natural,354.04,0.057
+CUST00527,45-54,eco_conscious|homeowner|single,Bohemian,Warm Earth Tones,Dim Natural,362.76,0.207
+CUST00528,25-34,home_chef|family_with_kids|renter|frequent_entertainer,Eclectic|Minimalist|Industrial,Jewel Tones,Dim Artificial,504.91,0.194
+CUST00529,65+,diy_enthusiast|homeowner|single,Modern|Mid-Century|Farmhouse,Monochrome,Dim Natural,242.97,0.116
+CUST00530,25-34,eco_conscious|pet_owner|frequent_entertainer,Industrial|Bohemian,Jewel Tones|Monochrome,Bright Artificial,1456.14,0.05
+CUST00531,35-44,pet_owner|eco_conscious|renter|family_with_kids,Eclectic|Traditional,Black & White|Neutrals,Dim Artificial,512.03,0.124
+CUST00532,55-64,eco_conscious|frequent_entertainer|couple,Scandinavian|Bohemian|Coastal,Metallics,Bright Natural,1421.29,0.091
+CUST00533,35-44,family_with_kids|couple|diy_enthusiast,Coastal|Modern,Greens,Mixed,795.7,0.1
+CUST00534,45-54,homeowner|frequent_entertainer|eco_conscious,Mid-Century|Farmhouse|Modern,Metallics,Dim Artificial,1426.61,0.125
+CUST00535,45-54,diy_enthusiast|eco_conscious|homeowner|renter,Eclectic|Traditional|Bohemian,Black & White|Greens,Bright Natural,662.09,0.123
+CUST00536,35-44,homeowner|frequent_entertainer|eco_conscious,Minimalist,Blues|Pastels,Bright Natural,1489.3,0.19
+CUST00537,25-34,diy_enthusiast|couple,Scandinavian,Greens|Metallics,Dim Natural,538.78,0.199
+CUST00538,45-54,homeowner|frequent_entertainer|family_with_kids|eco_conscious,Mid-Century,Natural Wood|Monochrome,Bright Natural,956.36,0.113
+CUST00539,65+,renter|homeowner|single,Scandinavian,Black & White,Mixed,483.19,0.123
+CUST00540,25-34,family_with_kids|eco_conscious|frequent_entertainer|couple,Modern|Mid-Century,Pastels,Bright Artificial,1385.68,0.541
+CUST00541,45-54,renter|family_with_kids|pet_owner,Modern|Minimalist,Black & White|Blues,Dim Artificial,483.12,0.102
+CUST00542,18-24,renter|diy_enthusiast|single|family_with_kids,Farmhouse|Minimalist,Natural Wood|Neutrals,Mixed,512.28,0.259
+CUST00543,55-64,renter|home_chef,Industrial|Modern|Scandinavian,Blues,Bright Artificial,300.01,0.047
+CUST00544,45-54,homeowner|pet_owner|renter|single,Scandinavian,Pastels,Bright Natural,598.08,0.127
+CUST00545,45-54,single|family_with_kids|diy_enthusiast|couple,Bohemian|Eclectic|Farmhouse,Pastels,Bright Natural,494.22,0.093
+CUST00546,35-44,frequent_entertainer|family_with_kids,Industrial|Bohemian,Natural Wood|Black & White,Bright Artificial,948.77,0.329
+CUST00547,35-44,home_chef|eco_conscious|diy_enthusiast|single,Traditional,Blues,Bright Natural,612.27,0.093
+CUST00548,25-34,renter|pet_owner|frequent_entertainer,Scandinavian|Mid-Century,Black & White|Metallics,Dim Artificial,614.99,0.08
+CUST00549,35-44,diy_enthusiast|single|pet_owner|eco_conscious,Bohemian|Scandinavian,Neutrals,Dim Natural,617.22,0.362
+CUST00550,45-54,eco_conscious|pet_owner|couple|diy_enthusiast,Minimalist|Mid-Century,Black & White|Natural Wood,Dim Natural,510.83,0.201
+CUST00551,65+,frequent_entertainer|renter,Mid-Century,Blues,Bright Natural,953.0,0.023
+CUST00552,25-34,family_with_kids|home_chef|diy_enthusiast|pet_owner,Industrial|Modern,Blues,Bright Natural,353.78,0.14
+CUST00553,45-54,single|eco_conscious|pet_owner,Coastal|Eclectic,Greens,Bright Artificial,529.53,0.149
+CUST00554,25-34,home_chef|eco_conscious|pet_owner,Coastal|Mid-Century,Metallics|Blues,Bright Natural,882.65,0.102
+CUST00555,45-54,diy_enthusiast|frequent_entertainer|couple|pet_owner,Farmhouse,Natural Wood|Jewel Tones,Mixed,512.12,0.221
+CUST00556,45-54,home_chef|eco_conscious|couple,Modern|Farmhouse,Natural Wood,Bright Artificial,393.65,0.171
+CUST00557,55-64,renter|pet_owner,Farmhouse,Metallics|Greens,Bright Artificial,325.35,0.074
+CUST00558,55-64,couple|homeowner,Scandinavian|Industrial,Black & White|Neutrals,Dim Natural,310.84,0.079
+CUST00559,25-34,homeowner|diy_enthusiast|renter,Traditional,Metallics,Bright Artificial,797.93,0.264
+CUST00560,35-44,family_with_kids|renter|pet_owner|diy_enthusiast,Coastal,Jewel Tones|Blues,Bright Artificial,208.07,0.131
+CUST00561,35-44,home_chef|frequent_entertainer,Bohemian|Minimalist|Farmhouse,Neutrals|Metallics,Dim Artificial,328.26,0.098
+CUST00562,18-24,renter|diy_enthusiast|home_chef|family_with_kids,Coastal,Warm Earth Tones,Dim Natural,837.08,0.091
+CUST00563,45-54,homeowner|renter|single,Mid-Century,Natural Wood,Bright Natural,358.66,0.047
+CUST00564,35-44,home_chef|frequent_entertainer|single|diy_enthusiast,Mid-Century|Minimalist|Eclectic,Metallics,Dim Artificial,606.57,0.427
+CUST00565,45-54,couple|pet_owner,Scandinavian|Industrial,Monochrome|Neutrals,Dim Natural,509.83,0.277
+CUST00566,45-54,eco_conscious|couple|single|frequent_entertainer,Coastal,Warm Earth Tones,Mixed,1495.12,0.243
+CUST00567,55-64,eco_conscious|pet_owner|home_chef|single,Coastal|Modern|Eclectic,Monochrome,Bright Natural,804.55,0.028
+CUST00568,45-54,family_with_kids|renter|single,Farmhouse,Black & White|Neutrals,Dim Natural,540.08,0.238
+CUST00569,45-54,diy_enthusiast|renter,Coastal|Modern|Bohemian,Neutrals,Bright Natural,331.13,0.2
+CUST00570,55-64,pet_owner|diy_enthusiast|couple,Modern|Farmhouse,Natural Wood|Neutrals,Dim Natural,557.46,0.188
+CUST00571,35-44,pet_owner|home_chef,Traditional|Scandinavian,Jewel Tones|Warm Earth Tones,Bright Artificial,641.82,0.123
+CUST00572,25-34,frequent_entertainer|eco_conscious|diy_enthusiast,Scandinavian,Metallics,Dim Artificial,622.22,0.182
+CUST00573,25-34,eco_conscious|home_chef,Eclectic|Modern|Mid-Century,Monochrome|Metallics,Dim Natural,748.45,0.394
+CUST00574,35-44,renter|family_with_kids|eco_conscious|diy_enthusiast,Minimalist|Eclectic,Natural Wood|Jewel Tones,Bright Artificial,386.01,0.081
+CUST00575,55-64,eco_conscious|family_with_kids,Coastal,Monochrome,Bright Artificial,130.3,0.106
+CUST00576,25-34,frequent_entertainer|diy_enthusiast|home_chef,Traditional|Eclectic,Black & White,Dim Artificial,1017.72,0.208
+CUST00577,35-44,eco_conscious|home_chef|frequent_entertainer|single,Bohemian,Greens|Black & White,Dim Artificial,1294.15,0.14
+CUST00578,35-44,diy_enthusiast|single,Coastal|Industrial|Mid-Century,Black & White|Blues,Dim Artificial,266.88,0.263
+CUST00579,35-44,pet_owner|family_with_kids,Modern|Farmhouse,Jewel Tones,Dim Artificial,471.57,0.085
+CUST00580,55-64,pet_owner|eco_conscious|single|homeowner,Mid-Century|Industrial,Metallics,Mixed,362.39,0.328
+CUST00581,45-54,eco_conscious|frequent_entertainer|diy_enthusiast|family_with_kids,Modern,Pastels,Bright Natural,1098.63,0.082
+CUST00582,55-64,single|renter|family_with_kids,Traditional,Jewel Tones|Blues,Bright Artificial,238.54,0.071
+CUST00583,65+,couple|renter,Minimalist,Blues,Dim Natural,269.92,0.03
+CUST00584,45-54,frequent_entertainer|renter|family_with_kids,Industrial|Eclectic|Farmhouse,Monochrome|Jewel Tones,Dim Natural,598.94,0.469
+CUST00585,55-64,frequent_entertainer|couple,Minimalist|Eclectic|Modern,Pastels,Bright Natural,696.07,0.106
+CUST00586,35-44,pet_owner|frequent_entertainer|home_chef,Industrial|Scandinavian,Neutrals|Warm Earth Tones,Dim Natural,1211.05,0.219
+CUST00587,55-64,frequent_entertainer|diy_enthusiast|pet_owner,Bohemian|Coastal|Modern,Neutrals,Dim Natural,821.28,0.118
+CUST00588,18-24,frequent_entertainer|couple|home_chef,Bohemian|Industrial|Scandinavian,Neutrals|Warm Earth Tones,Dim Natural,438.63,0.248
+CUST00589,18-24,homeowner|eco_conscious|family_with_kids,Eclectic|Minimalist,Warm Earth Tones,Mixed,571.94,0.154
+CUST00590,18-24,single|home_chef|frequent_entertainer,Mid-Century|Bohemian|Eclectic,Jewel Tones,Bright Natural,666.01,0.053
+CUST00591,25-34,homeowner|renter|diy_enthusiast|single,Minimalist,Greens,Dim Natural,335.65,0.139
+CUST00592,65+,diy_enthusiast|eco_conscious|single,Farmhouse,Metallics|Greens,Mixed,256.43,0.169
+CUST00593,65+,single|pet_owner|home_chef|homeowner,Modern,Neutrals,Dim Artificial,1174.53,0.124
+CUST00594,45-54,family_with_kids|home_chef|homeowner,Scandinavian|Mid-Century,Blues|Black & White,Mixed,1420.71,0.363
+CUST00595,35-44,eco_conscious|renter,Bohemian|Coastal|Scandinavian,Natural Wood,Dim Artificial,479.17,0.092
+CUST00596,35-44,renter|diy_enthusiast|family_with_kids|couple,Bohemian,Pastels,Dim Artificial,298.54,0.067
+CUST00597,35-44,home_chef|single|frequent_entertainer,Bohemian|Mid-Century|Minimalist,Natural Wood|Pastels,Mixed,819.65,0.219
+CUST00598,25-34,single|homeowner|home_chef|family_with_kids,Mid-Century,Pastels,Bright Natural,1060.48,0.547
+CUST00599,35-44,diy_enthusiast|frequent_entertainer|family_with_kids|single,Farmhouse|Minimalist,Neutrals|Natural Wood,Mixed,335.18,0.13
+CUST00600,25-34,home_chef|homeowner|single|renter,Mid-Century,Metallics|Neutrals,Bright Natural,677.66,0.091
+CUST00601,25-34,homeowner|diy_enthusiast|eco_conscious,Farmhouse|Modern,Natural Wood,Dim Artificial,508.9,0.532
+CUST00602,18-24,pet_owner|single,Eclectic|Bohemian,Pastels,Bright Natural,168.42,0.244
+CUST00603,25-34,single|eco_conscious|diy_enthusiast,Mid-Century,Metallics,Dim Artificial,739.21,0.318
+CUST00604,55-64,homeowner|home_chef,Mid-Century|Traditional,Black & White,Dim Artificial,1322.09,0.218
+CUST00605,35-44,eco_conscious|pet_owner,Minimalist|Modern|Industrial,Natural Wood,Bright Artificial,451.97,0.211
+CUST00606,25-34,home_chef|frequent_entertainer|single|diy_enthusiast,Industrial|Modern|Bohemian,Monochrome,Bright Natural,1067.06,0.093
+CUST00607,35-44,family_with_kids|home_chef,Farmhouse|Minimalist|Eclectic,Blues,Bright Artificial,836.04,0.034
+CUST00608,25-34,frequent_entertainer|couple|single,Bohemian|Scandinavian|Farmhouse,Jewel Tones,Mixed,1472.04,0.219
+CUST00609,35-44,family_with_kids|frequent_entertainer,Bohemian|Modern,Jewel Tones,Dim Natural,922.85,0.184
+CUST00610,35-44,pet_owner|frequent_entertainer|eco_conscious,Traditional,Neutrals|Monochrome,Mixed,1406.93,0.156
+CUST00611,45-54,homeowner|pet_owner,Traditional|Mid-Century,Black & White|Neutrals,Dim Natural,181.32,0.349
+CUST00612,65+,family_with_kids|home_chef|single,Industrial|Coastal|Mid-Century,Monochrome,Dim Artificial,955.1,0.05
+CUST00613,45-54,homeowner|couple|frequent_entertainer,Farmhouse|Bohemian|Mid-Century,Natural Wood|Blues,Bright Artificial,616.51,0.131
+CUST00614,45-54,pet_owner|family_with_kids|home_chef,Bohemian|Industrial,Blues|Greens,Bright Artificial,717.34,0.241
+CUST00615,25-34,couple|diy_enthusiast|renter|eco_conscious,Modern|Traditional|Coastal,Natural Wood,Bright Natural,531.26,0.02
+CUST00616,35-44,homeowner|family_with_kids,Bohemian|Scandinavian,Pastels,Bright Artificial,525.55,0.095
+CUST00617,25-34,pet_owner|family_with_kids|single|renter,Industrial|Traditional|Farmhouse,Blues,Bright Artificial,341.01,0.04
+CUST00618,35-44,home_chef|pet_owner|frequent_entertainer|renter,Traditional|Industrial,Greens|Jewel Tones,Bright Natural,1026.05,0.193
+CUST00619,55-64,single|couple,Eclectic|Scandinavian|Traditional,Greens|Metallics,Mixed,475.65,0.042
+CUST00620,35-44,couple|homeowner|renter,Traditional|Farmhouse,Monochrome|Jewel Tones,Dim Artificial,382.73,0.113
+CUST00621,65+,pet_owner|homeowner|family_with_kids|single,Mid-Century|Minimalist|Eclectic,Black & White,Bright Artificial,454.61,0.142
+CUST00622,35-44,renter|family_with_kids|homeowner|home_chef,Bohemian|Coastal,Warm Earth Tones|Pastels,Bright Natural,1366.58,0.029
+CUST00623,35-44,couple|family_with_kids,Traditional|Minimalist,Monochrome|Blues,Dim Artificial,216.74,0.158
+CUST00624,55-64,frequent_entertainer|pet_owner|couple,Mid-Century|Minimalist|Modern,Monochrome|Neutrals,Bright Natural,466.07,0.226
+CUST00625,35-44,pet_owner|couple|homeowner|home_chef,Coastal|Modern,Neutrals,Mixed,809.43,0.056
+CUST00626,35-44,family_with_kids|renter|pet_owner,Farmhouse|Minimalist,Monochrome,Bright Natural,205.68,0.148
+CUST00627,18-24,homeowner|couple|home_chef,Traditional,Jewel Tones|Neutrals,Mixed,1176.49,0.268
+CUST00628,65+,eco_conscious|pet_owner,Coastal|Farmhouse|Mid-Century,Greens|Monochrome,Dim Natural,116.41,0.155
+CUST00629,35-44,pet_owner|home_chef|homeowner,Coastal|Modern|Eclectic,Monochrome,Dim Natural,659.44,0.079
+CUST00630,35-44,family_with_kids|eco_conscious|home_chef,Coastal|Minimalist,Black & White,Dim Artificial,972.22,0.29
+CUST00631,18-24,single|homeowner,Coastal,Natural Wood|Pastels,Mixed,488.57,0.08
+CUST00632,45-54,eco_conscious|couple|diy_enthusiast,Coastal|Bohemian,Greens,Dim Artificial,768.17,0.087
+CUST00633,35-44,couple|family_with_kids,Eclectic|Farmhouse|Traditional,Jewel Tones,Mixed,248.04,0.133
+CUST00634,35-44,single|family_with_kids,Traditional,Pastels|Neutrals,Bright Natural,259.92,0.072
+CUST00635,25-34,family_with_kids|eco_conscious|single|frequent_entertainer,Minimalist,Black & White,Dim Natural,1093.49,0.192
+CUST00636,35-44,eco_conscious|home_chef|family_with_kids|single,Industrial|Eclectic|Coastal,Pastels,Dim Artificial,508.26,0.033
+CUST00637,25-34,renter|diy_enthusiast|family_with_kids,Bohemian|Mid-Century,Pastels|Natural Wood,Mixed,238.58,0.333
+CUST00638,35-44,homeowner|family_with_kids|single,Eclectic,Warm Earth Tones|Black & White,Dim Natural,474.72,0.024
+CUST00639,55-64,eco_conscious|homeowner,Farmhouse|Modern,Black & White|Neutrals,Mixed,231.74,0.058
+CUST00640,55-64,renter|couple|frequent_entertainer|homeowner,Mid-Century,Monochrome|Natural Wood,Dim Natural,972.49,0.225
+CUST00641,18-24,diy_enthusiast|homeowner|couple|pet_owner,Traditional|Farmhouse,Black & White|Greens,Bright Artificial,243.29,0.235
+CUST00642,35-44,eco_conscious|single,Bohemian|Industrial|Traditional,Metallics,Mixed,442.03,0.385
+CUST00643,25-34,single|frequent_entertainer,Modern,Pastels|Metallics,Dim Natural,1396.33,0.29
+CUST00644,55-64,frequent_entertainer|pet_owner,Eclectic|Industrial|Farmhouse,Natural Wood,Mixed,946.72,0.039
+CUST00645,35-44,pet_owner|homeowner,Modern,Pastels,Bright Artificial,117.6,0.058
+CUST00646,45-54,home_chef|single,Modern|Eclectic,Black & White,Bright Natural,1174.88,0.115
+CUST00647,18-24,family_with_kids|pet_owner|frequent_entertainer,Eclectic,Jewel Tones|Metallics,Bright Artificial,596.98,0.043
+CUST00648,55-64,single|pet_owner|diy_enthusiast,Farmhouse|Traditional|Modern,Jewel Tones,Bright Natural,495.88,0.094
+CUST00649,55-64,pet_owner|family_with_kids,Coastal|Mid-Century,Warm Earth Tones|Metallics,Dim Artificial,166.8,0.076
+CUST00650,55-64,renter|single|couple|home_chef,Traditional|Modern,Jewel Tones,Dim Artificial,1452.61,0.043
+CUST00651,35-44,family_with_kids|eco_conscious|pet_owner,Scandinavian|Mid-Century,Warm Earth Tones|Monochrome,Mixed,100.62,0.154
+CUST00652,45-54,couple|single|diy_enthusiast,Minimalist|Coastal|Bohemian,Greens|Blues,Mixed,751.38,0.174
+CUST00653,25-34,renter|diy_enthusiast,Scandinavian|Industrial,Jewel Tones|Neutrals,Bright Natural,522.16,0.446
+CUST00654,25-34,single|home_chef|pet_owner,Farmhouse,Natural Wood,Dim Natural,1027.91,0.368
+CUST00655,45-54,homeowner|family_with_kids|frequent_entertainer,Bohemian,Blues|Black & White,Dim Natural,1171.07,0.043
+CUST00656,25-34,family_with_kids|eco_conscious,Farmhouse,Warm Earth Tones,Mixed,485.31,0.482
+CUST00657,55-64,diy_enthusiast|couple|single,Coastal|Scandinavian,Greens,Bright Natural,632.74,0.091
+CUST00658,35-44,frequent_entertainer|renter|homeowner|pet_owner,Farmhouse|Mid-Century|Scandinavian,Neutrals,Mixed,1029.09,0.339
+CUST00659,45-54,couple|single|homeowner,Minimalist|Traditional,Metallics,Mixed,374.42,0.169
+CUST00660,65+,homeowner|frequent_entertainer|pet_owner|family_with_kids,Modern|Industrial|Coastal,Blues|Natural Wood,Bright Artificial,466.58,0.167
+CUST00661,65+,diy_enthusiast|family_with_kids|pet_owner,Industrial|Eclectic|Traditional,Monochrome|Jewel Tones,Mixed,389.56,0.174
+CUST00662,18-24,home_chef|frequent_entertainer|diy_enthusiast|single,Bohemian,Jewel Tones,Mixed,995.69,0.155
+CUST00663,65+,pet_owner|family_with_kids|frequent_entertainer,Industrial|Modern|Coastal,Natural Wood|Blues,Dim Artificial,812.39,0.113
+CUST00664,65+,family_with_kids|home_chef|couple,Mid-Century,Pastels|Jewel Tones,Dim Natural,1078.27,0.021
+CUST00665,35-44,single|diy_enthusiast|couple|frequent_entertainer,Mid-Century|Scandinavian|Eclectic,Jewel Tones,Bright Artificial,1413.42,0.23
+CUST00666,35-44,homeowner|couple|frequent_entertainer|pet_owner,Modern,Neutrals|Jewel Tones,Dim Natural,665.56,0.18
+CUST00667,45-54,frequent_entertainer|pet_owner,Industrial,Pastels|Warm Earth Tones,Dim Natural,717.33,0.241
+CUST00668,65+,pet_owner|couple,Industrial|Bohemian,Blues,Dim Artificial,164.78,0.121
+CUST00669,35-44,homeowner|eco_conscious|diy_enthusiast|pet_owner,Mid-Century|Minimalist|Farmhouse,Warm Earth Tones|Jewel Tones,Bright Natural,387.49,0.013
+CUST00670,55-64,homeowner|renter|family_with_kids,Modern|Farmhouse|Minimalist,Natural Wood|Monochrome,Bright Artificial,172.21,0.092
+CUST00671,55-64,single|diy_enthusiast|couple|frequent_entertainer,Traditional|Mid-Century,Metallics,Dim Natural,651.64,0.18
+CUST00672,25-34,homeowner|single|family_with_kids,Farmhouse,Monochrome|Jewel Tones,Bright Natural,216.09,0.082
+CUST00673,18-24,homeowner|home_chef|pet_owner,Eclectic|Modern|Industrial,Pastels|Jewel Tones,Dim Artificial,1258.01,0.252
+CUST00674,55-64,pet_owner|renter,Mid-Century|Industrial|Modern,Warm Earth Tones|Jewel Tones,Bright Natural,365.38,0.082
+CUST00675,45-54,renter|home_chef|homeowner|frequent_entertainer,Mid-Century|Farmhouse|Eclectic,Warm Earth Tones,Dim Natural,1208.71,0.189
+CUST00676,45-54,single|couple|family_with_kids|homeowner,Traditional|Farmhouse,Greens,Bright Natural,271.87,0.105
+CUST00677,45-54,family_with_kids|frequent_entertainer,Industrial,Metallics|Monochrome,Dim Natural,666.03,0.222
+CUST00678,55-64,pet_owner|diy_enthusiast,Eclectic|Industrial,Warm Earth Tones|Blues,Bright Natural,479.9,0.1
+CUST00679,45-54,homeowner|frequent_entertainer|pet_owner,Scandinavian|Coastal,Natural Wood|Metallics,Dim Artificial,1299.42,0.532
+CUST00680,25-34,single|homeowner,Farmhouse|Coastal|Scandinavian,Neutrals,Bright Artificial,186.73,0.154
+CUST00681,25-34,homeowner|diy_enthusiast|family_with_kids,Farmhouse|Scandinavian|Coastal,Metallics,Dim Natural,459.32,0.253
+CUST00682,55-64,frequent_entertainer|renter|diy_enthusiast,Modern,Neutrals,Bright Artificial,680.82,0.046
+CUST00683,45-54,family_with_kids|couple,Bohemian|Farmhouse|Coastal,Jewel Tones,Dim Artificial,334.1,0.197
+CUST00684,45-54,renter|diy_enthusiast|family_with_kids,Industrial|Bohemian|Scandinavian,Natural Wood,Dim Natural,669.43,0.135
+CUST00685,18-24,frequent_entertainer|family_with_kids|eco_conscious|diy_enthusiast,Coastal|Modern,Black & White,Bright Artificial,631.57,0.072
+CUST00686,65+,diy_enthusiast|renter|single,Farmhouse|Coastal|Mid-Century,Black & White|Jewel Tones,Mixed,594.91,0.163
+CUST00687,65+,homeowner|eco_conscious,Modern,Jewel Tones,Dim Artificial,342.85,0.077
+CUST00688,18-24,renter|diy_enthusiast,Eclectic|Modern,Black & White,Dim Artificial,701.89,0.311
+CUST00689,55-64,pet_owner|couple|eco_conscious|frequent_entertainer,Bohemian|Eclectic,Warm Earth Tones|Black & White,Dim Natural,951.21,0.136
+CUST00690,55-64,eco_conscious|frequent_entertainer|pet_owner,Scandinavian,Blues|Warm Earth Tones,Mixed,596.24,0.051
+CUST00691,18-24,renter|single,Scandinavian,Warm Earth Tones,Dim Natural,329.46,0.123
+CUST00692,65+,single|pet_owner,Coastal|Eclectic|Scandinavian,Jewel Tones|Neutrals,Bright Artificial,508.14,0.064
+CUST00693,55-64,homeowner|single|home_chef|diy_enthusiast,Industrial|Traditional|Coastal,Greens|Blues,Dim Artificial,568.85,0.13
+CUST00694,25-34,homeowner|couple|family_with_kids,Coastal,Monochrome|Neutrals,Bright Natural,375.97,0.067
+CUST00695,25-34,renter|family_with_kids|single|eco_conscious,Scandinavian|Farmhouse|Bohemian,Natural Wood,Dim Natural,226.13,0.072
+CUST00696,45-54,pet_owner|family_with_kids|renter,Industrial,Monochrome,Bright Artificial,268.77,0.041
+CUST00697,35-44,home_chef|homeowner|frequent_entertainer|eco_conscious,Bohemian|Mid-Century|Scandinavian,Monochrome,Dim Natural,1489.16,0.152
+CUST00698,25-34,pet_owner|homeowner|diy_enthusiast|renter,Traditional|Farmhouse,Monochrome,Bright Natural,668.0,0.247
+CUST00699,45-54,pet_owner|home_chef|family_with_kids|couple,Scandinavian,Jewel Tones|Pastels,Dim Natural,916.1,0.34
+CUST00700,45-54,couple|family_with_kids|renter,Bohemian|Coastal|Industrial,Jewel Tones|Black & White,Bright Artificial,114.51,0.053
+CUST00701,18-24,family_with_kids|frequent_entertainer,Coastal,Monochrome,Dim Natural,347.7,0.713
+CUST00702,65+,family_with_kids|couple|diy_enthusiast|single,Farmhouse,Pastels,Dim Natural,534.11,0.319
+CUST00703,35-44,couple|eco_conscious|pet_owner,Industrial|Traditional,Natural Wood,Bright Natural,132.87,0.044
+CUST00704,18-24,couple|family_with_kids|diy_enthusiast|single,Modern|Eclectic|Mid-Century,Metallics,Mixed,497.11,0.422
+CUST00705,55-64,renter|single|family_with_kids|eco_conscious,Industrial|Mid-Century|Scandinavian,Pastels|Natural Wood,Bright Artificial,327.84,0.027
+CUST00706,45-54,pet_owner|home_chef,Industrial|Coastal|Mid-Century,Black & White|Natural Wood,Dim Natural,900.48,0.073
+CUST00707,65+,couple|pet_owner|frequent_entertainer,Modern,Neutrals|Pastels,Dim Natural,361.74,0.024
+CUST00708,45-54,homeowner|single|frequent_entertainer,Minimalist|Farmhouse|Modern,Blues,Bright Artificial,557.53,0.031
+CUST00709,25-34,renter|couple,Eclectic|Bohemian|Mid-Century,Neutrals|Pastels,Mixed,339.15,0.174
+CUST00710,35-44,family_with_kids|home_chef,Eclectic|Minimalist|Scandinavian,Greens|Blues,Mixed,514.27,0.137
+CUST00711,25-34,renter|pet_owner|eco_conscious,Traditional,Pastels|Blues,Dim Artificial,568.64,0.097
+CUST00712,25-34,homeowner|diy_enthusiast|eco_conscious,Bohemian,Metallics,Bright Natural,361.9,0.132
+CUST00713,35-44,family_with_kids|diy_enthusiast|home_chef|renter,Minimalist,Pastels,Bright Natural,885.77,0.063
+CUST00714,35-44,home_chef|frequent_entertainer,Traditional,Black & White,Dim Natural,1314.49,0.224
+CUST00715,55-64,diy_enthusiast|eco_conscious|couple|pet_owner,Traditional|Industrial|Coastal,Jewel Tones,Bright Artificial,606.72,0.081
+CUST00716,55-64,renter|home_chef|homeowner|family_with_kids,Traditional|Coastal|Industrial,Metallics,Bright Natural,388.96,0.179
+CUST00717,25-34,couple|single,Minimalist,Pastels|Metallics,Mixed,421.7,0.188
+CUST00718,55-64,renter|single|pet_owner|homeowner,Traditional,Greens|Monochrome,Dim Artificial,520.55,0.439
+CUST00719,25-34,home_chef|renter,Minimalist|Bohemian|Farmhouse,Blues,Mixed,478.54,0.189
+CUST00720,35-44,single|homeowner|family_with_kids,Traditional|Farmhouse,Monochrome,Dim Artificial,577.02,0.14
+CUST00721,18-24,home_chef|single,Scandinavian,Monochrome|Black & White,Bright Artificial,1126.56,0.026
+CUST00722,35-44,couple|eco_conscious|single,Scandinavian,Black & White|Metallics,Bright Natural,345.84,0.233
+CUST00723,18-24,frequent_entertainer|eco_conscious|renter,Mid-Century|Farmhouse,Pastels|Metallics,Bright Artificial,324.25,0.129
+CUST00724,25-34,home_chef|renter,Eclectic|Bohemian|Minimalist,Blues|Greens,Bright Natural,594.16,0.106
+CUST00725,18-24,single|eco_conscious,Traditional|Minimalist,Monochrome|Metallics,Dim Artificial,255.89,0.113
+CUST00726,25-34,pet_owner|frequent_entertainer|homeowner|home_chef,Industrial|Modern,Metallics|Black & White,Mixed,1416.49,0.198
+CUST00727,25-34,home_chef|eco_conscious|pet_owner|homeowner,Modern|Traditional|Coastal,Pastels,Dim Natural,657.56,0.511
+CUST00728,35-44,couple|family_with_kids|single|renter,Bohemian|Modern|Coastal,Metallics,Mixed,247.68,0.126
+CUST00729,35-44,family_with_kids|diy_enthusiast|renter,Coastal|Farmhouse|Bohemian,Greens|Metallics,Dim Artificial,354.5,0.099
+CUST00730,18-24,pet_owner|diy_enthusiast|frequent_entertainer,Mid-Century|Industrial|Minimalist,Blues,Dim Artificial,1440.25,0.068
+CUST00731,18-24,diy_enthusiast|frequent_entertainer,Traditional|Industrial|Scandinavian,Warm Earth Tones|Black & White,Bright Artificial,326.58,0.2
+CUST00732,35-44,single|pet_owner|homeowner|eco_conscious,Bohemian,Blues,Dim Artificial,110.17,0.325
+CUST00733,18-24,home_chef|family_with_kids|couple|single,Farmhouse,Black & White|Blues,Bright Natural,649.78,0.139
+CUST00734,35-44,family_with_kids|diy_enthusiast|couple|renter,Minimalist|Eclectic,Black & White|Jewel Tones,Dim Artificial,388.48,0.31
+CUST00735,45-54,renter|diy_enthusiast|family_with_kids|couple,Modern,Black & White,Dim Artificial,493.11,0.081
+CUST00736,45-54,renter|home_chef|single|diy_enthusiast,Eclectic,Warm Earth Tones|Black & White,Dim Artificial,1405.76,0.588
+CUST00737,25-34,pet_owner|family_with_kids,Coastal|Mid-Century,Blues|Greens,Bright Artificial,262.11,0.2
+CUST00738,35-44,diy_enthusiast|single|home_chef|pet_owner,Industrial|Bohemian|Traditional,Metallics,Bright Natural,1154.04,0.146
+CUST00739,25-34,home_chef|frequent_entertainer|family_with_kids,Mid-Century|Eclectic|Coastal,Monochrome|Black & White,Dim Artificial,388.12,0.42
+CUST00740,25-34,family_with_kids|diy_enthusiast,Bohemian|Mid-Century|Scandinavian,Black & White|Greens,Bright Artificial,784.4,0.066
+CUST00741,25-34,family_with_kids|renter|couple|single,Mid-Century,Neutrals|Black & White,Bright Artificial,229.24,0.205
+CUST00742,25-34,pet_owner|family_with_kids|frequent_entertainer,Minimalist|Eclectic,Monochrome,Dim Artificial,1099.35,0.458
+CUST00743,55-64,home_chef|pet_owner|family_with_kids|homeowner,Coastal|Mid-Century,Jewel Tones,Bright Artificial,1270.04,0.073
+CUST00744,25-34,home_chef|diy_enthusiast|single,Mid-Century|Traditional,Warm Earth Tones|Natural Wood,Mixed,962.11,0.457
+CUST00745,45-54,eco_conscious|pet_owner|renter,Modern|Scandinavian|Minimalist,Blues|Black & White,Dim Natural,377.87,0.116
+CUST00746,35-44,single|diy_enthusiast,Modern|Industrial,Jewel Tones|Neutrals,Mixed,233.44,0.145
+CUST00747,35-44,eco_conscious|homeowner,Eclectic|Modern|Farmhouse,Black & White,Bright Artificial,280.14,0.017
+CUST00748,18-24,diy_enthusiast|single|homeowner,Modern|Mid-Century,Warm Earth Tones|Natural Wood,Bright Natural,764.43,0.099
+CUST00749,45-54,frequent_entertainer|single,Bohemian|Farmhouse|Scandinavian,Jewel Tones|Metallics,Mixed,590.59,0.469
+CUST00750,45-54,eco_conscious|homeowner,Farmhouse|Eclectic,Greens,Mixed,140.21,0.277
+CUST00751,35-44,diy_enthusiast|family_with_kids|frequent_entertainer,Minimalist|Bohemian|Industrial,Blues|Warm Earth Tones,Mixed,713.64,0.168
+CUST00752,25-34,eco_conscious|couple,Eclectic|Mid-Century,Greens,Bright Artificial,485.55,0.376
+CUST00753,65+,family_with_kids|renter|diy_enthusiast|frequent_entertainer,Industrial|Bohemian,Metallics,Dim Natural,1349.61,0.019
+CUST00754,45-54,home_chef|couple|frequent_entertainer,Minimalist|Eclectic,Greens|Jewel Tones,Mixed,524.73,0.558
+CUST00755,35-44,homeowner|renter,Scandinavian|Mid-Century,Monochrome,Dim Natural,235.07,0.385
+CUST00756,55-64,homeowner|eco_conscious|frequent_entertainer,Eclectic|Bohemian|Modern,Black & White,Bright Artificial,1441.3,0.101
+CUST00757,18-24,single|diy_enthusiast,Bohemian|Scandinavian,Natural Wood|Metallics,Dim Natural,308.26,0.157
+CUST00758,25-34,single|eco_conscious|family_with_kids|pet_owner,Eclectic|Bohemian,Monochrome|Jewel Tones,Dim Natural,446.43,0.197
+CUST00759,65+,home_chef|homeowner|couple,Traditional,Jewel Tones|Metallics,Dim Natural,982.3,0.331
+CUST00760,35-44,couple|single,Farmhouse|Coastal|Modern,Pastels|Neutrals,Mixed,486.97,0.05
+CUST00761,35-44,renter|diy_enthusiast,Scandinavian|Modern,Jewel Tones|Blues,Mixed,414.55,0.22
+CUST00762,18-24,pet_owner|couple,Modern,Blues|Pastels,Dim Natural,406.7,0.289
+CUST00763,25-34,frequent_entertainer|single|family_with_kids,Industrial|Minimalist,Black & White,Dim Artificial,993.86,0.442
+CUST00764,45-54,renter|eco_conscious,Scandinavian|Eclectic,Blues|Monochrome,Dim Natural,102.73,0.044
+CUST00765,65+,diy_enthusiast|homeowner|frequent_entertainer,Eclectic,Metallics|Pastels,Bright Artificial,936.21,0.111
+CUST00766,18-24,diy_enthusiast|home_chef|pet_owner,Bohemian,Warm Earth Tones|Neutrals,Mixed,400.86,0.283
+CUST00767,35-44,single|family_with_kids|home_chef|eco_conscious,Minimalist|Industrial|Bohemian,Neutrals|Metallics,Dim Natural,434.52,0.094
+CUST00768,45-54,single|family_with_kids|pet_owner|renter,Bohemian,Neutrals,Bright Natural,507.73,0.107
+CUST00769,25-34,frequent_entertainer|pet_owner|home_chef|single,Coastal,Natural Wood|Pastels,Dim Natural,600.18,0.182
+CUST00770,45-54,renter|diy_enthusiast|family_with_kids|eco_conscious,Eclectic,Jewel Tones|Pastels,Bright Artificial,202.02,0.04
+CUST00771,55-64,frequent_entertainer|family_with_kids,Farmhouse,Blues|Warm Earth Tones,Dim Natural,403.04,0.055
+CUST00772,35-44,single|pet_owner,Minimalist,Warm Earth Tones|Natural Wood,Bright Artificial,366.64,0.102
+CUST00773,25-34,home_chef|couple|eco_conscious|single,Traditional|Farmhouse|Mid-Century,Blues|Jewel Tones,Mixed,970.73,0.124
+CUST00774,65+,family_with_kids|diy_enthusiast|home_chef,Scandinavian|Farmhouse,Metallics,Dim Natural,566.46,0.135
+CUST00775,25-34,diy_enthusiast|homeowner|pet_owner,Eclectic|Mid-Century,Black & White,Bright Natural,500.93,0.11
+CUST00776,45-54,diy_enthusiast|family_with_kids|eco_conscious,Mid-Century,Warm Earth Tones|Greens,Bright Artificial,397.65,0.04
+CUST00777,55-64,eco_conscious|couple|renter,Mid-Century|Traditional|Scandinavian,Black & White|Blues,Dim Natural,159.53,0.057
+CUST00778,25-34,homeowner|couple,Mid-Century|Scandinavian,Greens,Bright Artificial,390.89,0.423
+CUST00779,65+,couple|frequent_entertainer,Bohemian,Natural Wood|Metallics,Bright Natural,1086.11,0.133
+CUST00780,18-24,renter|frequent_entertainer,Minimalist|Eclectic,Blues,Mixed,1401.23,0.109
+CUST00781,35-44,diy_enthusiast|pet_owner,Industrial|Traditional|Farmhouse,Black & White|Natural Wood,Dim Natural,730.4,0.062
+CUST00782,25-34,homeowner|couple|home_chef,Modern|Industrial|Mid-Century,Black & White,Bright Natural,1450.31,0.085
+CUST00783,18-24,pet_owner|home_chef,Bohemian,Natural Wood|Metallics,Bright Artificial,1271.79,0.061
+CUST00784,35-44,family_with_kids|couple,Farmhouse,Jewel Tones,Bright Artificial,108.76,0.122
+CUST00785,65+,single|homeowner|pet_owner|renter,Eclectic|Farmhouse|Scandinavian,Black & White|Blues,Bright Artificial,164.52,0.075
+CUST00786,25-34,pet_owner|homeowner|single|family_with_kids,Eclectic|Modern|Scandinavian,Natural Wood,Bright Artificial,429.76,0.114
+CUST00787,25-34,homeowner|eco_conscious,Traditional|Industrial,Greens,Bright Artificial,566.42,0.271
+CUST00788,25-34,single|eco_conscious|homeowner|pet_owner,Coastal|Modern|Traditional,Jewel Tones,Mixed,262.66,0.273
+CUST00789,25-34,single|renter|frequent_entertainer,Eclectic|Bohemian,Jewel Tones,Bright Natural,1485.47,0.281
+CUST00790,45-54,diy_enthusiast|frequent_entertainer,Scandinavian|Industrial,Pastels,Bright Natural,481.48,0.056
+CUST00791,55-64,homeowner|home_chef|eco_conscious|couple,Modern,Greens,Dim Natural,703.27,0.156
+CUST00792,25-34,pet_owner|diy_enthusiast|renter|couple,Modern|Farmhouse|Coastal,Warm Earth Tones,Bright Natural,215.87,0.145
+CUST00793,25-34,family_with_kids|diy_enthusiast|pet_owner,Industrial,Metallics|Blues,Bright Artificial,476.36,0.358
+CUST00794,35-44,homeowner|home_chef|family_with_kids,Scandinavian|Mid-Century|Traditional,Monochrome|Black & White,Dim Natural,1480.98,0.086
+CUST00795,25-34,single|diy_enthusiast|frequent_entertainer|eco_conscious,Modern|Minimalist|Traditional,Pastels|Greens,Dim Natural,966.51,0.108
+CUST00796,35-44,pet_owner|frequent_entertainer,Industrial|Coastal,Jewel Tones|Warm Earth Tones,Mixed,389.32,0.029
+CUST00797,18-24,single|frequent_entertainer|renter|home_chef,Eclectic|Bohemian|Minimalist,Black & White,Mixed,724.56,0.049
+CUST00798,35-44,couple|diy_enthusiast|single,Industrial|Minimalist|Modern,Jewel Tones|Pastels,Bright Natural,746.86,0.052
+CUST00799,55-64,homeowner|home_chef|eco_conscious,Minimalist|Farmhouse|Modern,Pastels,Mixed,1466.25,0.142
+CUST00800,65+,eco_conscious|couple,Scandinavian,Warm Earth Tones|Greens,Bright Artificial,125.52,0.069

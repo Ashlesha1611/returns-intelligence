@@ -1,0 +1,18 @@
+tag_id,tag_name,tag_type
+1,too dark,issue
+2,too light,issue
+3,color mismatch,issue
+4,damaged in shipping,issue
+5,low durability,issue
+6,difficult assembly,issue
+7,missing parts,issue
+8,uncomfortable,issue
+9,poor quality materials,issue
+10,late delivery,issue
+11,defective,issue
+20,high quality,feature
+21,great value,feature
+22,beautiful finish,feature
+23,sturdy construction,feature
+24,easy to assemble,feature
+25,pet friendly,feature
