@@ -1,0 +1,421 @@
+ticket_id,customer_id,sku_id,order_id,issue_type,issue_text,resolution_status,created_at,Resolved_at
+TICK00000001,CUST00001,SKU00293,ORD0000002,Quality Complaint,Weld on metal frame has cracked.,In Progress,2025-03-23 10:27:21.000000,2025-03-30 10:27:21.000000
+TICK00000002,CUST00007,SKU00167,ORD0000024,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Closed,2026-04-03 12:52:52.000000,2026-04-04 12:52:52.000000
+TICK00000003,CUST00008,SKU00105,ORD0000029,Return Status Inquiry,Was promised full refund but only got partial amount.,Resolved,2025-02-11 05:06:58.000000,2025-02-17 05:06:58.000000
+TICK00000004,CUST00011,SKU00273,ORD0000036,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",In Progress,2024-12-21 20:47:00.000000,2024-12-22 20:47:00.000000
+TICK00000005,CUST00015,SKU00363,ORD0000045,Quality Complaint,Strong chemical odor that still hasn't gone away.,In Progress,2024-09-29 14:32:30.000000,
+TICK00000006,CUST00016,SKU00084,ORD0000048,Quality Complaint,Weld on metal frame has cracked.,In Progress,2025-09-25 10:58:16.000000,2025-10-02 10:58:16.000000
+TICK00000007,CUST00023,SKU00299,ORD0000065,Product Damage Report,Huge scratch across entire top surface.,In Progress,2026-01-13 04:18:42.000000,
+TICK00000008,CUST00027,SKU00240,ORD0000077,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,In Progress,2026-01-16 13:10:41.000000,2026-01-22 13:10:41.000000
+TICK00000009,CUST00028,SKU00321,ORD0000083,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,In Progress,2024-11-17 16:03:01.000000,
+TICK00000010,CUST00030,SKU00044,ORD0000087,Return Status Inquiry,Was promised full refund but only got partial amount.,Closed,2024-07-25 09:28:47.000000,2024-07-27 09:28:47.000000
+TICK00000011,CUST00039,SKU00137,ORD0000106,Return Status Inquiry,Was promised full refund but only got partial amount.,In Progress,2025-09-13 02:20:30.000000,2025-09-14 02:20:30.000000
+TICK00000012,CUST00046,SKU00280,ORD0000127,Quality Complaint,Finish is already peeling off after 2 months.,Closed,2024-09-01 03:10:36.000000,
+TICK00000013,CUST00050,SKU00236,ORD0000134,Return Status Inquiry,Return portal won't let me process - says outside window.,Open,2025-01-21 22:30:22.000000,2025-01-25 22:30:22.000000
+TICK00000014,CUST00053,SKU00062,ORD0000148,Return Status Inquiry,Was promised full refund but only got partial amount.,Resolved,2025-10-31 23:08:48.000000,2025-11-06 23:08:48.000000
+TICK00000015,CUST00059,SKU00088,ORD0000160,Product Damage Report,Huge scratch across entire top surface.,Closed,2024-09-29 11:25:56.000000,2024-10-03 11:25:56.000000
+TICK00000016,CUST00060,SKU00333,ORD0000167,Product Damage Report,Upholstery has tear along the back seam.,Closed,2025-08-12 10:53:24.000000,2025-08-13 10:53:24.000000
+TICK00000017,CUST00062,SKU00410,ORD0000176,Product Damage Report,Huge scratch across entire top surface.,Resolved,2024-12-30 15:54:55.000000,
+TICK00000018,CUST00064,SKU00130,ORD0000187,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Closed,2025-09-25 21:36:51.000000,2025-10-01 21:36:51.000000
+TICK00000019,CUST00064,SKU00185,ORD0000189,Product Damage Report,Just opened box and glass is completely shattered.,Open,2025-10-11 12:33:10.000000,2025-10-13 12:33:10.000000
+TICK00000020,CUST00066,SKU00207,ORD0000193,Product Damage Report,Just opened box and glass is completely shattered.,Closed,2025-08-16 12:27:39.000000,
+TICK00000021,CUST00074,SKU00151,ORD0000214,Return Status Inquiry,Return portal won't let me process - says outside window.,In Progress,2025-05-26 11:24:19.000000,2025-05-29 11:24:19.000000
+TICK00000022,CUST00074,SKU00372,ORD0000218,Product Damage Report,Corner of table is crushed - box was damaged.,Closed,2026-01-11 17:24:30.000000,2026-01-15 17:24:30.000000
+TICK00000023,CUST00076,SKU00151,ORD0000221,Quality Complaint,Fabric is pilling badly after a few weeks.,Resolved,2025-09-11 04:17:58.000000,2025-09-13 04:17:58.000000
+TICK00000024,CUST00076,SKU00025,ORD0000224,Return Status Inquiry,Return portal won't let me process - says outside window.,In Progress,2025-06-02 19:09:11.000000,2025-06-04 19:09:11.000000
+TICK00000025,CUST00077,SKU00216,ORD0000227,Product Damage Report,Huge scratch across entire top surface.,Resolved,2025-08-18 10:17:22.000000,2025-08-19 10:17:22.000000
+TICK00000026,CUST00079,SKU00215,ORD0000231,Product Damage Report,Huge scratch across entire top surface.,Closed,2025-11-19 20:39:40.000000,2025-11-24 20:39:40.000000
+TICK00000027,CUST00081,SKU00170,ORD0000236,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Open,2026-01-22 21:51:12.000000,2026-01-23 21:51:12.000000
+TICK00000028,CUST00082,SKU00270,ORD0000239,Quality Complaint,Strong chemical odor that still hasn't gone away.,Open,2024-05-20 09:45:13.000000,
+TICK00000029,CUST00089,SKU00338,ORD0000256,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Resolved,2025-05-19 10:17:23.000000,
+TICK00000030,CUST00090,SKU00234,ORD0000258,Quality Complaint,Finish is already peeling off after 2 months.,Open,2024-10-30 22:37:51.000000,
+TICK00000031,CUST00092,SKU00185,ORD0000268,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,In Progress,2024-07-23 05:21:45.000000,2024-07-30 05:21:45.000000
+TICK00000032,CUST00095,SKU00381,ORD0000274,Quality Complaint,Fabric is pilling badly after a few weeks.,Open,2025-10-27 23:10:01.000000,2025-10-28 23:10:01.000000
+TICK00000033,CUST00097,SKU00176,ORD0000282,Quality Complaint,Fabric is pilling badly after a few weeks.,Closed,2024-08-09 16:43:10.000000,2024-08-13 16:43:10.000000
+TICK00000034,CUST00097,SKU00069,ORD0000282,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Open,2024-07-25 16:43:10.000000,2024-07-27 16:43:10.000000
+TICK00000035,CUST00097,SKU00276,ORD0000283,Quality Complaint,Strong chemical odor that still hasn't gone away.,Open,2025-04-04 23:29:47.000000,2025-04-06 23:29:47.000000
+TICK00000036,CUST00098,SKU00020,ORD0000285,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Resolved,2025-12-26 21:55:10.000000,
+TICK00000037,CUST00098,SKU00270,ORD0000286,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Resolved,2025-04-19 08:00:32.000000,2025-04-21 08:00:32.000000
+TICK00000038,CUST00100,SKU00192,ORD0000290,Product Damage Report,Corner of table is crushed - box was damaged.,Open,2025-08-04 22:28:01.000000,2025-08-07 22:28:01.000000
+TICK00000039,CUST00104,SKU00095,ORD0000304,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Open,2025-04-14 18:51:48.000000,
+TICK00000040,CUST00113,SKU00040,ORD0000329,Return Status Inquiry,Was promised full refund but only got partial amount.,In Progress,2024-11-18 11:34:05.000000,2024-11-19 11:34:05.000000
+TICK00000041,CUST00116,SKU00250,ORD0000335,Quality Complaint,Strong chemical odor that still hasn't gone away.,Resolved,2024-08-11 21:54:39.000000,2024-08-16 21:54:39.000000
+TICK00000042,CUST00119,SKU00325,ORD0000347,Return Status Inquiry,Was promised full refund but only got partial amount.,Resolved,2025-06-21 21:26:10.000000,2025-06-25 21:26:10.000000
+TICK00000043,CUST00123,SKU00276,ORD0000352,Return Status Inquiry,Return portal won't let me process - says outside window.,Resolved,2026-01-24 08:38:53.000000,
+TICK00000044,CUST00124,SKU00028,ORD0000357,Quality Complaint,Weld on metal frame has cracked.,In Progress,2025-07-22 02:27:38.000000,2025-07-24 02:27:38.000000
+TICK00000045,CUST00128,SKU00079,ORD0000367,Return Status Inquiry,Was promised full refund but only got partial amount.,In Progress,2025-01-26 15:41:26.000000,2025-01-30 15:41:26.000000
+TICK00000046,CUST00130,SKU00406,ORD0000372,Return Status Inquiry,Was promised full refund but only got partial amount.,Closed,2026-03-24 23:50:03.000000,2026-03-27 23:50:03.000000
+TICK00000047,CUST00136,SKU00375,ORD0000388,Return Status Inquiry,Was promised full refund but only got partial amount.,Closed,2024-05-22 23:29:35.000000,
+TICK00000048,CUST00142,SKU00384,ORD0000412,Quality Complaint,Strong chemical odor that still hasn't gone away.,Closed,2025-03-19 08:21:09.000000,
+TICK00000049,CUST00143,SKU00092,ORD0000416,Return Status Inquiry,Return portal won't let me process - says outside window.,Open,2024-09-20 14:06:21.000000,2024-09-24 14:06:21.000000
+TICK00000050,CUST00143,SKU00114,ORD0000416,Product Damage Report,Upholstery has tear along the back seam.,In Progress,2024-09-07 14:06:21.000000,
+TICK00000051,CUST00145,SKU00088,ORD0000425,Return Status Inquiry,Was promised full refund but only got partial amount.,Resolved,2025-12-07 16:46:53.000000,
+TICK00000052,CUST00146,SKU00413,ORD0000430,Return Status Inquiry,Was promised full refund but only got partial amount.,Resolved,2026-02-03 14:37:26.000000,
+TICK00000053,CUST00148,SKU00216,ORD0000436,Return Status Inquiry,Return portal won't let me process - says outside window.,Closed,2024-05-09 11:45:43.000000,
+TICK00000054,CUST00149,SKU00355,ORD0000439,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Open,2024-06-02 21:22:38.000000,
+TICK00000055,CUST00153,SKU00404,ORD0000450,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Closed,2024-09-28 06:47:01.000000,
+TICK00000056,CUST00154,SKU00305,ORD0000452,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Resolved,2024-05-05 06:20:32.000000,2024-05-11 06:20:32.000000
+TICK00000057,CUST00159,SKU00214,ORD0000465,Return Status Inquiry,Was promised full refund but only got partial amount.,In Progress,2025-12-16 02:26:53.000000,
+TICK00000058,CUST00159,SKU00115,ORD0000468,Return Status Inquiry,Was promised full refund but only got partial amount.,In Progress,2025-08-14 01:05:23.000000,2025-08-15 01:05:23.000000
+TICK00000059,CUST00159,SKU00213,ORD0000470,Return Status Inquiry,Was promised full refund but only got partial amount.,Resolved,2025-11-26 08:46:33.000000,2025-12-03 08:46:33.000000
+TICK00000060,CUST00160,SKU00202,ORD0000471,Quality Complaint,Strong chemical odor that still hasn't gone away.,In Progress,2025-11-03 09:34:50.000000,2025-11-10 09:34:50.000000
+TICK00000061,CUST00161,SKU00009,ORD0000477,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Resolved,2024-07-24 09:32:17.000000,2024-07-29 09:32:17.000000
+TICK00000062,CUST00162,SKU00302,ORD0000479,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Closed,2024-05-02 09:06:42.000000,2024-05-09 09:06:42.000000
+TICK00000063,CUST00166,SKU00206,ORD0000488,Quality Complaint,Weld on metal frame has cracked.,Open,2024-09-15 11:33:59.000000,2024-09-18 11:33:59.000000
+TICK00000064,CUST00168,SKU00109,ORD0000497,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",In Progress,2025-12-17 10:31:07.000000,2025-12-20 10:31:07.000000
+TICK00000065,CUST00173,SKU00246,ORD0000506,Return Status Inquiry,Was promised full refund but only got partial amount.,Closed,2026-01-01 07:48:42.000000,2026-01-03 07:48:42.000000
+TICK00000066,CUST00175,SKU00339,ORD0000509,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Closed,2025-06-16 05:31:21.000000,
+TICK00000067,CUST00177,SKU00293,ORD0000514,Return Status Inquiry,Was promised full refund but only got partial amount.,In Progress,2025-05-24 10:13:26.000000,2025-05-31 10:13:26.000000
+TICK00000068,CUST00180,SKU00053,ORD0000520,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Open,2026-02-02 03:47:26.000000,2026-02-08 03:47:26.000000
+TICK00000069,CUST00181,SKU00314,ORD0000523,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",In Progress,2025-03-27 03:53:35.000000,2025-04-02 03:53:35.000000
+TICK00000070,CUST00181,SKU00066,ORD0000526,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Closed,2026-03-22 22:35:39.000000,
+TICK00000071,CUST00188,SKU00236,ORD0000544,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",In Progress,2025-03-26 18:07:42.000000,
+TICK00000072,CUST00193,SKU00156,ORD0000557,Quality Complaint,Strong chemical odor that still hasn't gone away.,Resolved,2025-03-27 13:59:23.000000,2025-04-03 13:59:23.000000
+TICK00000073,CUST00195,SKU00203,ORD0000562,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",In Progress,2025-07-30 11:50:20.000000,2025-08-05 11:50:20.000000
+TICK00000074,CUST00196,SKU00097,ORD0000568,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Closed,2026-02-04 09:20:31.000000,2026-02-07 09:20:31.000000
+TICK00000075,CUST00197,SKU00157,ORD0000571,Return Status Inquiry,Return portal won't let me process - says outside window.,Open,2025-05-19 03:01:15.000000,2025-05-25 03:01:15.000000
+TICK00000076,CUST00198,SKU00026,ORD0000573,Product Damage Report,Huge scratch across entire top surface.,In Progress,2025-01-17 00:50:53.000000,2025-01-20 00:50:53.000000
+TICK00000077,CUST00199,SKU00381,ORD0000580,Product Damage Report,Upholstery has tear along the back seam.,Closed,2025-10-15 01:26:37.000000,2025-10-16 01:26:37.000000
+TICK00000078,CUST00200,SKU00322,ORD0000582,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Open,2024-12-06 00:27:03.000000,2024-12-10 00:27:03.000000
+TICK00000079,CUST00200,SKU00161,ORD0000583,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Resolved,2025-07-03 03:07:37.000000,
+TICK00000080,CUST00201,SKU00408,ORD0000586,Return Status Inquiry,Was promised full refund but only got partial amount.,Resolved,2024-09-15 19:58:52.000000,2024-09-16 19:58:52.000000
+TICK00000081,CUST00202,SKU00215,ORD0000588,Product Damage Report,Huge scratch across entire top surface.,Closed,2024-11-01 21:38:03.000000,2024-11-02 21:38:03.000000
+TICK00000082,CUST00206,SKU00001,ORD0000599,Product Damage Report,Upholstery has tear along the back seam.,In Progress,2025-05-16 16:00:15.000000,2025-05-18 16:00:15.000000
+TICK00000083,CUST00216,SKU00307,ORD0000628,Return Status Inquiry,Was promised full refund but only got partial amount.,In Progress,2024-07-23 03:37:12.000000,2024-07-28 03:37:12.000000
+TICK00000084,CUST00237,SKU00156,ORD0000694,Return Status Inquiry,Return portal won't let me process - says outside window.,In Progress,2025-10-16 14:48:21.000000,2025-10-23 14:48:21.000000
+TICK00000085,CUST00237,SKU00393,ORD0000696,Product Damage Report,Upholstery has tear along the back seam.,In Progress,2024-08-19 06:49:40.000000,2024-08-22 06:49:40.000000
+TICK00000086,CUST00239,SKU00209,ORD0000703,Product Damage Report,Huge scratch across entire top surface.,Closed,2024-07-20 10:31:42.000000,2024-07-22 10:31:42.000000
+TICK00000087,CUST00239,SKU00017,ORD0000705,Return Status Inquiry,Return portal won't let me process - says outside window.,Resolved,2025-12-07 04:41:24.000000,
+TICK00000088,CUST00241,SKU00327,ORD0000709,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Open,2025-12-31 14:54:31.000000,2026-01-02 14:54:31.000000
+TICK00000089,CUST00242,SKU00340,ORD0000710,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Open,2025-08-17 18:35:06.000000,2025-08-22 18:35:06.000000
+TICK00000090,CUST00243,SKU00356,ORD0000717,Return Status Inquiry,Was promised full refund but only got partial amount.,Closed,2025-03-27 07:20:56.000000,2025-03-29 07:20:56.000000
+TICK00000091,CUST00248,SKU00246,ORD0000732,Product Damage Report,Just opened box and glass is completely shattered.,Closed,2024-10-03 08:13:34.000000,2024-10-10 08:13:34.000000
+TICK00000092,CUST00253,SKU00251,ORD0000741,Product Damage Report,Upholstery has tear along the back seam.,In Progress,2024-09-01 00:24:39.000000,
+TICK00000093,CUST00254,SKU00116,ORD0000744,Return Status Inquiry,Return portal won't let me process - says outside window.,Closed,2025-04-16 08:25:44.000000,2025-04-17 08:25:44.000000
+TICK00000094,CUST00255,SKU00013,ORD0000746,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Closed,2025-07-26 15:52:27.000000,
+TICK00000095,CUST00261,SKU00389,ORD0000766,Return Status Inquiry,Return portal won't let me process - says outside window.,In Progress,2025-10-04 23:46:35.000000,
+TICK00000096,CUST00262,SKU00274,ORD0000769,Quality Complaint,Fabric is pilling badly after a few weeks.,Resolved,2024-10-02 02:02:55.000000,2024-10-05 02:02:55.000000
+TICK00000097,CUST00262,SKU00059,ORD0000770,Return Status Inquiry,Was promised full refund but only got partial amount.,Closed,2025-03-26 15:35:46.000000,2025-03-30 15:35:46.000000
+TICK00000098,CUST00269,SKU00387,ORD0000790,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Open,2024-12-11 14:31:21.000000,2024-12-16 14:31:21.000000
+TICK00000099,CUST00272,SKU00049,ORD0000797,Return Status Inquiry,Was promised full refund but only got partial amount.,In Progress,2025-03-13 01:44:02.000000,2025-03-19 01:44:02.000000
+TICK00000100,CUST00277,SKU00088,ORD0000810,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Closed,2025-07-29 08:28:09.000000,
+TICK00000101,CUST00280,SKU00031,ORD0000820,Return Status Inquiry,Was promised full refund but only got partial amount.,Closed,2024-05-11 13:09:16.000000,2024-05-13 13:09:16.000000
+TICK00000102,CUST00280,SKU00021,ORD0000820,Quality Complaint,Finish is already peeling off after 2 months.,Open,2024-04-29 13:09:16.000000,2024-05-06 13:09:16.000000
+TICK00000103,CUST00281,SKU00208,ORD0000825,Return Status Inquiry,Was promised full refund but only got partial amount.,In Progress,2025-07-16 00:27:13.000000,2025-07-22 00:27:13.000000
+TICK00000104,CUST00282,SKU00263,ORD0000830,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Open,2025-04-25 21:12:08.000000,
+TICK00000105,CUST00291,SKU00330,ORD0000848,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Closed,2025-09-18 22:37:31.000000,2025-09-21 22:37:31.000000
+TICK00000106,CUST00291,SKU00275,ORD0000850,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Resolved,2026-02-20 15:44:06.000000,
+TICK00000107,CUST00292,SKU00096,ORD0000852,Return Status Inquiry,Return portal won't let me process - says outside window.,Closed,2024-12-31 14:25:02.000000,2025-01-01 14:25:02.000000
+TICK00000108,CUST00297,SKU00291,ORD0000868,Quality Complaint,Strong chemical odor that still hasn't gone away.,Open,2024-07-28 11:21:59.000000,2024-08-01 11:21:59.000000
+TICK00000109,CUST00304,SKU00034,ORD0000893,Quality Complaint,Weld on metal frame has cracked.,In Progress,2025-06-13 00:37:39.000000,2025-06-14 00:37:39.000000
+TICK00000110,CUST00308,SKU00297,ORD0000906,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Resolved,2024-10-22 07:15:33.000000,2024-10-24 07:15:33.000000
+TICK00000111,CUST00309,SKU00202,ORD0000912,Return Status Inquiry,Return portal won't let me process - says outside window.,Open,2025-06-22 09:08:37.000000,2025-06-29 09:08:37.000000
+TICK00000112,CUST00310,SKU00079,ORD0000916,Return Status Inquiry,Was promised full refund but only got partial amount.,Closed,2026-02-06 23:22:12.000000,2026-02-13 23:22:12.000000
+TICK00000113,CUST00320,SKU00301,ORD0000949,Return Status Inquiry,Return portal won't let me process - says outside window.,Open,2024-12-08 00:03:22.000000,
+TICK00000114,CUST00325,SKU00390,ORD0000964,Quality Complaint,Fabric is pilling badly after a few weeks.,Open,2026-02-06 22:06:50.000000,
+TICK00000115,CUST00328,SKU00148,ORD0000971,Return Status Inquiry,Was promised full refund but only got partial amount.,Open,2025-03-28 06:40:41.000000,
+TICK00000116,CUST00333,SKU00003,ORD0000990,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Open,2026-02-16 07:40:11.000000,2026-02-18 07:40:11.000000
+TICK00000117,CUST00335,SKU00256,ORD0000998,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Resolved,2026-04-02 22:00:13.000000,
+TICK00000118,CUST00337,SKU00188,ORD0001002,Quality Complaint,Finish is already peeling off after 2 months.,Open,2025-09-27 22:29:16.000000,
+TICK00000119,CUST00340,SKU00223,ORD0001009,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Closed,2024-08-06 11:49:56.000000,2024-08-13 11:49:56.000000
+TICK00000120,CUST00342,SKU00264,ORD0001022,Return Status Inquiry,Return portal won't let me process - says outside window.,Open,2024-05-08 08:31:52.000000,2024-05-15 08:31:52.000000
+TICK00000121,CUST00343,SKU00051,ORD0001026,Return Status Inquiry,Return portal won't let me process - says outside window.,Resolved,2026-03-04 21:47:55.000000,
+TICK00000122,CUST00353,SKU00383,ORD0001048,Quality Complaint,Strong chemical odor that still hasn't gone away.,Closed,2025-10-26 16:17:42.000000,2025-11-01 16:17:42.000000
+TICK00000123,CUST00359,SKU00259,ORD0001059,Quality Complaint,Strong chemical odor that still hasn't gone away.,Resolved,2025-10-07 00:33:50.000000,
+TICK00000124,CUST00359,SKU00052,ORD0001061,Product Damage Report,Corner of table is crushed - box was damaged.,Resolved,2024-12-17 15:33:51.000000,
+TICK00000125,CUST00362,SKU00148,ORD0001069,Return Status Inquiry,Return portal won't let me process - says outside window.,In Progress,2025-10-16 03:54:26.000000,2025-10-19 03:54:26.000000
+TICK00000126,CUST00366,SKU00123,ORD0001081,Quality Complaint,Strong chemical odor that still hasn't gone away.,Open,2024-06-02 00:34:10.000000,2024-06-07 00:34:10.000000
+TICK00000127,CUST00367,SKU00147,ORD0001087,Return Status Inquiry,Return portal won't let me process - says outside window.,Open,2024-11-02 02:36:05.000000,
+TICK00000128,CUST00370,SKU00156,ORD0001095,Product Damage Report,Corner of table is crushed - box was damaged.,In Progress,2024-09-05 09:57:38.000000,2024-09-10 09:57:38.000000
+TICK00000129,CUST00373,SKU00051,ORD0001108,Return Status Inquiry,Was promised full refund but only got partial amount.,Closed,2025-04-28 14:53:19.000000,
+TICK00000130,CUST00376,SKU00291,ORD0001114,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Closed,2024-04-21 17:36:43.000000,2024-04-26 17:36:43.000000
+TICK00000131,CUST00378,SKU00373,ORD0001122,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Resolved,2024-09-07 03:18:37.000000,
+TICK00000132,CUST00379,SKU00406,ORD0001129,Quality Complaint,Strong chemical odor that still hasn't gone away.,Resolved,2025-03-28 00:07:23.000000,2025-04-01 00:07:23.000000
+TICK00000133,CUST00380,SKU00348,ORD0001134,Return Status Inquiry,Was promised full refund but only got partial amount.,In Progress,2024-12-08 02:23:15.000000,2024-12-10 02:23:15.000000
+TICK00000134,CUST00380,SKU00254,ORD0001135,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,In Progress,2024-10-03 04:06:19.000000,2024-10-06 04:06:19.000000
+TICK00000135,CUST00381,SKU00184,ORD0001137,Product Damage Report,Upholstery has tear along the back seam.,Open,2026-02-23 05:45:26.000000,2026-02-25 05:45:26.000000
+TICK00000136,CUST00382,SKU00101,ORD0001143,Return Status Inquiry,Return portal won't let me process - says outside window.,In Progress,2025-01-22 05:54:54.000000,
+TICK00000137,CUST00384,SKU00114,ORD0001148,Product Damage Report,Upholstery has tear along the back seam.,In Progress,2024-05-27 11:24:54.000000,2024-06-03 11:24:54.000000
+TICK00000138,CUST00384,SKU00033,ORD0001149,Return Status Inquiry,Was promised full refund but only got partial amount.,In Progress,2026-02-08 03:27:10.000000,2026-02-10 03:27:10.000000
+TICK00000139,CUST00385,SKU00274,ORD0001153,Quality Complaint,Weld on metal frame has cracked.,Open,2024-04-28 17:23:18.000000,2024-05-05 17:23:18.000000
+TICK00000140,CUST00386,SKU00084,ORD0001156,Quality Complaint,Weld on metal frame has cracked.,In Progress,2025-10-05 02:39:37.000000,
+TICK00000141,CUST00389,SKU00407,ORD0001168,Return Status Inquiry,Was promised full refund but only got partial amount.,In Progress,2025-12-24 23:17:28.000000,2025-12-27 23:17:28.000000
+TICK00000142,CUST00389,SKU00144,ORD0001173,Return Status Inquiry,Was promised full refund but only got partial amount.,Closed,2025-01-15 02:10:12.000000,2025-01-16 02:10:12.000000
+TICK00000143,CUST00395,SKU00290,ORD0001187,Product Damage Report,Corner of table is crushed - box was damaged.,In Progress,2025-08-30 09:49:29.000000,2025-09-04 09:49:29.000000
+TICK00000144,CUST00396,SKU00380,ORD0001189,Quality Complaint,Strong chemical odor that still hasn't gone away.,In Progress,2026-03-24 03:05:49.000000,2026-03-31 03:05:49.000000
+TICK00000145,CUST00396,SKU00343,ORD0001194,Return Status Inquiry,Was promised full refund but only got partial amount.,Closed,2025-12-27 23:11:46.000000,
+TICK00000146,CUST00396,SKU00139,ORD0001194,Return Status Inquiry,Return portal won't let me process - says outside window.,Resolved,2025-12-29 23:11:46.000000,2026-01-01 23:11:46.000000
+TICK00000147,CUST00403,SKU00016,ORD0001221,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Open,2026-03-28 21:57:11.025880,
+TICK00000148,CUST00412,SKU00331,ORD0001261,Quality Complaint,Finish is already peeling off after 2 months.,Closed,2025-09-06 09:51:08.000000,2025-09-13 09:51:08.000000
+TICK00000149,CUST00414,SKU00306,ORD0001263,Quality Complaint,Weld on metal frame has cracked.,In Progress,2024-07-15 14:08:56.000000,
+TICK00000150,CUST00414,SKU00372,ORD0001267,Return Status Inquiry,Return portal won't let me process - says outside window.,Closed,2024-05-20 20:55:28.000000,2024-05-22 20:55:28.000000
+TICK00000151,CUST00414,SKU00321,ORD0001268,Quality Complaint,Weld on metal frame has cracked.,Open,2025-08-20 15:37:19.000000,2025-08-22 15:37:19.000000
+TICK00000152,CUST00414,SKU00081,ORD0001269,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",In Progress,2026-03-05 05:45:48.000000,2026-03-11 05:45:48.000000
+TICK00000153,CUST00414,SKU00211,ORD0001269,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Closed,2026-03-13 05:45:48.000000,
+TICK00000154,CUST00416,SKU00002,ORD0001276,Quality Complaint,Finish is already peeling off after 2 months.,In Progress,2024-06-02 12:52:56.000000,
+TICK00000155,CUST00424,SKU00148,ORD0001298,Return Status Inquiry,Was promised full refund but only got partial amount.,Closed,2025-04-06 18:57:50.000000,2025-04-10 18:57:50.000000
+TICK00000156,CUST00424,SKU00215,ORD0001300,Return Status Inquiry,Return portal won't let me process - says outside window.,Open,2025-10-09 05:12:01.000000,2025-10-10 05:12:01.000000
+TICK00000157,CUST00424,SKU00118,ORD0001301,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,In Progress,2025-11-30 15:34:02.000000,
+TICK00000158,CUST00431,SKU00322,ORD0001320,Quality Complaint,Weld on metal frame has cracked.,Open,2025-10-16 14:11:44.000000,2025-10-21 14:11:44.000000
+TICK00000159,CUST00440,SKU00024,ORD0001350,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Resolved,2024-06-17 17:16:59.000000,2024-06-21 17:16:59.000000
+TICK00000160,CUST00449,SKU00352,ORD0001378,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Open,2024-08-04 09:39:37.000000,2024-08-10 09:39:37.000000
+TICK00000161,CUST00451,SKU00268,ORD0001385,Quality Complaint,Finish is already peeling off after 2 months.,Closed,2026-03-07 10:11:26.000000,
+TICK00000162,CUST00453,SKU00365,ORD0001391,Return Status Inquiry,Return portal won't let me process - says outside window.,Resolved,2026-01-06 19:51:37.000000,2026-01-12 19:51:37.000000
+TICK00000163,CUST00460,SKU00228,ORD0001404,Return Status Inquiry,Was promised full refund but only got partial amount.,In Progress,2025-11-18 14:38:22.000000,2025-11-24 14:38:22.000000
+TICK00000164,CUST00463,SKU00380,ORD0001416,Quality Complaint,Finish is already peeling off after 2 months.,Resolved,2025-08-08 04:51:14.000000,
+TICK00000165,CUST00472,SKU00410,ORD0001435,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Resolved,2025-05-08 05:42:18.000000,2025-05-10 05:42:18.000000
+TICK00000166,CUST00473,SKU00085,ORD0001437,Product Damage Report,Huge scratch across entire top surface.,Open,2026-03-27 00:29:02.000000,2026-03-30 00:29:02.000000
+TICK00000167,CUST00475,SKU00154,ORD0001451,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",In Progress,2025-06-29 08:32:10.000000,
+TICK00000168,CUST00476,SKU00403,ORD0001453,Return Status Inquiry,Return portal won't let me process - says outside window.,In Progress,2025-01-10 00:19:38.000000,2025-01-13 00:19:38.000000
+TICK00000169,CUST00481,SKU00353,ORD0001470,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Open,2025-12-18 16:56:08.000000,2025-12-19 16:56:08.000000
+TICK00000170,CUST00484,SKU00390,ORD0001478,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Closed,2024-10-14 21:51:37.000000,2024-10-17 21:51:37.000000
+TICK00000171,CUST00486,SKU00013,ORD0001486,Return Status Inquiry,Was promised full refund but only got partial amount.,Resolved,2024-07-08 06:57:35.000000,2024-07-14 06:57:35.000000
+TICK00000172,CUST00493,SKU00016,ORD0001505,Return Status Inquiry,Return portal won't let me process - says outside window.,In Progress,2025-11-17 06:35:13.000000,2025-11-24 06:35:13.000000
+TICK00000173,CUST00497,SKU00339,ORD0001516,Return Status Inquiry,Was promised full refund but only got partial amount.,Open,2024-08-05 08:59:15.000000,2024-08-06 08:59:15.000000
+TICK00000174,CUST00503,SKU00328,ORD0001538,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Open,2024-10-11 14:39:31.000000,2024-10-17 14:39:31.000000
+TICK00000175,CUST00507,SKU00058,ORD0001543,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Resolved,2025-07-08 11:58:17.000000,2025-07-15 11:58:17.000000
+TICK00000176,CUST00515,SKU00051,ORD0001570,Product Damage Report,Corner of table is crushed - box was damaged.,In Progress,2024-12-01 16:33:38.000000,2024-12-08 16:33:38.000000
+TICK00000177,CUST00515,SKU00304,ORD0001570,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Resolved,2024-11-27 16:33:38.000000,2024-12-02 16:33:38.000000
+TICK00000178,CUST00519,SKU00243,ORD0001580,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Open,2024-08-15 16:49:57.000000,2024-08-21 16:49:57.000000
+TICK00000179,CUST00525,SKU00057,ORD0001604,Return Status Inquiry,Return portal won't let me process - says outside window.,Open,2025-07-29 12:50:53.000000,
+TICK00000180,CUST00537,SKU00373,ORD0001639,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,In Progress,2024-05-21 17:04:20.000000,
+TICK00000181,CUST00538,SKU00166,ORD0001643,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Open,2024-06-14 23:38:28.000000,2024-06-17 23:38:28.000000
+TICK00000182,CUST00540,SKU00384,ORD0001647,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Resolved,2024-09-24 12:07:05.000000,2024-09-26 12:07:05.000000
+TICK00000183,CUST00541,SKU00144,ORD0001649,Return Status Inquiry,Return portal won't let me process - says outside window.,In Progress,2024-07-31 00:40:24.000000,2024-08-04 00:40:24.000000
+TICK00000184,CUST00548,SKU00301,ORD0001668,Quality Complaint,Weld on metal frame has cracked.,In Progress,2025-09-21 07:45:06.000000,2025-09-25 07:45:06.000000
+TICK00000185,CUST00549,SKU00171,ORD0001671,Quality Complaint,Weld on metal frame has cracked.,In Progress,2024-06-29 10:00:57.000000,2024-06-30 10:00:57.000000
+TICK00000186,CUST00549,SKU00294,ORD0001671,Quality Complaint,Fabric is pilling badly after a few weeks.,Resolved,2024-06-17 10:00:57.000000,2024-06-21 10:00:57.000000
+TICK00000187,CUST00549,SKU00036,ORD0001675,Return Status Inquiry,Was promised full refund but only got partial amount.,Resolved,2024-06-04 07:00:09.000000,
+TICK00000188,CUST00557,SKU00199,ORD0001695,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Resolved,2024-08-30 22:22:46.000000,
+TICK00000189,CUST00558,SKU00314,ORD0001697,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Open,2025-08-23 13:07:17.000000,2025-08-27 13:07:17.000000
+TICK00000190,CUST00561,SKU00003,ORD0001706,Return Status Inquiry,Was promised full refund but only got partial amount.,Resolved,2024-07-14 15:51:47.000000,
+TICK00000191,CUST00564,SKU00084,ORD0001713,Quality Complaint,Weld on metal frame has cracked.,Open,2025-02-17 20:03:26.000000,
+TICK00000192,CUST00568,SKU00321,ORD0001726,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Resolved,2025-05-29 13:37:19.000000,2025-05-31 13:37:19.000000
+TICK00000193,CUST00569,SKU00377,ORD0001728,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Open,2024-10-02 01:03:30.000000,2024-10-04 01:03:30.000000
+TICK00000194,CUST00569,SKU00305,ORD0001729,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Resolved,2026-03-30 02:03:18.000000,
+TICK00000195,CUST00572,SKU00049,ORD0001741,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Closed,2024-11-01 06:01:29.000000,2024-11-03 06:01:29.000000
+TICK00000196,CUST00574,SKU00246,ORD0001749,Return Status Inquiry,Was promised full refund but only got partial amount.,Open,2024-06-24 23:07:05.000000,2024-06-28 23:07:05.000000
+TICK00000197,CUST00574,SKU00085,ORD0001749,Product Damage Report,Corner of table is crushed - box was damaged.,In Progress,2024-06-27 23:07:05.000000,2024-07-03 23:07:05.000000
+TICK00000198,CUST00581,SKU00259,ORD0001775,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",In Progress,2025-04-11 21:47:13.000000,2025-04-17 21:47:13.000000
+TICK00000199,CUST00584,SKU00077,ORD0001786,Quality Complaint,Finish is already peeling off after 2 months.,In Progress,2025-04-18 01:56:06.000000,
+TICK00000200,CUST00589,SKU00087,ORD0001800,Quality Complaint,Finish is already peeling off after 2 months.,Closed,2025-05-15 06:51:38.000000,2025-05-16 06:51:38.000000
+TICK00000201,CUST00592,SKU00069,ORD0001805,Quality Complaint,Finish is already peeling off after 2 months.,Closed,2026-01-04 10:59:05.000000,2026-01-11 10:59:05.000000
+TICK00000202,CUST00597,SKU00344,ORD0001823,Quality Complaint,Fabric is pilling badly after a few weeks.,In Progress,2026-01-12 07:56:54.000000,
+TICK00000203,CUST00598,SKU00243,ORD0001825,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Closed,2026-02-14 20:16:24.000000,2026-02-16 20:16:24.000000
+TICK00000204,CUST00610,SKU00306,ORD0001847,Return Status Inquiry,Was promised full refund but only got partial amount.,Open,2025-12-05 23:30:05.000000,2025-12-10 23:30:05.000000
+TICK00000205,CUST00613,SKU00213,ORD0001861,Return Status Inquiry,Was promised full refund but only got partial amount.,Resolved,2025-02-16 16:30:37.000000,
+TICK00000206,CUST00614,SKU00163,ORD0001863,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Resolved,2024-11-05 03:58:23.000000,2024-11-07 03:58:23.000000
+TICK00000207,CUST00616,SKU00072,ORD0001870,Return Status Inquiry,Return portal won't let me process - says outside window.,Open,2024-08-12 05:35:36.000000,
+TICK00000208,CUST00629,SKU00059,ORD0001914,Quality Complaint,Finish is already peeling off after 2 months.,Open,2025-01-08 20:47:02.000000,2025-01-14 20:47:02.000000
+TICK00000209,CUST00630,SKU00076,ORD0001918,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Closed,2024-10-27 09:29:59.000000,
+TICK00000210,CUST00631,SKU00060,ORD0001921,Product Damage Report,Upholstery has tear along the back seam.,In Progress,2024-06-18 08:53:34.000000,2024-06-19 08:53:34.000000
+TICK00000211,CUST00632,SKU00345,ORD0001924,Quality Complaint,Weld on metal frame has cracked.,Resolved,2025-12-28 14:03:22.000000,
+TICK00000212,CUST00632,SKU00244,ORD0001925,Return Status Inquiry,Return portal won't let me process - says outside window.,Resolved,2024-07-18 23:49:54.000000,2024-07-22 23:49:54.000000
+TICK00000213,CUST00632,SKU00254,ORD0001925,Return Status Inquiry,Return portal won't let me process - says outside window.,Open,2024-07-05 23:49:54.000000,2024-07-10 23:49:54.000000
+TICK00000214,CUST00632,SKU00164,ORD0001929,Return Status Inquiry,Return portal won't let me process - says outside window.,Open,2026-02-09 02:11:35.000000,2026-02-10 02:11:35.000000
+TICK00000215,CUST00634,SKU00314,ORD0001934,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Open,2025-09-18 13:41:12.000000,2025-09-25 13:41:12.000000
+TICK00000216,CUST00646,SKU00384,ORD0001975,Quality Complaint,Fabric is pilling badly after a few weeks.,Open,2026-02-07 02:04:24.000000,
+TICK00000217,CUST00647,SKU00303,ORD0001976,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Resolved,2024-10-03 03:09:18.000000,
+TICK00000218,CUST00650,SKU00193,ORD0001984,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Open,2025-12-12 19:42:53.000000,2025-12-17 19:42:53.000000
+TICK00000219,CUST00653,SKU00091,ORD0001992,Return Status Inquiry,Return portal won't let me process - says outside window.,In Progress,2025-12-28 18:59:09.000000,2025-12-30 18:59:09.000000
+TICK00000220,CUST00653,SKU00257,ORD0001993,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,In Progress,2025-08-12 02:10:30.000000,2025-08-19 02:10:30.000000
+TICK00000221,CUST00653,SKU00335,ORD0001994,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Open,2024-08-20 22:22:01.000000,2024-08-22 22:22:01.000000
+TICK00000222,CUST00655,SKU00237,ORD0001997,Return Status Inquiry,Return portal won't let me process - says outside window.,Open,2024-05-26 23:08:00.000000,
+TICK00000223,CUST00655,SKU00381,ORD0001998,Quality Complaint,Finish is already peeling off after 2 months.,Resolved,2025-09-13 10:52:29.000000,2025-09-17 10:52:29.000000
+TICK00000224,CUST00656,SKU00289,ORD0002001,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Closed,2025-02-04 18:19:35.000000,
+TICK00000225,CUST00658,SKU00055,ORD0002008,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",In Progress,2026-02-13 13:18:59.000000,
+TICK00000226,CUST00658,SKU00230,ORD0002008,Return Status Inquiry,Return portal won't let me process - says outside window.,Open,2026-02-22 13:18:59.000000,2026-02-25 13:18:59.000000
+TICK00000227,CUST00662,SKU00072,ORD0002017,Product Damage Report,Just opened box and glass is completely shattered.,Open,2025-06-02 04:01:12.000000,2025-06-06 04:01:12.000000
+TICK00000228,CUST00664,SKU00038,ORD0002026,Quality Complaint,Weld on metal frame has cracked.,Closed,2026-03-06 13:07:32.000000,
+TICK00000229,CUST00667,SKU00396,ORD0002038,Return Status Inquiry,Was promised full refund but only got partial amount.,In Progress,2025-02-09 15:18:36.000000,2025-02-13 15:18:36.000000
+TICK00000230,CUST00667,SKU00133,ORD0002043,Return Status Inquiry,Was promised full refund but only got partial amount.,In Progress,2024-07-07 09:28:28.000000,2024-07-08 09:28:28.000000
+TICK00000231,CUST00678,SKU00311,ORD0002069,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Open,2024-10-09 22:31:37.000000,
+TICK00000232,CUST00679,SKU00412,ORD0002071,Return Status Inquiry,Return portal won't let me process - says outside window.,In Progress,2024-08-14 13:40:44.000000,
+TICK00000233,CUST00680,SKU00279,ORD0002077,Return Status Inquiry,Was promised full refund but only got partial amount.,Closed,2024-08-01 19:06:16.000000,2024-08-03 19:06:16.000000
+TICK00000234,CUST00683,SKU00188,ORD0002085,Return Status Inquiry,Was promised full refund but only got partial amount.,Open,2025-03-17 12:32:48.000000,2025-03-23 12:32:48.000000
+TICK00000235,CUST00687,SKU00071,ORD0002107,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Open,2025-08-19 23:18:45.000000,2025-08-20 23:18:45.000000
+TICK00000236,CUST00696,SKU00355,ORD0002136,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Open,2025-01-21 19:08:37.000000,2025-01-25 19:08:37.000000
+TICK00000237,CUST00705,SKU00298,ORD0002162,Return Status Inquiry,Was promised full refund but only got partial amount.,In Progress,2025-10-31 13:25:35.000000,2025-11-05 13:25:35.000000
+TICK00000238,CUST00709,SKU00138,ORD0002171,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Resolved,2025-04-17 22:11:49.000000,2025-04-24 22:11:49.000000
+TICK00000239,CUST00709,SKU00213,ORD0002172,Product Damage Report,Huge scratch across entire top surface.,In Progress,2024-06-04 03:51:33.000000,2024-06-10 03:51:33.000000
+TICK00000240,CUST00709,SKU00332,ORD0002175,Quality Complaint,Strong chemical odor that still hasn't gone away.,Open,2024-05-24 11:02:22.000000,2024-05-25 11:02:22.000000
+TICK00000241,CUST00711,SKU00098,ORD0002180,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Open,2024-12-30 13:33:49.000000,
+TICK00000242,CUST00711,SKU00387,ORD0002188,Quality Complaint,Weld on metal frame has cracked.,Resolved,2024-11-11 04:32:32.000000,2024-11-13 04:32:32.000000
+TICK00000243,CUST00715,SKU00407,ORD0002196,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Closed,2025-12-16 22:22:23.000000,
+TICK00000244,CUST00716,SKU00100,ORD0002203,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Open,2026-01-16 07:15:14.000000,2026-01-21 07:15:14.000000
+TICK00000245,CUST00718,SKU00309,ORD0002207,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Closed,2025-03-08 03:22:39.000000,2025-03-10 03:22:39.000000
+TICK00000246,CUST00721,SKU00289,ORD0002218,Return Status Inquiry,Return portal won't let me process - says outside window.,In Progress,2026-04-05 08:49:38.000000,2026-04-06 08:49:38.000000
+TICK00000247,CUST00725,SKU00217,ORD0002228,Product Damage Report,Upholstery has tear along the back seam.,Open,2025-08-21 08:58:29.000000,
+TICK00000248,CUST00725,SKU00206,ORD0002228,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Closed,2025-08-12 08:58:29.000000,2025-08-18 08:58:29.000000
+TICK00000249,CUST00731,SKU00332,ORD0002250,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Closed,2025-11-02 23:14:01.000000,2025-11-04 23:14:01.000000
+TICK00000250,CUST00731,SKU00225,ORD0002251,Product Damage Report,Upholstery has tear along the back seam.,In Progress,2026-03-01 05:05:59.000000,2026-03-03 05:05:59.000000
+TICK00000251,CUST00736,SKU00328,ORD0002267,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",In Progress,2025-12-05 21:32:34.000000,2025-12-10 21:32:34.000000
+TICK00000252,CUST00739,SKU00196,ORD0002274,Return Status Inquiry,Return portal won't let me process - says outside window.,Resolved,2025-10-09 02:55:26.000000,2025-10-10 02:55:26.000000
+TICK00000253,CUST00742,SKU00029,ORD0002280,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Resolved,2024-10-23 17:42:14.000000,2024-10-25 17:42:14.000000
+TICK00000254,CUST00742,SKU00119,ORD0002285,Return Status Inquiry,Was promised full refund but only got partial amount.,Resolved,2025-02-07 19:21:16.000000,2025-02-11 19:21:16.000000
+TICK00000255,CUST00744,SKU00153,ORD0002289,Return Status Inquiry,Was promised full refund but only got partial amount.,Open,2024-08-26 14:43:33.000000,2024-09-01 14:43:33.000000
+TICK00000256,CUST00751,SKU00036,ORD0002309,Product Damage Report,Corner of table is crushed - box was damaged.,Closed,2024-09-09 22:37:06.000000,
+TICK00000257,CUST00751,SKU00240,ORD0002310,Product Damage Report,Corner of table is crushed - box was damaged.,In Progress,2025-05-08 01:17:06.000000,2025-05-15 01:17:06.000000
+TICK00000258,CUST00759,SKU00156,ORD0002335,Quality Complaint,Fabric is pilling badly after a few weeks.,Open,2025-10-26 12:36:36.000000,
+TICK00000259,CUST00759,SKU00293,ORD0002338,Quality Complaint,Strong chemical odor that still hasn't gone away.,In Progress,2026-01-19 23:29:34.000000,2026-01-22 23:29:34.000000
+TICK00000260,CUST00760,SKU00387,ORD0002342,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",In Progress,2025-09-17 03:52:02.000000,2025-09-19 03:52:02.000000
+TICK00000261,CUST00761,SKU00088,ORD0002344,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Closed,2025-11-06 13:13:29.000000,
+TICK00000262,CUST00762,SKU00332,ORD0002347,Quality Complaint,Finish is already peeling off after 2 months.,Open,2025-06-20 13:14:17.000000,2025-06-26 13:14:17.000000
+TICK00000263,CUST00763,SKU00348,ORD0002350,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",In Progress,2024-12-26 10:01:44.000000,2024-12-28 10:01:44.000000
+TICK00000264,CUST00763,SKU00099,ORD0002352,Quality Complaint,Fabric is pilling badly after a few weeks.,In Progress,2024-08-17 18:32:31.000000,
+TICK00000265,CUST00765,SKU00209,ORD0002359,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Closed,2026-01-03 22:00:15.000000,
+TICK00000266,CUST00777,SKU00346,ORD0002387,Return Status Inquiry,Return portal won't let me process - says outside window.,Closed,2025-05-03 05:23:44.000000,2025-05-10 05:23:44.000000
+TICK00000267,CUST00782,SKU00301,ORD0002400,Quality Complaint,Finish is already peeling off after 2 months.,Closed,2025-04-17 06:11:29.000000,
+TICK00000268,CUST00787,SKU00095,ORD0002411,Product Damage Report,Upholstery has tear along the back seam.,Resolved,2024-10-02 18:28:12.000000,
+TICK00000269,CUST00794,SKU00344,ORD0002433,Quality Complaint,Strong chemical odor that still hasn't gone away.,Closed,2024-12-09 01:28:32.000000,
+TICK00000270,CUST00798,SKU00258,ORD0002446,Product Damage Report,Huge scratch across entire top surface.,Resolved,2024-07-06 00:03:47.000000,2024-07-07 00:03:47.000000
+TICK00000271,CUST00638,,,Product Damage Report,Just opened box and glass is completely shattered.,In Progress,2026-04-09 21:51:14.658733,2026-04-15 21:51:14.658733
+TICK00000272,CUST00035,SKU00239,,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Closed,2026-04-09 21:51:14.720633,2026-04-12 21:51:14.720633
+TICK00000273,CUST00027,,,Product Damage Report,Just opened box and glass is completely shattered.,Closed,2026-04-09 21:51:14.605139,2026-04-18 21:51:14.605139
+TICK00000274,CUST00070,SKU00012,,Assembly Help,Stuck on step 7 of assembly. Diagram doesn't match pieces.,Open,2026-04-09 21:51:14.842530,2026-04-13 21:51:14.842530
+TICK00000275,CUST00282,SKU00362,ORD0000828,Assembly Help,Stuck on step 7 of assembly. Diagram doesn't match pieces.,Open,2026-04-09 21:51:14.563618,
+TICK00000276,CUST00489,SKU00320,ORD0001494,Missing Parts,Received two left legs and no right leg.,Closed,2026-04-09 21:51:14.825236,2026-04-15 21:51:14.825236
+TICK00000277,CUST00545,SKU00068,ORD0001659,Quality Complaint,Fabric is pilling badly after a few weeks.,Resolved,2026-04-09 21:51:14.028373,2026-04-18 21:51:14.028373
+TICK00000278,CUST00428,SKU00312,ORD0001311,Product Damage Report,Upholstery has tear along the back seam.,In Progress,2026-04-09 21:51:14.045462,
+TICK00000279,CUST00708,SKU00034,ORD0002170,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Resolved,2026-04-09 21:51:14.641454,2026-04-19 21:51:14.641454
+TICK00000280,CUST00450,SKU00361,ORD0001384,Product Damage Report,Corner of table is crushed - box was damaged.,Resolved,2026-04-09 21:51:14.576771,2026-04-16 21:51:14.576771
+TICK00000281,CUST00777,SKU00350,ORD0002388,Quality Complaint,Fabric is pilling badly after a few weeks.,Resolved,2026-04-09 21:51:14.651130,2026-04-11 21:51:14.651130
+TICK00000282,CUST00146,SKU00362,ORD0000433,Product Damage Report,Corner of table is crushed - box was damaged.,In Progress,2026-04-09 21:51:14.766959,
+TICK00000283,CUST00582,SKU00310,ORD0001779,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Resolved,2026-04-09 21:51:14.416587,2026-04-17 21:51:14.416587
+TICK00000284,CUST00699,SKU00029,ORD0002142,Assembly Help,Stuck on step 7 of assembly. Diagram doesn't match pieces.,Resolved,2026-04-09 21:51:14.638991,2026-04-15 21:51:14.638991
+TICK00000285,CUST00219,SKU00273,ORD0000637,Return Status Inquiry,Was promised full refund but only got partial amount.,Open,2026-04-09 21:51:14.498038,2026-04-13 21:51:14.498038
+TICK00000286,CUST00295,SKU00191,ORD0000860,Assembly Help,Cam locks won't tighten properly.,Escalated,2026-04-09 21:51:14.627164,2026-04-17 21:51:14.627164
+TICK00000287,CUST00357,SKU00304,ORD0001055,Quality Complaint,Fabric is pilling badly after a few weeks.,Escalated,2026-04-09 21:51:14.289672,
+TICK00000288,CUST00002,SKU00041,ORD0000007,Product Damage Report,Corner of table is crushed - box was damaged.,Resolved,2026-04-09 21:51:14.956650,2026-04-17 21:51:14.956650
+TICK00000289,CUST00637,SKU00349,ORD0001945,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Open,2026-04-09 21:51:14.482945,2026-04-17 21:51:14.482945
+TICK00000290,CUST00533,SKU00284,ORD0001630,Quality Complaint,Weld on metal frame has cracked.,Closed,2026-04-09 21:51:14.804688,2026-04-12 21:51:14.804688
+TICK00000291,CUST00715,SKU00330,ORD0002200,Return Status Inquiry,Return portal won't let me process - says outside window.,Escalated,2026-04-09 21:51:14.684991,2026-04-15 21:51:14.684991
+TICK00000292,CUST00727,SKU00001,ORD0002237,Assembly Help,Missing Allen wrench that's supposed to be included.,Resolved,2026-04-09 21:51:14.297434,
+TICK00000293,CUST00686,SKU00136,ORD0002098,Delivery Issue,Delivery driver left package in the rain.,Escalated,2026-04-09 21:51:14.072973,2026-04-20 21:51:14.072973
+TICK00000294,CUST00377,SKU00401,ORD0001120,Missing Parts,Hardware packet B is missing from shipment.,In Progress,2026-04-09 21:51:14.059913,2026-04-13 21:51:14.059913
+TICK00000295,CUST00390,,,Quality Complaint,Fabric is pilling badly after a few weeks.,Resolved,2026-04-09 21:51:14.439605,2026-04-15 21:51:14.439605
+TICK00000296,CUST00701,SKU00339,ORD0002149,Product Damage Report,Huge scratch across entire top surface.,Open,2026-04-09 21:51:14.484251,
+TICK00000297,CUST00238,SKU00243,ORD0000699,Delivery Issue,Delivery driver left package in the rain.,Escalated,2026-04-09 21:51:14.204023,2026-04-15 21:51:14.204023
+TICK00000298,CUST00562,SKU00414,,Product Damage Report,Upholstery has tear along the back seam.,Open,2026-04-09 21:51:14.606660,2026-04-12 21:51:14.606660
+TICK00000299,CUST00242,SKU00279,ORD0000713,Quality Complaint,Weld on metal frame has cracked.,Resolved,2026-04-09 21:51:14.312582,2026-04-14 21:51:14.312582
+TICK00000300,CUST00348,SKU00103,ORD0001039,Product Damage Report,Just opened box and glass is completely shattered.,Closed,2026-04-09 21:51:14.718363,2026-04-19 21:51:14.718363
+TICK00000301,CUST00594,SKU00001,ORD0001809,Product Damage Report,Just opened box and glass is completely shattered.,Closed,2026-04-09 21:51:14.734200,2026-04-11 21:51:14.734200
+TICK00000302,CUST00749,SKU00002,ORD0002304,Return Status Inquiry,Was promised full refund but only got partial amount.,Escalated,2026-04-09 21:51:14.860777,
+TICK00000303,CUST00495,,,Delivery Issue,Scheduled delivery window was missed with no communication.,Resolved,2026-04-09 21:51:14.975374,2026-04-15 21:51:14.975374
+TICK00000304,CUST00475,,,Delivery Issue,Delivery driver left package in the rain.,Closed,2026-04-09 21:51:14.130766,2026-04-19 21:51:14.130766
+TICK00000305,CUST00289,SKU00229,ORD0000844,Missing Parts,Remote control is missing from the package.,Closed,2026-04-09 21:51:14.370540,
+TICK00000306,CUST00011,SKU00414,ORD0000036,Quality Complaint,Strong chemical odor that still hasn't gone away.,Resolved,2026-04-09 21:51:14.561651,2026-04-17 21:51:14.561651
+TICK00000307,CUST00301,SKU00203,ORD0000881,Assembly Help,Missing Allen wrench that's supposed to be included.,Escalated,2026-04-09 21:51:14.319116,2026-04-18 21:51:14.319116
+TICK00000308,CUST00680,SKU00092,ORD0002075,Quality Complaint,Weld on metal frame has cracked.,Escalated,2026-04-09 21:51:14.466473,
+TICK00000309,CUST00120,,,Assembly Help,Missing Allen wrench that's supposed to be included.,In Progress,2026-04-09 21:51:14.267472,
+TICK00000310,CUST00027,SKU00277,,Product Damage Report,Upholstery has tear along the back seam.,In Progress,2026-04-09 21:51:14.247919,2026-04-20 21:51:14.247919
+TICK00000311,CUST00042,SKU00264,ORD0000117,Delivery Issue,Tracking shows delivered but I never received anything.,In Progress,2026-04-09 21:51:14.096812,2026-04-13 21:51:14.096812
+TICK00000312,CUST00608,SKU00370,ORD0001844,Quality Complaint,Finish is already peeling off after 2 months.,Open,2026-04-09 21:51:14.290212,2026-04-15 21:51:14.290212
+TICK00000313,CUST00756,SKU00104,ORD0002327,Return Status Inquiry,Return portal won't let me process - says outside window.,Closed,2026-04-09 21:51:14.384150,
+TICK00000314,CUST00175,,,Missing Parts,Received two left legs and no right leg.,In Progress,2026-04-09 21:51:14.615377,2026-04-11 21:51:14.615377
+TICK00000315,CUST00522,SKU00073,ORD0001592,Assembly Help,Missing Allen wrench that's supposed to be included.,Open,2026-04-09 21:51:14.248270,2026-04-14 21:51:14.248270
+TICK00000316,CUST00315,SKU00239,ORD0000932,Delivery Issue,Tracking shows delivered but I never received anything.,Closed,2026-04-09 21:51:14.865308,2026-04-16 21:51:14.865308
+TICK00000317,CUST00038,SKU00225,ORD0000105,Return Status Inquiry,Was promised full refund but only got partial amount.,In Progress,2026-04-09 21:51:14.159700,2026-04-10 21:51:14.159700
+TICK00000318,CUST00222,SKU00143,ORD0000647,Missing Parts,Decorative knobs for drawers weren't in the box.,Closed,2026-04-09 21:51:14.327436,2026-04-18 21:51:14.327436
+TICK00000319,CUST00220,SKU00363,ORD0000640,Assembly Help,Stuck on step 7 of assembly. Diagram doesn't match pieces.,Escalated,2026-04-09 21:51:14.577687,2026-04-16 21:51:14.577687
+TICK00000320,CUST00136,SKU00120,ORD0000384,Assembly Help,Stuck on step 7 of assembly. Diagram doesn't match pieces.,In Progress,2026-04-09 21:51:14.312715,2026-04-15 21:51:14.312715
+TICK00000321,CUST00514,SKU00294,ORD0001567,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Resolved,2026-04-09 21:51:14.763121,2026-04-17 21:51:14.763121
+TICK00000322,CUST00116,SKU00352,ORD0000335,Assembly Help,Missing Allen wrench that's supposed to be included.,Open,2026-04-09 21:51:14.498266,
+TICK00000323,CUST00096,SKU00147,ORD0000277,Missing Parts,Decorative knobs for drawers weren't in the box.,Resolved,2026-04-09 21:51:14.514725,2026-04-12 21:51:14.514725
+TICK00000324,CUST00788,SKU00278,ORD0002414,Missing Parts,Remote control is missing from the package.,In Progress,2026-04-09 21:51:14.498760,
+TICK00000325,CUST00513,SKU00238,,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Open,2026-04-09 21:51:14.308541,2026-04-19 21:51:14.308541
+TICK00000326,CUST00320,SKU00333,ORD0000948,Product Damage Report,Corner of table is crushed - box was damaged.,Escalated,2026-04-09 21:51:14.023176,2026-04-10 21:51:14.023176
+TICK00000327,CUST00211,SKU00344,ORD0000617,Assembly Help,Cam locks won't tighten properly.,Escalated,2026-04-09 21:51:14.945233,2026-04-16 21:51:14.945233
+TICK00000328,CUST00054,SKU00194,ORD0000149,Assembly Help,Pre-drilled holes for drawer slides don't align.,Closed,2026-04-09 21:51:14.505445,2026-04-15 21:51:14.505445
+TICK00000329,CUST00418,SKU00399,ORD0001285,Product Damage Report,Corner of table is crushed - box was damaged.,In Progress,2026-04-09 21:51:14.966687,2026-04-16 21:51:14.966687
+TICK00000330,CUST00696,SKU00333,ORD0002134,Return Status Inquiry,Return portal won't let me process - says outside window.,In Progress,2026-04-09 21:51:14.215144,
+TICK00000331,CUST00129,SKU00074,,Product Damage Report,Huge scratch across entire top surface.,Escalated,2026-04-09 21:51:14.352895,
+TICK00000332,CUST00628,SKU00147,ORD0001912,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Open,2026-04-09 21:51:14.050540,
+TICK00000333,CUST00039,,,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Closed,2026-04-09 21:51:14.494894,2026-04-13 21:51:14.494894
+TICK00000334,CUST00368,SKU00215,ORD0001089,Missing Parts,Received two left legs and no right leg.,Closed,2026-04-09 21:51:14.882339,2026-04-18 21:51:14.882339
+TICK00000335,CUST00414,SKU00215,,Return Status Inquiry,Was promised full refund but only got partial amount.,In Progress,2026-04-09 21:51:14.654260,
+TICK00000336,CUST00402,,,Assembly Help,Cam locks won't tighten properly.,In Progress,2026-04-09 21:51:14.470587,2026-04-16 21:51:14.470587
+TICK00000337,CUST00475,SKU00200,ORD0001451,Missing Parts,Hardware packet B is missing from shipment.,Closed,2026-04-09 21:51:14.536691,
+TICK00000338,CUST00054,SKU00220,,Missing Parts,Decorative knobs for drawers weren't in the box.,Closed,2026-04-09 21:51:14.847172,2026-04-15 21:51:14.847172
+TICK00000339,CUST00593,SKU00338,ORD0001807,Product Damage Report,Upholstery has tear along the back seam.,Open,2026-04-09 21:51:14.430928,2026-04-20 21:51:14.430928
+TICK00000340,CUST00410,SKU00313,,Assembly Help,Pre-drilled holes for drawer slides don't align.,In Progress,2026-04-09 21:51:14.882456,
+TICK00000341,CUST00238,SKU00281,ORD0000699,Product Damage Report,Corner of table is crushed - box was damaged.,Resolved,2026-04-09 21:51:14.727508,2026-04-11 21:51:14.727508
+TICK00000342,CUST00249,,,Quality Complaint,Fabric is pilling badly after a few weeks.,Closed,2026-04-09 21:51:14.763857,
+TICK00000343,CUST00328,SKU00233,ORD0000971,Delivery Issue,Delivery driver left package in the rain.,In Progress,2026-04-09 21:51:14.365937,
+TICK00000344,CUST00715,SKU00037,ORD0002196,Product Damage Report,Corner of table is crushed - box was damaged.,Closed,2026-04-09 21:51:14.400582,
+TICK00000345,CUST00362,SKU00383,,Quality Complaint,Fabric is pilling badly after a few weeks.,Closed,2026-04-09 21:51:14.570282,2026-04-13 21:51:14.570282
+TICK00000346,CUST00254,SKU00269,ORD0000744,Missing Parts,Received two left legs and no right leg.,Open,2026-04-09 21:51:14.194655,2026-04-20 21:51:14.194655
+TICK00000347,CUST00429,SKU00292,ORD0001312,Assembly Help,Missing Allen wrench that's supposed to be included.,In Progress,2026-04-09 21:51:14.553223,2026-04-16 21:51:14.553223
+TICK00000348,CUST00352,SKU00257,ORD0001047,Missing Parts,Hardware packet B is missing from shipment.,Escalated,2026-04-09 21:51:14.073532,
+TICK00000349,CUST00498,SKU00307,ORD0001520,Quality Complaint,Finish is already peeling off after 2 months.,Open,2026-04-09 21:51:14.504256,2026-04-14 21:51:14.504256
+TICK00000350,CUST00398,SKU00178,ORD0001201,Product Damage Report,Upholstery has tear along the back seam.,Resolved,2026-04-09 21:51:14.764404,2026-04-11 21:51:14.764404
+TICK00000351,CUST00768,SKU00026,,Product Damage Report,Corner of table is crushed - box was damaged.,Open,2026-04-09 21:51:14.279721,
+TICK00000352,CUST00668,SKU00047,ORD0002049,Missing Parts,Remote control is missing from the package.,Open,2026-04-09 21:51:14.989091,2026-04-15 21:51:14.989091
+TICK00000353,CUST00149,SKU00355,ORD0000439,Product Damage Report,Huge scratch across entire top surface.,In Progress,2026-04-09 21:51:14.680399,2026-04-17 21:51:14.680399
+TICK00000354,CUST00657,SKU00215,ORD0002005,Return Status Inquiry,Was promised full refund but only got partial amount.,Escalated,2026-04-09 21:51:14.118811,2026-04-19 21:51:14.118811
+TICK00000355,CUST00404,SKU00186,ORD0001224,Quality Complaint,Fabric is pilling badly after a few weeks.,Closed,2026-04-09 21:51:14.975083,2026-04-16 21:51:14.975083
+TICK00000356,CUST00333,SKU00003,ORD0000990,Missing Parts,Decorative knobs for drawers weren't in the box.,Resolved,2026-04-09 21:51:14.393904,2026-04-16 21:51:14.393904
+TICK00000357,CUST00548,SKU00371,ORD0001665,Quality Complaint,Weld on metal frame has cracked.,Resolved,2026-04-09 21:51:14.794897,
+TICK00000358,CUST00676,SKU00222,ORD0002062,Return Status Inquiry,Return portal won't let me process - says outside window.,Closed,2026-04-09 21:51:14.339085,
+TICK00000359,CUST00775,,,Product Damage Report,Upholstery has tear along the back seam.,Resolved,2026-04-09 21:51:14.938949,
+TICK00000360,CUST00741,SKU00254,ORD0002278,Quality Complaint,Weld on metal frame has cracked.,Closed,2026-04-09 21:51:14.754965,
+TICK00000361,CUST00106,SKU00162,ORD0000307,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Open,2026-04-09 21:51:14.199058,2026-04-14 21:51:14.199058
+TICK00000362,CUST00036,SKU00271,ORD0000102,Return Status Inquiry,Return portal won't let me process - says outside window.,Open,2026-04-09 21:51:14.509123,
+TICK00000363,CUST00437,,,Return Status Inquiry,"Initiated return 10 days ago, still no shipping label.",Resolved,2026-04-09 21:51:14.500078,2026-04-11 21:51:14.500078
+TICK00000364,CUST00419,SKU00250,ORD0001287,Quality Complaint,Strong chemical odor that still hasn't gone away.,In Progress,2026-04-09 21:51:14.045303,
+TICK00000365,CUST00721,SKU00251,ORD0002216,Product Damage Report,Upholstery has tear along the back seam.,Closed,2026-04-09 21:51:14.137036,2026-04-11 21:51:14.137036
+TICK00000366,CUST00634,SKU00209,,Missing Parts,Decorative knobs for drawers weren't in the box.,Open,2026-04-09 21:51:14.333041,2026-04-18 21:51:14.333041
+TICK00000367,CUST00550,SKU00151,ORD0001678,Missing Parts,Remote control is missing from the package.,In Progress,2026-04-09 21:51:14.473744,2026-04-14 21:51:14.473744
+TICK00000368,CUST00779,,,Product Damage Report,Just opened box and glass is completely shattered.,Resolved,2026-04-09 21:51:14.456989,2026-04-16 21:51:14.456989
+TICK00000369,CUST00596,SKU00349,ORD0001815,Quality Complaint,Weld on metal frame has cracked.,Open,2026-04-09 21:51:14.606261,2026-04-15 21:51:14.606261
+TICK00000370,CUST00071,SKU00102,,Product Damage Report,Huge scratch across entire top surface.,Open,2026-04-09 21:51:14.515506,2026-04-19 21:51:14.515506
+TICK00000371,CUST00027,SKU00150,ORD0000080,Quality Complaint,Finish is already peeling off after 2 months.,Escalated,2026-04-09 21:51:14.327966,2026-04-13 21:51:14.327966
+TICK00000372,CUST00617,,,Product Damage Report,Corner of table is crushed - box was damaged.,Escalated,2026-04-09 21:51:14.613068,2026-04-14 21:51:14.613068
+TICK00000373,CUST00554,SKU00335,,Delivery Issue,Scheduled delivery window was missed with no communication.,Escalated,2026-04-09 21:51:14.162502,2026-04-10 21:51:14.162502
+TICK00000374,CUST00320,SKU00031,ORD0000946,Delivery Issue,Delivery driver left package in the rain.,Escalated,2026-04-09 21:51:14.990616,2026-04-20 21:51:14.990616
+TICK00000375,CUST00622,SKU00218,ORD0001889,Delivery Issue,Order was supposed to arrive yesterday but tracking hasn't updated.,Open,2026-04-09 21:51:14.739319,
+TICK00000376,CUST00188,SKU00375,ORD0000546,Missing Parts,Remote control is missing from the package.,Open,2026-04-09 21:51:14.299234,2026-04-11 21:51:14.299234
+TICK00000377,CUST00600,SKU00406,ORD0001829,Missing Parts,Decorative knobs for drawers weren't in the box.,In Progress,2026-04-09 21:51:14.336374,
+TICK00000378,CUST00084,SKU00008,ORD0000244,Delivery Issue,Order was supposed to arrive yesterday but tracking hasn't updated.,Open,2026-04-09 21:51:14.828289,2026-04-15 21:51:14.828289
+TICK00000379,CUST00185,SKU00021,,Quality Complaint,Finish is already peeling off after 2 months.,Closed,2026-04-09 21:51:14.532340,2026-04-13 21:51:14.532340
+TICK00000380,CUST00051,SKU00231,ORD0000140,Return Status Inquiry,Return delivered back to you a week ago. When is refund?,Closed,2026-04-09 21:51:14.708740,2026-04-17 21:51:14.708740
+TICK00000381,CUST00577,SKU00004,ORD0001757,Missing Parts,Decorative knobs for drawers weren't in the box.,Resolved,2026-04-09 21:51:14.299791,2026-04-17 21:51:14.299791
+TICK00000382,CUST00281,SKU00019,ORD0000822,Missing Parts,Remote control is missing from the package.,In Progress,2026-04-09 21:51:14.815749,
+TICK00000383,CUST00501,SKU00331,ORD0001528,Product Damage Report,Huge scratch across entire top surface.,In Progress,2026-04-09 21:51:14.368358,2026-04-14 21:51:14.368358
+TICK00000384,CUST00422,SKU00210,ORD0001293,Quality Complaint,Strong chemical odor that still hasn't gone away.,Resolved,2026-04-09 21:51:14.673806,2026-04-18 21:51:14.673806
+TICK00000385,CUST00077,SKU00168,,Delivery Issue,Order was supposed to arrive yesterday but tracking hasn't updated.,Closed,2026-04-09 21:51:14.979898,
+TICK00000386,CUST00149,SKU00171,ORD0000440,Assembly Help,Missing Allen wrench that's supposed to be included.,Open,2026-04-09 21:51:14.583702,2026-04-17 21:51:14.583702
+TICK00000387,CUST00511,SKU00140,ORD0001559,Product Damage Report,Corner of table is crushed - box was damaged.,Open,2026-04-09 21:51:14.796755,2026-04-17 21:51:14.796755
+TICK00000388,CUST00519,SKU00370,ORD0001581,Delivery Issue,Tracking shows delivered but I never received anything.,Escalated,2026-04-09 21:51:14.725324,2026-04-12 21:51:14.725324
+TICK00000389,CUST00722,SKU00003,ORD0002219,Missing Parts,Decorative knobs for drawers weren't in the box.,In Progress,2026-04-09 21:51:14.688044,2026-04-10 21:51:14.688044
+TICK00000390,CUST00270,SKU00304,ORD0000792,Product Damage Report,Upholstery has tear along the back seam.,Open,2026-04-09 21:51:14.026647,2026-04-13 21:51:14.026647
+TICK00000391,CUST00619,SKU00379,,Return Status Inquiry,Return portal won't let me process - says outside window.,Closed,2026-04-09 21:51:14.474590,2026-04-16 21:51:14.474590
+TICK00000392,CUST00244,SKU00142,ORD0000719,Quality Complaint,Weld on metal frame has cracked.,Resolved,2026-04-09 21:51:14.967071,2026-04-13 21:51:14.967071
+TICK00000393,CUST00153,SKU00271,ORD0000449,Product Damage Report,Corner of table is crushed - box was damaged.,Closed,2026-04-09 21:51:14.782904,2026-04-20 21:51:14.782904
+TICK00000394,CUST00729,SKU00379,ORD0002242,Quality Complaint,Fabric is pilling badly after a few weeks.,In Progress,2026-04-09 21:51:14.776162,2026-04-10 21:51:14.776162
+TICK00000395,CUST00452,SKU00211,ORD0001388,Quality Complaint,Weld on metal frame has cracked.,Open,2026-04-09 21:51:14.577634,2026-04-15 21:51:14.577634
+TICK00000396,CUST00789,SKU00335,ORD0002416,Missing Parts,Received two left legs and no right leg.,In Progress,2026-04-09 21:51:14.721400,
+TICK00000397,CUST00474,SKU00012,ORD0001446,Product Damage Report,Huge scratch across entire top surface.,In Progress,2026-04-09 21:51:14.583523,
+TICK00000398,CUST00203,SKU00251,ORD0000591,Assembly Help,Cam locks won't tighten properly.,Resolved,2026-04-09 21:51:14.170512,2026-04-18 21:51:14.170512
+TICK00000399,CUST00146,SKU00242,ORD0000432,Quality Complaint,Strong chemical odor that still hasn't gone away.,Closed,2026-04-09 21:51:14.629025,2026-04-11 21:51:14.629025
+TICK00000400,CUST00256,SKU00130,ORD0000747,Missing Parts,Remote control is missing from the package.,Open,2026-04-09 21:51:14.619736,2026-04-13 21:51:14.619736
+TICK00000401,CUST00429,SKU00185,ORD0001314,Assembly Help,Cam locks won't tighten properly.,Escalated,2026-04-09 21:51:14.841167,
+TICK00000402,CUST00281,SKU00331,ORD0000822,Missing Parts,Remote control is missing from the package.,In Progress,2026-04-09 21:51:14.147776,2026-04-20 21:51:14.147776
+TICK00000403,CUST00018,SKU00390,,Product Damage Report,Huge scratch across entire top surface.,Resolved,2026-04-09 21:51:14.680727,
+TICK00000404,CUST00690,SKU00285,ORD0002111,Return Status Inquiry,Was promised full refund but only got partial amount.,Open,2026-04-09 21:51:14.031570,2026-04-16 21:51:14.031570
+TICK00000405,CUST00758,SKU00167,ORD0002333,Assembly Help,Cam locks won't tighten properly.,In Progress,2026-04-09 21:51:14.948205,2026-04-10 21:51:14.948205
+TICK00000406,CUST00375,SKU00074,ORD0001111,Missing Parts,Remote control is missing from the package.,Resolved,2026-04-09 21:51:14.109895,2026-04-11 21:51:14.109895
+TICK00000407,CUST00170,SKU00018,ORD0000500,Assembly Help,Stuck on step 7 of assembly. Diagram doesn't match pieces.,In Progress,2026-04-09 21:51:14.018937,2026-04-15 21:51:14.018937
+TICK00000408,CUST00559,SKU00018,ORD0001701,Quality Complaint,Strong chemical odor that still hasn't gone away.,Resolved,2026-04-09 21:51:14.313693,2026-04-13 21:51:14.313693
+TICK00000409,CUST00101,,,Missing Parts,Hardware packet B is missing from shipment.,Resolved,2026-04-09 21:51:14.151431,2026-04-16 21:51:14.151431
+TICK00000410,CUST00340,SKU00099,ORD0001011,Return Status Inquiry,Return portal won't let me process - says outside window.,In Progress,2026-04-09 21:51:14.690500,2026-04-18 21:51:14.690500
+TICK00000411,CUST00325,SKU00390,ORD0000964,Assembly Help,Cam locks won't tighten properly.,Open,2026-04-09 21:51:14.410378,2026-04-10 21:51:14.410378
+TICK00000412,CUST00541,SKU00173,ORD0001648,Missing Parts,Received two left legs and no right leg.,In Progress,2026-04-09 21:51:14.774972,2026-04-18 21:51:14.774972
+TICK00000413,CUST00651,SKU00088,,Missing Parts,Hardware packet B is missing from shipment.,In Progress,2026-04-09 21:51:14.920521,2026-04-19 21:51:14.920521
+TICK00000414,CUST00720,SKU00107,,Missing Parts,Hardware packet B is missing from shipment.,Resolved,2026-04-09 21:51:14.872818,2026-04-12 21:51:14.872818
+TICK00000415,CUST00566,SKU00191,,Quality Complaint,Fabric is pilling badly after a few weeks.,Closed,2026-04-09 21:51:14.735837,2026-04-15 21:51:14.735837
+TICK00000416,CUST00626,,,Assembly Help,Pre-drilled holes for drawer slides don't align.,Resolved,2026-04-09 21:51:14.062281,2026-04-12 21:51:14.062281
+TICK00000417,CUST00254,,,Delivery Issue,Delivery driver left package in the rain.,In Progress,2026-04-09 21:51:14.138083,2026-04-11 21:51:14.138083
+TICK00000418,CUST00256,SKU00048,ORD0000747,Quality Complaint,Fabric is pilling badly after a few weeks.,In Progress,2026-04-09 21:51:14.207342,2026-04-17 21:51:14.207342
+TICK00000419,CUST00123,SKU00171,ORD0000354,Missing Parts,Decorative knobs for drawers weren't in the box.,Closed,2026-04-09 21:51:14.325050,
+TICK00000420,CUST00189,SKU00306,ORD0000548,Product Damage Report,Upholstery has tear along the back seam.,Escalated,2026-04-09 21:51:14.662227,2026-04-19 21:51:14.662227
