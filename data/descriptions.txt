@@ -1,0 +1,133 @@
+Products.csv :
+
+sku_id
+product_name
+category
+sub_category
+brand
+price
+material
+color
+finish
+dimensions
+weight
+style
+description_text
+image_url
+Launch_date
+
+Customers.csv:
+
+customer_id
+age_group
+lifestyle_tags (pet_owner, family, single, etc.)
+preferred_styles
+Preferred_colors
+lighting_condition
+avg_spend
+return_rate (historical)
+
+Orders.csv:
+
+order_id
+customer_id
+order_date
+delivery_date
+shipping_time_days
+total_amount
+Payment_type
+
+Oder_items.csv:
+
+order_item_id
+order_id
+sku_id
+quantity
+price_per_unit
+Discount
+
+Reviews.csv:
+
+review_id
+sku_id
+customer_id
+rating
+review_text
+review_title
+sentiment_score
+review_date
+verified_purchase (bool)
+image_uploaded (bool)
+
+
+Returns.csv:
+
+return_id
+order_id
+order_item_id
+sku_id
+customer_id
+return_reason (dropdown)
+return_note (free text)
+return_date
+return_status
+refund_amount
+return_shipping_cost
+condition_received (damaged, unused, etc.)
+
+Customer_support.csv:
+
+ticket_id
+customer_id
+sku_id
+order_id
+issue_type
+issue_text
+resolution_status
+created_at
+Resolved_at
+
+Tags(AI generated):
+
+tag_id
+tag_name (e.g., "too dark", "low durability", "pet friendly")
+tag_type (issue, feature, sentiment)
+
+Product_tags:
+
+sku_id
+tag_id
+confidence_score
+source (review, return, support)
+
+Product_scores:
+
+
+sku_id
+date
+avg_rating
+return_rate
+sentiment_score
+delivery_score
+quality_score
+Value_score
+
+Return_costs.csv:
+
+return_id
+sku_id
+logistics_cost
+restocking_cost
+damage_cost
+lost_value
+Total_return_cost
+
+User_Profile_Embeddings.csv (for personalization magic):
+customer_id
+embedding_vector
+last_updated
+
+Product_Embeddings.csv:
+sku_id
+embedding_vector
+last_updated
